@@ -1,0 +1,2003 @@
+course,course_name,college,major,course_type,course_level,special_course,,,,,
+0,畜禽健康养殖与安全生产,动物科学学院,动物科学（温氏班）,special course,normal,cooperation courses,,,,动物生产，温氏,
+1,动物遗传学,动物科学学院,动物科学（温氏班）,proffessional coure course,national level,cooperation courses,,,,专业核心，国家级课程，温氏,
+2,动物营养学,动物科学学院,动物科学（温氏班）,proffessional coure course,normal,cooperation courses,,,,专业核心，温氏,
+3,动物繁殖学,动物科学学院,动物科学（温氏班）,proffessional coure course,school level,cooperation courses,,,,专业核心，校级课程，温氏,
+4,动物育种学,动物科学学院,动物科学（温氏班）,proffessional coure course,normal,cooperation courses,,,,专业核心，温氏,
+5,动物生产学,动物科学学院,动物科学（温氏班）,proffessional coure course,normal,cooperation courses,,,,专业核心，温氏,
+6,动物免疫防控技术,动物科学学院,动物科学（温氏班）,proffessional coure course,normal,cooperation courses,,,,专业核心，温氏,
+7,饲料学,动物科学学院,动物科学（温氏班）,proffessional coure course,school level,cooperation courses,,,,专业核心，校级课程，温氏,
+8,家畜环境卫生学,动物科学学院,动物科学（温氏班）,proffessional coure course,normal,cooperation courses,,,,专业核心，温氏,
+9,家畜行为学,动物科学学院,动物科学（温氏班）,special course,normal,cooperation courses,,,,动物生产，温氏,
+10,家畜生态学,动物科学学院,动物科学（温氏班）,special course,normal,cooperation courses,,,,动物生产，温氏,
+11,养禽学,动物科学学院,动物科学（温氏班）,special course,normal,cooperation courses,,,,动物生产，温氏,
+12,养猪学,动物科学学院,动物科学（温氏班）,special course,normal,cooperation courses,,,,动物生产，温氏,
+13,基因工程原理,动物科学学院,动物科学（温氏班）,special course,normal,cooperation courses,,,,生物技术，温氏,
+14,动物细胞与胚胎工程,动物科学学院,动物科学（温氏班）,special course,normal,cooperation courses,,,,生物技术，温氏,
+15,基因组学与蛋白质组学,动物科学学院,动物科学（温氏班）,special course,normal,cooperation courses,,,,生物技术，温氏,
+16,动物转基因和生物反应器,动物科学学院,动物科学（温氏班）,special course,normal,cooperation courses,,,,生物技术，温氏,
+17,蛋白质与酶工程,动物科学学院,动物科学（温氏班）,special course,normal,cooperation courses,,,,生物技术，温氏,
+18,细胞生物学,动物科学学院,动物科学（温氏班）,special course,normal,cooperation courses,,,,生物技术，温氏,
+19,发酵工程,动物科学学院,动物科学（温氏班）,special course,normal,cooperation courses,,,,动物营养，温氏,
+20,饲料生物技术,动物科学学院,动物科学（温氏班）,special course,provincial level,cooperation courses,,,,动物营养，省级课程，温氏,
+21,配合饲料生产学,动物科学学院,动物科学（温氏班）,special course,normal,cooperation courses,,,,动物营养，温氏,
+22,饲料添加剂学,动物科学学院,动物科学（温氏班）,special course,normal,cooperation courses,,,,动物营养，温氏,
+23,畜牧自动化,动物科学学院,动物科学（温氏班）,special course,normal,cooperation courses,,,,特色模块，温氏,
+24,动物科学专业英语,动物科学学院,动物科学（温氏班）,special course,normal,cooperation courses,,,,特色模块，温氏,
+25,畜牧产业经济,动物科学学院,动物科学（温氏班）,special course,normal,cooperation courses,,,,特色模块，温氏,
+26,普通兽医学,动物科学学院,动物科学（温氏班）,special course,normal,cooperation courses,,,,特色模块，温氏,
+27,兽医生物制品学,动物科学学院,动物科学（温氏班）,special course,normal,cooperation courses,,,,特色模块，温氏,
+28,领导科学,动物科学学院,动物科学（温氏班）,special course,normal,cooperation courses,,,,特色模块，温氏,
+29,智能养殖,动物科学学院,动物科学（温氏班）,special course,normal,cooperation courses,,,,特色模块，温氏,
+30,畜牧企业管理与市场营销,动物科学学院,动物科学（温氏班）,special course,normal,cooperation courses,,,,特色模块，温氏,
+31,畜产品贮藏与加工学,动物科学学院,动物科学（温氏班）,special course,normal,cooperation courses,,,,特色模块，温氏,
+32,畜牧机械与设备,动物科学学院,动物科学（温氏班）,special course,normal,cooperation courses,,,,特色模块，温氏,
+33,桑树学,动物科学学院,蚕学,proffessional coure course,normal,normal,,,,专业核心,
+34,家蚕饲养与良种繁育学,动物科学学院,蚕学,proffessional coure course,normal,normal,,,,专业核心,
+35,家蚕病理学,动物科学学院,蚕学,proffessional coure course,normal,normal,,,,专业核心,
+36,家蚕遗传育种学,动物科学学院,蚕学,proffessional coure course,normal,normal,,,,专业核心,
+37,茧丝学,动物科学学院,蚕学,proffessional coure course,normal,normal,,,,专业核心,
+38,蚕业资源综合利用,动物科学学院,蚕学,proffessional coure course,normal,normal,,,,专业核心,
+39,蚕业经济管理,动物科学学院,蚕学,proffessional coure course,normal,normal,,,,专业核心,
+40,蚕桑概论,动物科学学院,蚕学,蚕业科学,normal,normal,,,,拓展教育,
+41,分子生物学,动物科学学院,蚕学,生物技术前沿与发展,normal,normal,,,,拓展教育,
+42,转基因技术与应用,动物科学学院,蚕学,生物技术前沿与发展,normal,normal,,,,拓展教育,
+43,细胞生物学,动物科学学院,蚕学,生物技术前沿与发展,normal,normal,,,,拓展教育,
+44,基因组学与蛋白质组学,动物科学学院,蚕学,生物技术前沿与发展,normal,normal,,,,拓展教育,
+45,畜牧学,动物科学学院,蚕学,蚕业科学,normal,normal,,,,拓展教育,
+46,城市昆虫学,动物科学学院,蚕学,蚕业科学,normal,normal,,,,拓展教育,
+47,农业昆虫学,动物科学学院,蚕学,蚕业科学,provincial level,normal,,,,拓展教育，省级课程,
+48,丝绸化学,动物科学学院,蚕学,蚕业科学,normal,normal,,,,拓展教育,
+49,丝纺产品与检测,动物科学学院,蚕学,蚕业科学,normal,normal,,,,拓展教育,
+50,基因工程原理,动物科学学院,蚕学,生物技术前沿与发展,normal,normal,,,,拓展教育,
+51,发酵工程,动物科学学院,蚕学,生物技术前沿与发展,normal,normal,,,,拓展教育,
+52,蛋白质与酶工程,动物科学学院,蚕学,生物技术前沿与发展,normal,normal,,,,拓展教育,
+53,生物技术制药,动物科学学院,蚕学,生物技术前沿与发展,normal,normal,,,,拓展教育,
+54,蚕桑生物技术,动物科学学院,蚕学,蚕业科学,normal,normal,,,,拓展教育,
+55,国际丝绸与贸易,动物科学学院,蚕学,蚕业科学技术与文化拓展,normal,normal,,,,拓展教育,
+56,丝绸文化,动物科学学院,蚕学,蚕业科学技术与文化拓展,normal,normal,,,,拓展教育,
+57,智能养殖,动物科学学院,蚕学,蚕业科学技术与文化拓展,normal,normal,,,,拓展教育,
+58,海洋微生物学,海洋学院,海洋科学,proffessional coure course,normal,normal,,,,专业核心,
+59,海洋浮游生物学,海洋学院,海洋科学,proffessional coure course,normal,normal,,,,专业核心,
+60,海洋底栖生物学,海洋学院,海洋科学,proffessional coure course,normal,normal,,,,专业核心,
+61,海洋环境化学,海洋学院,海洋科学,proffessional coure course,normal,normal,,,,专业核心,
+62,海洋鱼类学,海洋学院,海洋科学,proffessional coure course,normal,normal,,,,专业核心,
+63,海洋生物资源评估,海洋学院,海洋科学,proffessional coure course,normal,normal,,,,专业核心,
+64,海洋生态学,海洋学院,海洋科学,proffessional coure course,normal,normal,,,,专业核心,
+65,海洋环境监测与评价,海洋学院,海洋科学,proffessional coure course,normal,normal,,,,专业核心,
+66,组学与生物信息学,海洋学院,海洋科学,海洋生物分子生物学技术,normal,normal,,,,拓展教育,
+67,海洋生物技术,海洋学院,海洋科学,拓展教育,normal,normal,,,,拓展教育,
+68,海洋生物种质保存理论与技术,海洋学院,海洋科学,数据处理与统计,normal,normal,,,,拓展教育,
+69,潜水理论与水下观测技术,海洋学院,海洋科学,海洋生物评估调查,normal,normal,,,,拓展教育,
+70,海洋牧场,海洋学院,海洋科学,海洋生物资源增值,normal,normal,,,,拓展教育,
+71,海洋地质,海洋学院,海洋科学,拓展教育,normal,normal,,,,拓展教育,
+72,物理海洋学,海洋学院,海洋科学,拓展教育,normal,normal,,,,拓展教育,
+73,海水鱼类资源及养殖利用,海洋学院,海洋科学,拓展教育,normal,normal,,,,拓展教育,
+74,海洋生态工程,海洋学院,海洋科学,拓展教育,normal,normal,,,,拓展教育,
+75,生物资源加工与应用,海洋学院,海洋科学,拓展教育,normal,normal,,,,拓展教育,
+76,海洋生物能源,海洋学院,海洋科学,拓展教育,normal,normal,,,,拓展教育,
+77,海洋藻类学,海洋学院,海洋科学,拓展教育,normal,normal,,,,拓展教育,
+78,海洋生物多样性与保护,海洋学院,海洋科学,拓展教育,normal,normal,,,,拓展教育,
+79,海洋药物学,海洋学院,海洋科学,拓展教育,normal,normal,,,,拓展教育,
+80,海洋病毒学,海洋学院,海洋科学,海洋生物资源增值,normal,normal,,,,拓展教育,
+81,海洋水族科学,海洋学院,海洋科学,拓展教育,normal,normal,,,,拓展教育,
+82,海洋鱼类疾病学,海洋学院,海洋科学,拓展教育,normal,normal,,,,拓展教育,
+83,海洋药用生物,海洋学院,海洋科学,拓展教育,normal,normal,,,,拓展教育,
+84,鱼类生理学,海洋学院,水产养殖学,proffessional coure course,normal,normal,,,,专业核心,
+85,鱼类学,海洋学院,水产养殖学,proffessional coure course,normal,normal,,,,专业核心,
+86,水产动物疾病防治学,海洋学院,水产养殖学,proffessional coure course,normal,normal,,,,专业核心,
+87,养殖水环境化学,海洋学院,水产养殖学,proffessional coure course,normal,normal,,,,专业核心,
+88,水产动物营养与饲料,海洋学院,水产养殖学,proffessional coure course,normal,normal,,,,专业核心,
+89,水产动物免疫学,海洋学院,水产养殖学,拓展教育,normal,normal,,,,拓展教育,
+90,鱼类增养殖学,海洋学院,水产养殖学,理论知识,school level,normal,,,,拓展教育 校级课程,
+91,鱼类病理学,海洋学院,水产养殖学,理论知识,normal,normal,,,,拓展教育,
+92,鱼类生态学,海洋学院,水产养殖学,拓展教育,normal,normal,,,,拓展教育,
+93,养殖水域生态学,海洋学院,水产养殖学,理论知识,normal,normal,,,,拓展教育,
+94,渔药药理学,海洋学院,水产养殖学,理论知识,normal,normal,,,,拓展教育,
+95,水产动物育种学,海洋学院,水产养殖学,拓展教育,normal,normal,,,,拓展教育,
+96,观赏鱼饲养,海洋学院,水产养殖学,拓展教育,normal,normal,,,,拓展教育,
+97,饲料卫生学,海洋学院,水产养殖学,拓展教育,normal,normal,,,,拓展教育,
+98,饲料加工工艺学,海洋学院,拓展教育,拓展教育,normal,normal,,,,拓展教育,
+99,水产饲料添加剂学,海洋学院,水产养殖学,拓展教育,normal,normal,,,,拓展教育,
+100,水产品质量安全控制,海洋学院,水产养殖学,拓展教育,normal,normal,,,,拓展教育,
+101,水生生物多样性与保护,海洋学院,水产养殖学,拓展教育,normal,normal,,,,拓展教育,
+102,水生动物病毒学,海洋学院,水产养殖学,拓展教育,normal,normal,,,,拓展教育,
+103,海洋药用生物,海洋学院,水产养殖学,拓展教育,normal,normal,,,,拓展教育,
+104,潜水理论与水下观测技术,海洋学院,水产养殖学,拓展教育,normal,normal,,,,拓展教育,
+105,观赏植物学,林学与风景园林学院,草业科学,跨学科交叉,normal,normal,,,,拓展教育,
+106,草坪工程学,林学与风景园林学院,草业科学,拓展教育,normal,normal,,,,拓展教育,
+107,草坪灌溉与排水,林学与风景园林学院,草业科学,拓展教育,normal,normal,,,,拓展教育,
+108,运动场草坪,林学与风景园林学院,草业科学,规划设计与管理,normal,normal,,,,拓展教育,
+109,气象学,林学与风景园林学院,草业科学,拓展教育,normal,normal,,,,拓展教育,
+110,草类植物生物技术,林学与风景园林学院,草业科学,理论知识及基本实践技能,normal,normal,,,,拓展教育,
+111,草种子学,林学与风景园林学院,草业科学,拓展教育,normal,normal,,,,拓展教育,
+112,饲草学,林学与风景园林学院,草业科学,饲草相关理论知识及基本实践,normal,normal,,,,拓展教育,
+113,草产品学,林学与风景园林学院,草业科学,饲草相关理论知识及基本实践,normal,normal,,,,拓展教育,
+114,城市绿地规划,林学与风景园林学院,草业科学,园林景观规划设计与管理,normal,normal,,,,拓展教育,
+115,园林植物栽培与养护,林学与风景园林学院,草业科学,园林景观规划设计与管理,normal,normal,,,,拓展教育,
+116,园林建设项目管理,林学与风景园林学院,草业科学,拓展教育,normal,normal,,,,拓展教育,
+117,植被恢复技术,林学与风景园林学院,草业科学,园林景观规划设计与管理,normal,normal,,,,拓展教育,
+118,设施园艺学,林学与风景园林学院,草业科学,跨学科交叉,normal,normal,,,,拓展教育,
+119,城乡规划原理,林学与风景园林学院,城乡规划（乡村振兴）,proffessional coure course,normal,normal,,,,专业核心，乡村振兴,
+120,城市建设史与规划史,林学与风景园林学院,城乡规划（乡村振兴）,proffessional coure course,normal,normal,,,,专业核心，乡村振兴,
+121,地理信息系统应用,林学与风景园林学院,城乡规划（乡村振兴）,proffessional coure course,normal,normal,,,,专业核心，乡村振兴,
+122,城乡生态环境与绿地系统规划,林学与风景园林学院,城乡规划（乡村振兴）,proffessional coure course,normal,normal,,,,专业核心，乡村振兴,
+123,城乡规划设计Ⅱ,林学与风景园林学院,城乡规划（乡村振兴）,proffessional coure course,normal,normal,,,,专业核心，乡村规划,
+124,城乡道路与交通规划,林学与风景园林学院,城乡规划（乡村振兴）,proffessional coure course,normal,normal,,,,专业核心，乡村振兴,
+125,国土空间规划与法规,林学与风景园林学院,城乡规划（乡村振兴）,proffessional coure course,normal,normal,,,,专业核心，乡村振兴,
+126,城乡规划概论,林学与风景园林学院,城乡规划（乡村振兴）, 城乡规划学理论知识及设计 实践,normal,normal,,,,拓展教育，乡村振兴,
+127,设计表现,林学与风景园林学院,城乡规划（乡村振兴）,风景园林学理论知识及设计实践,normal,normal,,,,拓展教育，乡村振兴,
+128,城市地理学,林学与风景园林学院,城乡规划（乡村振兴）,拓展教育,normal,normal,,,,拓展教育，乡村振兴,
+129,乡村旅游规划与设计,林学与风景园林学院,城乡规划（乡村振兴）,城乡规划学理论知识及设计实践,normal,normal,,,,拓展教育，乡村振兴,
+130,国外城市规划理论与实践,林学与风景园林学院,城乡规划（乡村振兴）,学科前沿与 发展,normal,normal,,,,拓展教育，乡村振兴,
+131,观光园规划与管理,林学与风景园林学院,城乡规划（乡村振兴）,城乡规划学理论知识及设计实践,normal,normal,,,,拓展教育，乡村振兴,
+132,环境行为心理,林学与风景园林学院,城乡规划（乡村振兴）,风景园林学理论知识及设计实践,normal,normal,,,,拓展教育，乡村振兴,
+133,土地资源调查与评价,林学与风景园林学院,城乡规划（乡村振兴）,拓展教育,normal,normal,,,,拓展教育，乡村振兴,
+134,中外园林史,林学与风景园林学院,城乡规划（乡村振兴）,风景园林学理论知识及设计实践,normal,normal,,,,拓展教育，乡村振兴,
+135,农业文化遗产概论,林学与风景园林学院,城乡规划（乡村振兴）,拓展教育,normal,normal,,,,拓展教育，乡村振兴,
+136,岭南传统村落保护,林学与风景园林学院,城乡规划（乡村振兴）,城乡规划学理论知识及设计实践,normal,normal,,,,拓展教育，乡村振兴,
+137,乡土植物园林开发与利用,林学与风景园林学院,城乡规划（乡村振兴）,拓展教育,normal,normal,,,,拓展教育，乡村振兴,
+138,休闲农业概论,林学与风景园林学院,城乡规划（乡村振兴）,管理学理论,normal,normal,,,,拓展教育，乡村振兴,
+139,森林旅游与康养,林学与风景园林学院,城乡规划（乡村振兴）,管理学理论,normal,normal,,,,拓展教育，乡村振兴,
+140,景观生态学,林学与风景园林学院,城乡规划（乡村振兴）,风景园林学理论知识及设计实践,normal,normal,,,,拓展教育，乡村振兴,
+141,旅游景区管理与运营,林学与风景园林学院,城乡规划（乡村振兴）,拓展教育,normal,normal,,,,拓展教育，乡村振兴,
+142,风景园林规划设计原理Ⅴ,林学与风景园林学院,风景园林,proffessional coure course,normal,normal,,,,专业核心,
+143,风景园林规划与设计Ⅴ,林学与风景园林学院,风景园林,proffessional coure course,normal,normal,,,,专业核心,
+144,风景园林工程技术与建筑Ⅴ,林学与风景园林学院,风景园林,proffessional coure course,normal,normal,,,,专业核心,
+145,风景园林规划设计原理Ⅳ,林学与风景园林学院,风景园林,proffessional coure course,normal,normal,,,,专业核心,
+146,风景园林规划与设计Ⅳ,林学与风景园林学院,风景园林,proffessional coure course,normal,normal,,,,专业核心,
+147,风景园林工程技术与建筑Ⅳ,林学与风景园林学院,风景园林,proffessional coure course,normal,normal,,,,专业核心,
+148,风景园林遗产保护,林学与风景园林学院,风景园林,理论知识,normal,normal,,,,拓展教育,
+149,岭南传统园林技艺,林学与风景园林学院,风景园林,拓展教育,normal,normal,,,,拓展教育,
+150,国家公园与自然保护地,林学与风景园林学院,风景园林,生态设计,normal,normal,,,,拓展教育,
+151,园林与生态美学,林学与风景园林学院,风景园林,风景园林学与人文博雅基础知识,normal,normal,,,,拓展教育,
+152,山水文化与山水艺术,林学与风景园林学院,风景园林,拓展教育,normal,normal,,,,拓展教育,
+153,公共艺术,林学与风景园林学院,风景园林, 风景园林学与人文博雅基础知识,normal,normal,,,,拓展教育,
+154,建成环境绩效与可持续性,林学与风景园林学院,风景园林,拓展教育,normal,normal,,,,拓展教育,
+155,生态设计,林学与风景园林学院,风景园林,生态设计,normal,normal,,,,拓展教育,
+156,生态技术,林学与风景园林学院,风景园林,生态设计,normal,normal,,,,拓展教育,
+157,园林土壤学,林学与风景园林学院,风景园林,拓展教育,normal,normal,,,,拓展教育,
+158,园林植物造景设计,林学与风景园林学院,风景园林,拓展教育,normal,normal,,,,拓展教育,
+159,风景园林与乡村振兴,林学与风景园林学院,风景园林,生态设计,normal,normal,,,,拓展教育,
+160,城乡绿地系统规划,林学与风景园林学院,风景园林,拓展教育,normal,normal,,,,拓展教育,
+161,设计表达实习,林学与风景园林学院,风景园林,设计表达,normal,normal,,,,拓展教育,
+162,风景写生实习,林学与风景园林学院,风景园林,设计表达,normal,normal,,,,拓展教育,
+163,中国书画实习,林学与风景园林学院,风景园林,设计表达,normal,normal,,,,拓展教育,
+164,古典园林实习,林学与风景园林学院,风景园林,设计表达,normal,normal,,,,拓展教育,
+165,营造实践,林学与风景园林学院,风景园林, 园林风景工程实践,normal,normal,,,,拓展教育,
+166,传统民艺实践,林学与风景园林学院,风景园林,拓展教育,normal,normal,,,,拓展教育,
+167,旅游美学,林学与风景园林学院,风景园林,人文和社会科学素养,normal,normal,,,,拓展教育,
+168,中国建筑史,林学与风景园林学院,风景园林,拓展教育,normal,normal,,,,拓展教育,
+169,外国建筑史,林学与风景园林学院,风景园林, 风景园林历史与遗产理论知识,normal,normal,,,,拓展教育,
+170,岭南历史文化,林学与风景园林学院,风景园林,人文和社会科学素养,normal,normal,,,,拓展教育,
+171,林木育种学,林学与风景园林学院,林学（丁颖创新班）,proffessional coure course,school level,Innovative course,,,,专业核心，校级在线，丁颖创新班,
+172,森林有害生物防治,林学与风景园林学院,林学（丁颖创新班）,proffessional coure course,normal,Innovative course,,,,专业核心，丁颖创新班,
+173,森林生态学,林学与风景园林学院,林学（丁颖创新班）,proffessional coure course,normal,Innovative course,,,,专业核心，丁颖创新班,
+174,森林培育学,林学与风景园林学院,林学（丁颖创新班）,proffessional coure course,normal,Innovative course,,,,专业核心，丁颖创新班,
+175,测树学,林学与风景园林学院,林学（丁颖创新班）,proffessional coure course,normal,Innovative course,,,,专业核心，丁颖创新班,
+176,森林经理学,林学与风景园林学院,林学（丁颖创新班）,proffessional coure course,school level,Innovative course,,,,专业核心，校级在线，丁颖创新班,
+177,林业信息技术,林学与风景园林学院,林学（丁颖创新班）,proffessional coure course,normal,Innovative course,,,,专业核心，丁颖创新班,
+178,野生动植物保护和利用,林学与风景园林学院,林学（丁颖创新班）,proffessional coure course,normal,Innovative course,,,,专业核心，丁颖创新班,
+179,林学与植物学前沿 Ⅰ (全英),林学与风景园林学院,林学（丁颖创新班）,proffessional coure course,normal,Innovative course,,,,专业核心，丁颖创新班,
+180,林学与植物学前沿 Ⅱ (全英),林学与风景园林学院,林学（丁颖创新班）,proffessional coure course,normal,Innovative course,,,,专业核心，丁颖创新班,
+181,林木细胞生物学,林学与风景园林学院,林学（丁颖创新班）,special course,normal,Innovative course,,,,现代林业生物技术，丁颖创新班,
+182,林木基因组与生物信息学,林学与风景园林学院,林学（丁颖创新班）,special course,normal,Innovative course,,,,现代林业生物技术，丁颖创新班,
+183,植物营养学,林学与风景园林学院,林学（丁颖创新班）,special course,provincial level,Innovative course,,,,现代林业生物技术，省级在线，丁颖创新班,
+184,林火生态与管理,林学与风景园林学院,林学（丁颖创新班）,special course,normal,Innovative course,,,,森林资源保护，丁颖创新班,
+185,植物检验检疫学,林学与风景园林学院,林学（丁颖创新班）,special course,normal,Innovative course,,,,森林资源保护，丁颖创新班,
+186,智慧林业概论,林学与风景园林学院,林学（丁颖创新班）,special course,normal,Innovative course,,,,林业信息技术，丁颖创新班,
+187,林业遥感技术,林学与风景园林学院,林学（丁颖创新班）,special course,normal,Innovative course,,,,林业信息技术，丁颖创新班,
+188,森林文化,林学与风景园林学院,林学（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+189,林下经济,林学与风景园林学院,林学（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+190,中药资源学,林学与风景园林学院,林学（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+191,药用植物栽培学,林学与风景园林学院,林学（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+192,林业生态工程学,林学与风景园林学院,林学（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+193,林业试验设计与统计分析,林学与风景园林学院,林学（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+194,森林康养,林学与风景园林学院,林学（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+195,森林旅游,林学与风景园林学院,林学（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+196,林业无人机应用,林学与风景园林学院,林学（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+197,植物组织培养技术,林学与风景园林学院,林学（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+198,花卉学,林学与风景园林学院,林学（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+199,森林文化与美学,林学与风景园林学院,林学（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+200,景观生态学,林学与风景园林学院,林学（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+201,插花艺术,林学与风景园林学院,林学（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+202,林业政策与法规,林学与风景园林学院,林学（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+203,林木病理学,林学与风景园林学院,林学（丁颖创新班）,拓展教育,normal,normal,,,,拓展教育，丁颖创新班,
+204,旅游学概论,林学与风景园林学院,旅游管理,proffessional coure course,normal,normal,,,,专业核心,
+205,旅游经济学 (双语),林学与风景园林学院,旅游管理,proffessional coure course,normal,normal,,,,专业核心,
+206,旅游接待业,林学与风景园林学院,旅游管理,proffessional coure course,normal,normal,,,,专业核心,
+207,景观设计概论,林学与风景园林学院,旅游管理,proffessional coure course,normal,normal,,,,专业核心,
+208,旅游目的地管理,林学与风景园林学院,旅游管理,proffessional coure course,normal,normal,,,,专业核心,
+209,生态旅游学,林学与风景园林学院,旅游管理,proffessional coure course,normal,normal,,,,专业核心,
+210,旅游法规,林学与风景园林学院,旅游管理,proffessional coure course,normal,normal,,,,专业核心,
+211,旅游消费者行为,林学与风景园林学院,旅游管理,proffessional coure course,normal,normal,,,,专业核心,
+212,旅游规划与开发,林学与风景园林学院,旅游管理,proffessional coure course,normal,normal,,,,专业核心,
+213,基础生态学,林学与风景园林学院,旅游管理,special course,normal,normal,,,,生态旅游与自然教育,
+214,野生动物鉴赏,林学与风景园林学院,旅游管理,special course,normal,normal,,,,生态旅游与自然教育,
+215,自然教育与户外游憩,林学与风景园林学院,旅游管理,special course,normal,normal,,,,生态旅游与自然教育,
+216,森林旅游与康养,林学与风景园林学院,旅游管理,special course,normal,normal,,,,生态旅游与自然教育,
+217,国家公园与自然保护地管理,林学与风景园林学院,旅游管理,special course,normal,normal,,,,生态旅游与自然教育,
+218,旅游环境解说,林学与风景园林学院,旅游管理,special course,normal,normal,,,,生态旅游与自然教育,
+219,场地生态学,林学与风景园林学院,旅游管理,special course,normal,normal,,,,旅游规划与景观设计,
+220,设计表现,林学与风景园林学院,旅游管理,special course,normal,normal,,,,旅游规划与景观设计,
+221,园林艺术鉴赏,林学与风景园林学院,旅游管理,special course,normal,normal,,,,旅游规划与景观设计,
+222,景观生态学,林学与风景园林学院,旅游管理,special course,normal,normal,,,,旅游规划与景观设计,
+223,旅游规划制图,林学与风景园林学院,旅游管理,special course,normal,normal,,,,旅游规划与景观设计,
+224,森林公园游憩规划,林学与风景园林学院,旅游管理,special course,normal,normal,,,,旅游规划与景观设计,
+225,乡土植物园林开发与应用,林学与风景园林学院,旅游管理,special course,normal,normal,,,,旅游规划与景观设计,
+226,遥感基础与应用,林学与风景园林学院,旅游管理,special course,normal,normal,,,,旅游规划与景观设计,
+227,旅游礼仪,林学与风景园林学院,旅游管理,special course,normal,normal,,,,文旅产业与乡村振兴,
+228,旅游文化,林学与风景园林学院,旅游管理,special course,normal,normal,,,,文旅产业与乡村振兴,
+229,旅游美学,林学与风景园林学院,旅游管理,special course,normal,normal,,,,文旅产业与乡村振兴,
+230,乡村旅游规划与设计,林学与风景园林学院,旅游管理,special course,normal,normal,,,,文旅产业与乡村振兴,
+231,旅游心理学,林学与风景园林学院,旅游管理,special course,normal,normal,,,,文旅产业与乡村振兴,
+232,旅游社会学,林学与风景园林学院,旅游管理,special course,normal,normal,,,,文旅产业与乡村振兴,
+233,旅游前沿问题,林学与风景园林学院,旅游管理,special course,normal,normal,,,,旅游企业管理与运营,
+234,导游业务,林学与风景园林学院,旅游管理,special course,normal,normal,,,,旅游企业管理与运营,
+235,酒店管理概论,林学与风景园林学院,旅游管理,special course,normal,normal,,,,旅游企业管理与运营,
+236,主要客源国概况,林学与风景园林学院,旅游管理,special course,normal,normal,,,,旅游企业管理与运营,
+237,旅行社经营与管理,林学与风景园林学院,旅游管理,special course,normal,normal,,,,旅游企业管理与运营,
+238,会展旅游管理,林学与风景园林学院,旅游管理,special course,normal,normal,,,,旅游企业管理与运营,
+239,旅游安全学,林学与风景园林学院,旅游管理,special course,normal,normal,,,,旅游企业管理与运营,
+240,旅游电子商务,林学与风景园林学院,旅游管理,special course,normal,normal,,,,旅游企业管理与运营,
+241,普通昆虫学,林学与风景园林学院,旅游管理,proffessional coure course,national level,normal,,,,专业核心，国家级课程,
+242,普通植物病理学(双语),林学与风景园林学院,旅游管理,proffessional coure course,provincial level,normal,,,,专业核心，省级课程,
+243,森林培育学,林学与风景园林学院,森林保护,proffessional coure course,normal,normal,,,,专业核心,
+244,森林昆虫学,林学与风景园林学院,森林保护,proffessional coure course,normal,normal,,,,专业核心,
+245,森林病理学,林学与风景园林学院,森林保护,proffessional coure course,normal,normal,,,,专业核心,
+246,林业有害生物防控,林学与风景园林学院,森林保护,proffessional coure course,normal,normal,,,,专业核心,
+247,森林灾害监测及损失评估,林学与风景园林学院,森林保护,proffessional coure course,normal,normal,,,,专业核心,
+248,森林生态学 (双语),林学与风景园林学院,森林保护,拓展教育,normal,normal,,,,拓展教育,
+249,保护生物学,林学与风景园林学院,森林保护,生态环境保护与建设,normal,normal,,,,拓展教育,
+250,林木遗传与育种,林学与风景园林学院,森林保护,森林培育,normal,normal,,,,拓展教育,
+251,测树学,林学与风景园林学院,森林保护,森林经营管理,normal,normal,,,,拓展教育,
+252,自然保护区学,林学与风景园林学院,森林保护,态环境保护与建设,normal,normal,,,,拓展教育,
+253,野生动物学,林学与风景园林学院,森林保护,森林保护,normal,normal,,,,拓展教育,
+254,植物和微生物资源开发与利用,林学与风景园林学院,森林保护,拓展教育,normal,normal,,,,拓展教育,
+255,多彩菌物世界,林学与风景园林学院,森林保护,拓展教育,normal,normal,,,,拓展教育,
+256,森林大型真菌,林学与风景园林学院,森林保护,拓展教育,normal,normal,,,,拓展教育,
+257,城市昆虫学,林学与风景园林学院,森林保护,动植物方面的开发与应用,normal,normal,,,,拓展教育,
+258,基础分子生物学,林学与风景园林学院,森林保护,拓展教育,normal,normal,,,,拓展教育,
+259,资源昆虫学,林学与风景园林学院,森林保护,森林昆虫学,normal,normal,,,,拓展教育,
+260,森林经理学,林学与风景园林学院,森林保护,森林经营管理，校级课程,school level,normal,,,,拓展教育，校级课程,
+261,林业数理统计,林学与风景园林学院,森林保护,森林经营管理,normal,normal,,,,拓展教育,
+262,3S 技术,林学与风景园林学院,森林保护,拓展教育,normal,normal,,,,拓展教育,
+263,林业规划与设计,林学与风景园林学院,森林保护,森林经营管理,normal,normal,,,,拓展教育,
+264,林业政策与法规,林学与风景园林学院,森林保护,森林经营管理,normal,normal,,,,拓展教育,
+265,动物学,林学与风景园林学院,野生动物和自然保护区管理,proffessional coure course,normal,normal,,,,专业核心,
+266,动物生态学,林学与风景园林学院,野生动物和自然保护区管理,proffessional coure course,normal,normal,,,,专业核心,
+267,保护生物学,林学与风景园林学院,野生动物和自然保护区管理,proffessional coure course,normal,normal,,,,专业核心,
+268,生物地理学,林学与风景园林学院,野生动物和自然保护区管理,proffessional coure course,normal,normal,,,,专业核心,
+269,自然保护区学,林学与风景园林学院,野生动物和自然保护区管理,proffessional coure course,normal,normal,,,,专业核心,
+270,进化生物学,林学与风景园林学院,野生动物和自然保护区管理,proffessional coure course,normal,normal,,,,专业核心,
+271,湿地保护与管理,林学与风景园林学院,野生动物和自然保护区管理,proffessional coure course,normal,normal,,,,专业核心,
+272,自然保护地规划与设计,林学与风景园林学院,野生动物和自然保护区管理,proffessional coure course,normal,normal,,,,专业核心,
+273,植物分类学,林学与风景园林学院,野生动物和自然保护区管理,拓展教育,normal,normal,,,,拓展教育,
+274,微生物学,林学与风景园林学院,野生动物和自然保护区管理,拓展教育,normal,normal,,,,拓展教育,
+275,动物解剖学,林学与风景园林学院,野生动物和自然保护区管理,拓展教育,normal,normal,,,,拓展教育,
+276,遗传学,林学与风景园林学院,野生动物和自然保护区管理,拓展教育,national level,normal,,,,拓展教育，国家级,
+277,气象学,林学与风景园林学院,野生动物和自然保护区管理,理科基础,normal,normal,,,,拓展教育,
+278,动物生理学,林学与风景园林学院,野生动物和自然保护区管理,拓展教育,school level,normal,,,,拓展教育，校级,
+279,动物营养学,林学与风景园林学院,野生动物和自然保护区管理,拓展教育,normal,normal,,,,拓展教育,
+280,土壤学,林学与风景园林学院,野生动物和自然保护区管理,拓展教育,normal,normal,,,,拓展教育,
+281,环境科学概论,林学与风景园林学院,野生动物和自然保护区管理,拓展教育,normal,normal,,,,拓展教育,
+282,动物园学,林学与风景园林学院,野生动物和自然保护区管理,拓展教育,normal,normal,,,,拓展教育,
+283,湿地水文学,林学与风景园林学院,野生动物和自然保护区管理,拓展教育,normal,normal,,,,拓展教育,
+284,野生动物疾病与防治,林学与风景园林学院,野生动物和自然保护区管理,拓展教育,normal,normal,,,,拓展教育,
+285,野生动物救护技术,林学与风景园林学院,野生动物和自然保护区管理,拓展教育,normal,normal,,,,拓展教育,
+286,野生动物标本制作技术,林学与风景园林学院,野生动物和自然保护区管理,拓展教育,normal,normal,,,,拓展教育,
+287,野外调查与监测,林学与风景园林学院,野生动物和自然保护区管理,拓展教育,normal,normal,,,,拓展教育,
+288,环境与资源保护法,林学与风景园林学院,野生动物和自然保护区管理,拓展教育,normal,normal,,,,拓展教育,
+289,生态旅游学,林学与风景园林学院,野生动物和自然保护区管理,拓展教育,normal,normal,,,,拓展教育,
+290,东方园林史,林学与风景园林学院,园林,园林历史与遗产,normal,normal,,,,拓展教育,
+291,西方园林史,林学与风景园林学院,园林,园林历史与遗产,normal,normal,,,,拓展教育,
+292,现当代设计思潮,林学与风景园林学院,园林,设计表达,normal,normal,,,,拓展教育,
+293,基础生态学,林学与风景园林学院,园林,自然科学,normal,normal,,,,拓展教育,
+294,场地生态学,林学与风景园林学院,园林,生态修复,normal,normal,,,,拓展教育,
+295,景观生态学,林学与风景园林学院,园林,生态修复,normal,normal,,,,拓展教育,
+296,风景园林遗产保护,林学与风景园林学院,园林,拓展教育,normal,normal,,,,拓展教育,
+297,岭南传统园林技艺,林学与风景园林学院,园林,园林历史与遗产,normal,normal,,,,拓展教育,
+298,国家公园与自然保护地,林学与风景园林学院,园林,人居环境管理,normal,normal,,,,拓展教育,
+299,建成环境绩效与可持续性,林学与风景园林学院,园林,生态修复,normal,normal,,,,拓展教育,
+300,生态设计,林学与风景园林学院,园林, 生态修复,normal,normal,,,,拓展教育,
+301,生态技术,林学与风景园林学院,园林, 生态修复,normal,normal,,,,拓展教育,
+302,园林植物造景设计,林学与风景园林学院,园林,园林植物应用,normal,normal,,,,拓展教育,
+303,风景园林与乡村振兴,林学与风景园林学院,园林,人居环境管理,normal,normal,,,,拓展教育,
+304,城乡绿地系统规划,林学与风景园林学院,园林, 园林规划设计,normal,normal,,,,拓展教育,
+305,园林土壤学,林学与风景园林学院,园林,拓展教育,normal,normal,,,,拓展教育,
+306,植物生理学,林学与风景园林学院,园林,自然科学,provincial level,normal,,,,拓展教育，省级在线,
+307,园林植物病虫害防治,林学与风景园林学院,园林,园林植物应用,normal,normal,,,,拓展教育,
+308,环境教育与环境运营,林学与风景园林学院,园林,人居环境管理,normal,normal,,,,拓展教育,
+309,风景园林与公共健康,林学与风景园林学院,园林,拓展教育,normal,normal,,,,拓展教育,
+310,园林工程项目管理与环境管理,林学与风景园林学院,园林,拓展教育,normal,normal,,,,拓展教育,
+311,园林植物育种学,林学与风景园林学院,园林,园林植物应用,normal,normal,,,,拓展教育,
+312,花卉生理学,林学与风景园林学院,园林,拓展教育,normal,normal,,,,拓展教育,
+313,花卉栽培学,林学与风景园林学院,园林,园林植物应用,provincial level,normal,,,,拓展教育，省级在线,
+314,花卉设计与应用,林学与风景园林学院,园林,园林植物应用,normal,normal,,,,拓展教育,
+315,中药资源学,林学与风景园林学院,中药资源与开发,proffessional coure course,normal,normal,,,,专业核心,
+316,中药鉴定学,林学与风景园林学院,中药资源与开发,proffessional coure course,normal,normal,,,,专业核心,
+317,药用植物病虫害防治,林学与风景园林学院,中药资源与开发,proffessional coure course,normal,normal,,,,专业核心,
+318,药用植物栽培学,林学与风景园林学院,中药资源与开发,proffessional coure course,normal,normal,,,,专业核心,
+319,药用植物遗传育种,林学与风景园林学院,中药资源与开发,proffessional coure course,normal,normal,,,,专业核心,
+320,中药材加工与炮制学,林学与风景园林学院,中药资源与开发,proffessional coure course,normal,normal,,,,专业核心,
+321,中药质量分析,林学与风景园林学院,中药资源与开发,proffessional coure course,normal,normal,,,,专业核心,
+322,中药资源综合利用与产品开发,林学与风景园林学院,中药资源与开发,proffessional coure course,normal,normal,,,,专业核心,
+323,中医学基础,林学与风景园林学院,中药资源与开发,中药资源,normal,normal,,,,拓展教育,
+324,药用植物生态学,林学与风景园林学院,中药资源与开发,基本知识,normal,normal,,,,拓展教育,
+325,中药药理学,林学与风景园林学院,中药资源与开发,中药开发利用,normal,normal,,,,拓展教育,
+326,中药药剂学,林学与风景园林学院,中药资源与开发,中药开发利用,normal,normal,,,,拓展教育,
+327,药事管理,林学与风景园林学院,中药资源与开发,中药资源与开发行政事务和技术事务管理,normal,normal,,,,拓展教育,
+328,数理统计,林学与风景园林学院,中药资源与开发,中药资源调查统计,normal,normal,,,,拓展教育,
+329,中药研究与开发进展专题,林学与风景园林学院,中药资源与开发,学科发展前沿,normal,normal,,,,拓展教育,
+330,中药饲料添加剂的开发与利用,林学与风景园林学院,中药资源与开发,中药开发利用,normal,normal,,,,拓展教育,
+331,种子学,农学院,农学（丁颖创新班）,proffessional coure course,normal,Innovative course,,,,专业核心，丁颖创新班,
+332,作物栽培学,农学院,农学（丁颖创新班）,proffessional coure course,provincial level,Innovative course,,,,专业核心，省级课程，丁颖创新班,
+333,耕作学,农学院,农学（丁颖创新班）,proffessional coure course,normal,Innovative course,,,,专业核心，丁颖创新班,
+334,作物育种学,农学院,农学（丁颖创新班）,proffessional coure course,school level,Innovative course,,,,专业核心，校级课程，丁颖创新班,
+335,专业概论,农学院,农学（丁颖创新班）,生态文明与可持续发展,normal,Innovative course,,,,拓展教育，丁颖创新班,
+336,科学研究方法,农学院,农学（丁颖创新班）,信息收集与管理,normal,Innovative course,,,,拓展教育，丁颖创新班,
+337,农业机械化及精准农业,农学院,农学（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+338,基础植物病理学,农学院,农学（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+339,基础昆虫学,农学院,农学（丁颖创新班）,农作物生长环境与保护知识,normal,Innovative course,,,,拓展教育，丁颖创新班,
+340,生物信息学 (全英),农学院,农学（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+341,基因工程 (全英),农学院,农学（丁颖创新班）,农作物遗传与育种知识,normal,Innovative course,,,,拓展教育，丁颖创新班,
+342,计算机在农业上的应用,农学院,农学（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+343,基因组学 (全英),农学院,农学（丁颖创新班）,农作物生产标准化与试验设计,normal,Innovative course,,,,拓展教育，丁颖创新班,
+344,农业标准化体系,农学院,农学（丁颖创新班）,农作物生产标准化与试验设计,normal,Innovative course,,,,拓展教育，丁颖创新班,
+345,农业经济学,农学院,农学（丁颖创新班）, 农作物生产标准化与试验设计,provincial level,Innovative course,,,,拓展教育，省级课程，丁颖创新班,
+346,农业推广学,农学院,农学（丁颖创新班）,农作物生产标准化与试验设计,normal,Innovative course,,,,拓展教育，丁颖创新班,
+347,杂草识别及治理 (全英),农学院,农学（丁颖创新班）,农作物生长环境与保护,normal,Innovative course,,,,拓展教育，丁颖创新班,
+348,有害生物综合治理,农学院,农学（丁颖创新班）, 农作物生长环境与保护,normal,Innovative course,,,,拓展教育，丁颖创新班,
+349,农产品安全生产,农学院,农学（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+350,农产品贸易学,农学院,农学（丁颖创新班）,农作物生产标准化与试验设计,normal,Innovative course,,,,拓展教育，丁颖创新班,
+351,作物栽培学专题,农学院,农学（丁颖创新班）, 农作物生产标准化与试验设计,provincial level,Innovative course,,,,拓展教育，省级课程，丁颖创新班,
+352,植物遗传育种专题,农学院,农学（丁颖创新班）,跨文化背景的交流与合作,normal,Innovative course,,,,拓展教育，丁颖创新班,
+353,农业土地利用规划,农学院,农学（丁颖创新班）,农作物生产标准化与试验设计,normal,Innovative course,,,,拓展教育，丁颖创新班,
+354,现代农场管理,农学院,农学（丁颖创新班）,农作物生产标准化与试验设计,normal,Innovative course,,,,拓展教育，丁颖创新班,
+355,WTO 及其农业规则,农学院,农学（丁颖创新班）,全球视野和国际理解,normal,Innovative course,,,,拓展教育，丁颖创新班,
+356,农业设施学,农学院,农学（丁颖创新班）,农作物生产标准化与试验设计,normal,Innovative course,,,,拓展教育，丁颖创新班,
+357,生物防治 (全英),农学院,农学（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+358,植物检疫,农学院,农学（丁颖创新班）,农作物生长环境与保护,normal,Innovative course,,,,拓展教育，丁颖创新班,
+359,作物育种学各论,农学院,农学（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+360,植物化学保护学 (全英),农学院,农学（丁颖创新班）,拓展教育,national level,Innovative course,,,,拓展教育，国家级课程，丁颖创新班,
+361,农产品安全检测 (全英),农学院,农学（丁颖创新班）,农作物生产标准化与试验设计,normal,Innovative course,,,,拓展教育，丁颖创新班,
+362,智慧农业,农学院,农学（丁颖创新班）,跨文化背景的交流与合作,normal,Innovative course,,,,拓展教育，丁颖创新班,
+363,农产品加工学,农学院,农学（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+364,作物育种学,农学院,种子科学与工程,proffessional coure course,school level,normal,,,,专业核心，校级课程,
+365,种子生产学,农学院,种子科学与工程,proffessional coure course,normal,normal,,,,专业核心,
+366,种子检验学 (双语),农学院,种子科学与工程,proffessional coure course,normal,normal,,,,专业核心,
+367,种子加工与贮藏学,农学院,种子科学与工程,proffessional coure course,normal,normal,,,,专业核心,
+368,种子法与植物新品种保护,农学院,种子科学与工程,proffessional coure course,normal,normal,,,,专业核心,
+369,种子经营管理学,农学院,种子科学与工程,proffessional coure course,normal,normal,,,,专业核心,
+370,基础植物病理学,农学院,种子科学与工程,proffessional coure course,normal,normal,,,,专业特色,
+371,基础昆虫学,农学院,种子科学与工程,proffessional coure course,normal,normal,,,,专业特色,
+372,土壤肥料学,农学院,种子科学与工程,proffessional coure course,normal,normal,,,,专业特色,
+373,植物新品种 DUS 测试技术 (全英),农学院,种子科学与工程,proffessional coure course,normal,normal,,,,专业特色,
+374,种子健康鉴定与检疫,农学院,种子科学与工程,proffessional coure course,normal,normal,,,,专业特色,
+375,工厂化种苗生产原理与技术,农学院,种子科学与工程,proffessional coure course,normal,normal,,,,专业特色,
+376,现代种业进展,农学院,种子科学与工程,proffessional coure course,normal,normal,,,,专业特色,
+377,智慧农业,农学院,种子科学与工程,proffessional coure course,normal,normal,,,,专业特色,
+378,种业智能装备,农学院,种子科学与工程,proffessional coure course,normal,normal,,,,专业特色,
+379,微生物学,生命科学学院,生物科学（国家生物学理科基地班）,proffessional coure course,normal,Innovative course,,,,专业核心，国家生物学理科基地班,
+380,细胞生物学,生命科学学院,生物科学（国家生物学理科基地班）,proffessional coure course,normal,Innovative course,,,,专业核心，国家生物学理科基地班,
+381,分子生物学,生命科学学院,生物科学（国家生物学理科基地班）,proffessional coure course,normal,Innovative course,,,,专业核心，国家生物学理科基地班,
+382,遗传学,生命科学学院,生物科学（国家生物学理科基地班）,proffessional coure course,normal,Innovative course,,,,专业核心，国家级课程，国家生物学理科基地班,
+383,生物信息学,生命科学学院,生物科学（国家生物学理科基地班）,proffessional coure course,normal,Innovative course,,,,专业核心，国家生物学理科基地班,
+384,基因工程,生命科学学院,生物科学（国家生物学理科基地班）,proffessional coure course,normal,Innovative course,,,,专业核心，国家生物学理科基地班,
+385,生命科学研究进展,生命科学学院,生物科学（国家生物学理科基地班）,proffessional coure course,normal,Innovative course,,,,专业核心，国家生物学理科基地班,
+386,创新性科研训练,生命科学学院,生物科学（国家生物学理科基地班）,proffessional coure course,normal,Innovative course,,,,专业核心，国家生物学理科基地班,
+387,生物产业发展概述,生命科学学院,生物科学（国家生物学理科基地班）,proffessional coure course,normal,Innovative course,,,,专业拓展，国家生物学理科基地班,
+388,微生物生理学,生命科学学院,生物科学（国家生物学理科基地班）,proffessional coure course,normal,Innovative course,,,,专业拓展，国家生物学理科基地班,
+389,动物生理学 A,生命科学学院,生物科学（国家生物学理科基地班）,proffessional coure course,national level,Innovative course,,,,专业拓展，校级课程，国家生物学理科基地班,
+390,动物生理学实验 B,生命科学学院,生物科学（国家生物学理科基地班）,proffessional coure course,normal,Innovative course,,,,专业拓展，国家生物学理科基地班,
+391,植物生理学,生命科学学院,生物科学（国家生物学理科基地班）,proffessional coure course,provincial level,Innovative course,,,,专业拓展，省级课程，国家生物学理科基地班,
+392,植物生理研究技术,生命科学学院,生物科学（国家生物学理科基地班）,proffessional coure course,normal,Innovative course,,,,专业拓展，国家生物学理科基地班,
+393,实验室安全,生命科学学院,生物科学（国家生物学理科基地班）,special course,normal,Innovative course,,,,生物学研究方法，国家生物学理科基地班,
+394,生物安全学导论,生命科学学院,生物科学（国家生物学理科基地班）,special course,normal,Innovative course,,,,生物学研究方法，国家生物学理科基地班,
+395,仪器分析,生命科学学院,生物科学（国家生物学理科基地班）,special course,normal,Innovative course,,,,生物学研究方法，国家生物学理科基地班,
+396,可视生物学,生命科学学院,生物科学（国家生物学理科基地班）,special course,normal,Innovative course,,,,生物学研究方法，国家生物学理科基地班,
+397,现代生物学实验介绍,生命科学学院,生物科学（国家生物学理科基地班）,special course,normal,Innovative course,,,,生物学研究方法，国家生物学理科基地班,
+398,合成生物学,生命科学学院,生物科学（国家生物学理科基地班）,special course,normal,Innovative course,,,,生物学研究方法，国家生物学理科基地班,
+399,试验统计学,生命科学学院,生物科学（国家生物学理科基地班）,special course,normal,Innovative course,,,,生物学研究方法，国家生物学理科基地班,
+400,试验统计学实验,生命科学学院,生物科学（国家生物学理科基地班）,special course,normal,Innovative course,,,,生物学研究方法，国家生物学理科基地班,
+401,表观遗传学,生命科学学院,生物科学（国家生物学理科基地班）,special course,national level,Innovative course,,,,生物化学与分子生物学方向，国家级课程，国家生物学理科基地班,
+402,分子进化,生命科学学院,生物科学（国家生物学理科基地班）,special course,normal,Innovative course,,,,生物化学与分子生物学方向，国家生物学理科基地班,
+403,病毒学,生命科学学院,生物科学（国家生物学理科基地班）,special course,normal,Innovative course,,,,微生物学方向，国家生物学理科基地班,
+404,应用微生物,生命科学学院,生物科学（国家生物学理科基地班）,special course,normal,Innovative course,,,,微生物学方向，国家生物学理科基地班,
+405,发酵工程,生命科学学院,生物科学（国家生物学理科基地班）,special course,normal,Innovative course,,,,微生物学方向，国家生物学理科基地班,
+406,发酵工程实验技术,生命科学学院,生物科学（国家生物学理科基地班）,special course,normal,Innovative course,,,,微生物学方向，国家生物学理科基地班,
+407,病原微生物,生命科学学院,生物科学（国家生物学理科基地班）,special course,normal,Innovative course,,,,微生物学方向，国家生物学理科基地班,
+408,微生物资源开发与利用,生命科学学院,生物科学（国家生物学理科基地班）,special course,normal,Innovative course,,,,微生物学方向，国家生物学理科基地班,
+409,生物工程下游技术,生命科学学院,生物科学（国家生物学理科基地班）,special course,normal,Innovative course,,,,微生物学方向，国家生物学理科基地班,
+410,生物工程下游技术实验,生命科学学院,生物科学（国家生物学理科基地班）,special course,normal,Innovative course,,,,微生物学方向，国家生物学理科基地班,
+411,植物细胞工程,生命科学学院,生物科学（国家生物学理科基地班）,special course,normal,Innovative course,,,,植物学与生态学方向，国家生物学理科基地班,
+412,植物细胞工程实验技术,生命科学学院,生物科学（国家生物学理科基地班）,special course,normal,Innovative course,,,,植物学与生态学方向，国家生物学理科基地班,
+413,植物发育生理,生命科学学院,生物科学（国家生物学理科基地班）,special course,normal,Innovative course,,,,植物学与生态学方向，国家生物学理科基地班,
+414,植物逆境生理,生命科学学院,生物科学（国家生物学理科基地班）,special course,normal,Innovative course,,,,植物学与生态学方向，国家生物学理科基地班,
+415,海洋生物多样性与保护,生命科学学院,生物科学（国家生物学理科基地班）,special course,normal,Innovative course,,,,动物学方向，国家生物学理科基地班,
+416,水生生物多样性与保护,生命科学学院,生物科学（国家生物学理科基地班）,special course,normal,Innovative course,,,,动物学方向，国家生物学理科基地班,
+417,水族科学,生命科学学院,生物科学（国家生物学理科基地班）,special course,normal,Innovative course,,,,动物学方向，国家生物学理科基地班,
+418,动物营养学,生命科学学院,生物科学（国家生物学理科基地班）,special course,normal,Innovative course,,,,动物学方向，国家生物学理科基地班,
+419,动物细胞与胚胎工程,生命科学学院,生物科学（国家生物学理科基地班）,special course,normal,Innovative course,,,,动物学方向，国家生物学理科基地班,
+420,畜牧学,生命科学学院,生物科学（国家生物学理科基地班）,special course,normal,Innovative course,,,,动物学方向，国家生物学理科基地班,
+421,微生物学,生命科学学院,生物技术专业,proffessional coure course,normal,normal,,,,专业核心,
+422,细胞生物学,生命科学学院,生物技术专业,proffessional coure course,normal,normal,,,,专业核心,
+423,遗传学,生命科学学院,生物技术专业,proffessional coure course,national level,normal,,,,专业核心，国家级课程,
+424,蛋白质与酶工程,生命科学学院,生物技术专业,proffessional coure course,normal,normal,,,,专业核心,
+425,发酵工程,生命科学学院,生物技术专业,proffessional coure course,normal,normal,,,,专业核心,
+426,基因工程,生命科学学院,生物技术专业,proffessional coure course,normal,normal,,,,专业核心,
+427,分子生物学,生命科学学院,生物技术专业,proffessional coure course,normal,normal,,,,专业核心,
+428,生物产业发展概述,生命科学学院,生物技术专业,proffessional coure course,normal,normal,,,,专业核心,
+429,生命科学研究进展,生命科学学院,生物技术专业,curriculum development,normal,normal,,,,专业拓展,
+430,生物信息学,生命科学学院,生物技术专业,curriculum development,normal,normal,,,,专业拓展,
+431,植物细胞工程,生命科学学院,生物技术专业,special course,normal,normal,,,,专业拓展,
+432,功能食品学,生命科学学院,生物技术专业,special course,school level,normal,,,,生物与健康，校级课程,
+433,常用药物及其临床应用,生命科学学院,生物技术专业,special course,normal,normal,,,,生物与健康,
+434,免疫学基础,生命科学学院,生物技术专业,special course,normal,normal,,,,生物与健康,
+435,基因组学,生命科学学院,生物技术专业,special course,normal,normal,,,,生物与健康,
+436,兽医公共卫生学基础,生命科学学院,生物技术专业,special course,normal,normal,,,,生物与健康,
+437,抗生素与细菌耐药性,生命科学学院,生物技术专业,special course,normal,normal,,,,生物与健康,
+438,食品营养学,生命科学学院,生物技术专业,special course,national level,normal,,,,生物与健康，国家级课程,
+439,生物技术制药,生命科学学院,生物技术专业,special course,normal,normal,,,,生物与健康,
+440,兽医药理学,兽医学院,动物药学,proffessional coure course,national level,normal,,,,专业核心，国家级课程，食品安全,
+441,药物化学,兽医学院,动物药学,proffessional coure course,normal,normal,,,,专业核心，食品安全,
+442,兽医药物分析,兽医学院,动物药学,proffessional coure course,normal,normal,,,,专业核心，食品安全,
+443,现代仪器分析,兽医学院,动物药学,proffessional coure course,normal,normal,,,,专业核心，食品安全,
+444,兽医药剂学 A,兽医学院,动物药学,proffessional coure course,normal,normal,,,,专业核心，食品安全,
+445,兽医传染病学,兽医学院,动物药学,proffessional coure course,normal,normal,,,,专业核心，食品安全,
+446,兽医生物制品学,兽医学院,动物药学,proffessional coure course,normal,normal,,,,专业核心，食品安全,
+447,兽药残留分析,兽医学院,动物药学,proffessional coure course,normal,normal,,,,专业核心，食品安全,
+448,兽药毒理学,兽医学院,动物药学,药学理论知识及实验,normal,normal,,,,拓展教育，食品安全,
+449,兽医药物代谢动力学,兽医学院,动物药学, 药学理论知识及实验,normal,normal,,,,拓展教育，食品安全,
+450,兽医公共卫生学,兽医学院,动物药学,拓展教育,normal,normal,,,,拓展教育，食品安全,
+451,动物保健品及其市场营销学,兽医学院,动物药学,拓展教育,normal,normal,,,,拓展教育，食品安全,
+452,食品质量与安全,兽医学院,动物药学,拓展教育,normal,normal,,,,拓展教育，食品安全,
+453,兽医兽药法规及兽药生产管理,兽医学院,动物药学,拓展教育,normal,normal,,,,拓展教育，食品安全,
+454,兽医中药学,兽医学院,动物药学, 药学理论知识及实验,normal,normal,,,,拓展教育，食品安全,
+455,药用高分子材料,兽医学院,动物药学,拓展教育,normal,normal,,,,拓展教育，食品安全,
+456,天然药物化学,兽医学院,动物药学,化学基础知识,normal,normal,,,,拓展教育，食品安全,
+457,药物合成,兽医学院,动物药学,药学理论知识及实验,normal,normal,,,,拓展教育，食品安全,
+458,分子生物学,兽医学院,动物药学,拓展教育,normal,normal,,,,拓展教育，食品安全,
+459,兽医临床诊断与治疗学,兽医学院,动物药学,拓展教育,normal,normal,,,,拓展教育，食品安全,
+460,兽医临床诊断与治疗学实验,兽医学院,动物药学,拓展教育,normal,normal,,,,拓展教育，食品安全,
+461,兽医传染病学,兽医学院,动物医学,proffessional coure course,normal,Innovative course,,,,专业核心，丁颖创新班,
+462,兽医寄生虫学(双语),兽医学院,动物医学,proffessional coure course,school level,Innovative course,,,,专业核心，校级课程，丁颖创新班,
+463,兽医内科学,兽医学院,动物医学,proffessional coure course,normal,Innovative course,,,,专业核心，丁颖创新班,
+464,兽医产科学,兽医学院,动物医学,proffessional coure course,normal,Innovative course,,,,专业核心，丁颖创新班,
+465,兽医外科学,兽医学院,动物医学,proffessional coure course,normal,Innovative course,,,,专业核心，丁颖创新班,
+466,中兽医学,兽医学院,动物医学,proffessional coure course,normal,Innovative course,,,,专业核心，丁颖创新班,
+467,兽医公共卫生学,兽医学院,动物医学,proffessional coure course,normal,Innovative course,,,,专业核心，丁颖创新班,
+468,兽医流行病学,兽医学院,动物医学,proffessional coure course,normal,Innovative course,,,,专业核心，丁颖创新班,
+469,小动物传染病学,兽医学院,动物医学,proffessional coure course,normal,normal,,,,专业核心，小动物疾病防治,
+470,小动物寄生虫学(双语),兽医学院,动物医学,proffessional coure course,normal,normal,,,,专业核心，小动物疾病防治,
+471,小动物内科学,兽医学院,动物医学,proffessional coure course,normal,normal,,,,专业核心，小动物疾病防治,
+472,小动物外科学,兽医学院,动物医学,proffessional coure course,normal,normal,,,,专业核心，小动物疾病防治,
+473,小动物产科学,兽医学院,动物医学,proffessional coure course,normal,normal,,,,专业核心，小动物疾病防治,
+474,兽医微生物学,兽医学院,动物医学,special course,normal,Innovative course,,,,疾病预防与控制，新兽医人才实验班,
+475,兽医免疫学,兽医学院,动物医学,special course,normal,Innovative course,,,,疾病预防与控制，新兽医人才实验班,
+476,兽医传染病学,兽医学院,动物医学,special course,normal,Innovative course,,,,疾病预防与控制，新兽医人才实验班,
+477,禽病学,兽医学院,动物医学,special course,national level,Innovative course,,,,疾病预防与控制，国家级课程，新兽医人才实验班,
+478,兽医寄生虫学,兽医学院,动物医学,special course,school level,Innovative course,,,,疾病预防与控制，校级课程，新兽医人才实验班,
+479,兽医流行病学,兽医学院,动物医学,special course,normal,Innovative course,,,,疾病预防与控制，新兽医人才实验班,
+480,兽医临床诊断学,兽医学院,动物医学,special course,normal,Innovative course,,,,临床与诊断科学，新兽医人才实验班,
+481,中兽医学,兽医学院,动物医学,special course,normal,Innovative course,,,,临床与诊断科学，新兽医人才实验班,
+482,兽医内科学,兽医学院,动物医学,special course,normal,Innovative course,,,,临床与诊断科学，新兽医人才实验班,
+483,兽医外科学,兽医学院,动物医学,special course,normal,Innovative course,,,,临床与诊断科学，新兽医人才实验班,
+484,兽医外科手术学,兽医学院,动物医学,special course,normal,Innovative course,,,,临床与诊断科学，新兽医人才实验班,
+485,兽医产科学,兽医学院,动物医学,special course,normal,Innovative course,,,,临床与诊断科学，新兽医人才实验班,
+486,保健茶开发利用,园艺学院,茶学,proffessional coure course,normal,normal,,,,专业核心,
+487,茶叶贮藏保鲜与包装,园艺学院,茶学,proffessional coure course,normal,normal,,,,专业核心,
+488,茶道艺术与审美实践,园艺学院,茶学,proffessional coure course,normal,normal,,,,专业核心,
+489,茶食品,园艺学院,茶学,proffessional coure course,normal,normal,,,,专业核心,
+490,饮料工艺学,园艺学院,茶学,proffessional coure course,normal,normal,,,,专业核心,
+491,茶叶深加工与综合利用,园艺学院,茶学,proffessional coure course,normal,normal,,,,专业核心,
+492,茶树分子生物学,园艺学院,茶学,拓展教育,normal,normal,,,,拓展教育,
+493,植物饮料资源,园艺学院,茶学,能力提高和拓展,normal,normal,,,,拓展教育,
+494,茶园机械化,园艺学院,茶学,拓展教育,normal,normal,,,,拓展教育,
+495,茶树病虫害防治学,园艺学院,茶学,能力提高和拓展,normal,normal,,,,拓展教育,
+496,茶叶科学前沿专题,园艺学院,茶学,跨门类选修,normal,normal,,,,拓展教育,
+497,茶叶质量控制,园艺学院,茶学,跨门类选修,normal,normal,,,,拓展教育,
+498,中国名茶鉴赏,园艺学院,茶学,跨门类选修,normal,normal,,,,拓展教育,
+499,电子商务概论,园艺学院,茶学,跨门类选修,normal,normal,,,,拓展教育,
+500,茶空间的功能与鉴赏,园艺学院,茶学,跨门类选修,normal,normal,,,,拓展教育,
+501,特种茶鉴赏,园艺学院,茶学,能力提高和拓展,normal,normal,,,,拓展教育,
+502,茶叶品牌营销,园艺学院,茶学,跨门类选修,normal,normal,,,,拓展教育,
+503,园艺概论,园艺学院,园艺（丁颖创新班）,proffessional coure course,normal,Innovative course,,,,专业核心，丁颖创新班,
+504,园艺植物育种学原理,园艺学院,园艺（丁颖创新班）,proffessional coure course,school level,Innovative course,,,,专业核心，校级课程，丁颖创新班,
+505,园艺植物保护学,园艺学院,园艺（丁颖创新班）,proffessional coure course,normal,Innovative course,,,,专业核心，丁颖创新班,
+506,园艺植物栽培学原理 (双语),园艺学院,园艺（丁颖创新班）,proffessional coure course,normal,Innovative course,,,,专业核心，丁颖创新班,
+507,设施园艺学,园艺学院,园艺（丁颖创新班）,proffessional coure course,normal,Innovative course,,,,专业核心，丁颖创新班,
+508,园艺产品贮运学,园艺学院,园艺（丁颖创新班）,proffessional coure course,normal,Innovative course,,,,专业核心，丁颖创新班,
+509,园艺植物生物技术 (双),园艺学院,园艺（丁颖创新班）,proffessional coure course,normal,Innovative course,,,,专业核心，丁颖创新班,
+510,园艺植物种质资源与分类,园艺学院,园艺（丁颖创新班）,专业课程,normal,Innovative course,,,,拓展教育，丁颖创新班,
+511,园艺研究法,园艺学院,园艺（丁颖创新班）,科研能力,normal,Innovative course,,,,拓展教育，丁颖创新班,
+512,园艺植物分子与细胞生物学(全英),园艺学院,园艺（丁颖创新班）,专业课程,normal,Innovative course,,,,拓展教育，丁颖创新班,
+513,果树栽培 (各论),园艺学院,园艺（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+514,蔬菜栽培(各论),园艺学院,园艺（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+515,果树育种 (各论),园艺学院,园艺（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+516,蔬菜育种 (各论),园艺学院,园艺（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+517,园艺植物种子生产原理与技术,园艺学院,园艺（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+518,南方特色果品生产专题 (双语),园艺学院,园艺（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+519,食用菌栽培,园艺学院,园艺（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+520,观赏植物栽培,园艺学院,园艺（丁颖创新班）,产业链知识原理和技术技能,normal,Innovative course,,,,拓展教育，丁颖创新班,
+521,园艺产品营养与功能,园艺学院,园艺（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+522,食品安全与质量控制,园艺学院,园艺（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+523,园艺产品物流与供应链管理,园艺学院,园艺（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+524,果树栽培生理 (双语),园艺学院,园艺（丁颖创新班）,园艺前沿知识,normal,Innovative course,,,,拓展教育，丁颖创新班,
+525,蔬菜栽培生理,园艺学院,园艺（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+526,荔枝学,园艺学院,园艺（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+527,园艺植物有机栽培 (双语),园艺学院,园艺（丁颖创新班）,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+528,农业设施及环境调控,园艺学院,农业设施科学与工程,proffessional coure course,normal,normal,,,,专业核心,
+529,园艺植物保护学,园艺学院,农业设施科学与工程,proffessional coure course,normal,normal,,,,专业核心,
+530,农业设施设计与建造,园艺学院,农业设施科学与工程,proffessional coure course,normal,normal,,,,专业核心,
+531,园艺植物设施栽培学,园艺学院,农业设施科学与工程,proffessional coure course,normal,normal,,,,专业核心,
+532,设施农业科学与工程概,园艺学院,农业设施科学与工程,专业拓展教育,normal,normal,,,,拓展教育,
+533,工厂化育苗与生产,园艺学院,农业设施科学与工程,产业基本原理与技能,normal,normal,,,,拓展教育,
+534,无土栽培学,园艺学院,农业设施科学与工程,产业基本原理与技能,normal,normal,,,,拓展教育,
+535,设施灌溉与施肥,园艺学院,农业设施科学与工程, 灌溉与肥料知识,normal,normal,,,,拓展教育,
+536,建筑概预算,园艺学院,农业设施科学与工程,农业设施设计与建造,normal,normal,,,,拓展教育,
+537,农业机械学,园艺学院,农业设施科学与工程,专业能力提高和拓展,national level,normal,,,,拓展教育，国家级课程,
+538,计算机辅助设计,园艺学院,农业设施科学与工程,计算机基础知识,normal,normal,,,,拓展教育,
+539,遗传学,植物保护学院,植物保护,proffessional coure course,normal,Innovative course,,,,专业核心，丁颖创新班,
+540,分子生物学,植物保护学院,植物保护,proffessional coure course,normal,Innovative course,,,,专业核心，丁颖创新班,
+541,普通昆虫学,植物保护学院,植物保护,proffessional coure course,national level,Innovative course,,,,专业核心，国家级课程，丁颖创新班,
+542,普通植物病理学,植物保护学院,植物保护,proffessional coure course,provincial level,Innovative course,,,,专业核心，省级课程，丁颖创新班,
+543,农业昆虫学,植物保护学院,植物保护,proffessional coure course,provincial level,Innovative course,,,,专业核心，省级课程，丁颖创新班,
+544,农业植物病理学,植物保护学院,植物保护,proffessional coure course,normal,Innovative course,,,,专业核心，丁颖创新班,
+545,植物化学保护学,植物保护学院,植物保护,proffessional coure course,national level,Innovative course,,,,专业核心，国家级课程，丁颖创新班,
+546,丁颖创新课程,植物保护学院,植物保护,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+547,智慧植保,植物保护学院,植物保护,现代工程技术,normal,Innovative course,,,,拓展教育，丁颖创新班,
+548,杂草识别及治理 (全英),植物保护学院,植物保护,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+549,植物线虫学 (全英),植物保护学院,植物保护,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+550,植物检疫,植物保护学院,植物保护,生态环境安全,normal,Innovative course,,,,拓展教育，丁颖创新班,
+551,生物防治 (全英),植物保护学院,植物保护,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+552,生物信息学 (全英),植物保护学院,植物保护,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+553,细胞生物学,植物保护学院,植物保护,拓展教育,normal,Innovative course,,,,拓展教育，丁颖创新班,
+554,植物保护政策法规,植物保护学院,植物保护,人文底蕴和科学精神,normal,Innovative course,,,,拓展教育，丁颖创新班,
+555,农产品安全检测 (全英),植物保护学院,植物保护,食物安全、营养与人类健康,normal,Innovative course,,,,拓展教育，丁颖创新班,
+556,昆虫毒理学 (全英),植物保护学院,植物保护, 可持续发展,normal,Innovative course,,,,拓展教育，丁颖创新班,
+557,植物病毒学 (全英),植物保护学院,植物保护, 生态环境安全,normal,Innovative course,,,,拓展教育，丁颖创新班,
+558,专业概论(环境工程),资源环境学院,环境工程,proffessional coure course,normal,normal,,,,专业核心,
+559,环境工程原理,资源环境学院,环境工程,proffessional coure course,normal,normal,,,,专业核心,
+560,环境微生物学,资源环境学院,环境工程,proffessional coure course,normal,normal,,,,专业核心,
+561,环境监测,资源环境学院,环境工程,proffessional coure course,normal,normal,,,,专业核心,
+562,大气污染控制工程,资源环境学院,环境工程,proffessional coure course,normal,normal,,,,专业核心,
+563,固体废物处理与处置 (双语),资源环境学院,环境工程,proffessional coure course,normal,normal,,,,专业核心,
+564,水污染控制工程 (双语),资源环境学院,环境工程,proffessional coure course,normal,normal,,,,专业核心,
+565,环境工程设计,资源环境学院,环境工程,proffessional coure course,normal,normal,,,,专业核心,
+566,环境生态学,资源环境学院,环境工程,拓展教育,normal,normal,,,,拓展教育,
+567,环境土壤学,资源环境学院,环境工程,拓展教育,normal,normal,,,,拓展教育,
+568,环境化学,资源环境学院,环境工程,基础知识及基本实践技能,normal,normal,,,,拓展教育,
+569,物理性污染控制,资源环境学院,环境工程,物理性污染控制的理论知识,normal,normal,,,,拓展教育,
+570,工程经济学,资源环境学院,环境工程,项目管理,normal,normal,,,,拓展教育,
+571,环境工程设备,资源环境学院,环境工程,解决复杂环境工程问题,normal,normal,,,,拓展教育,
+572,工业水处理,资源环境学院,环境工程,水污染控制工程的理论知识和基本实践技能,normal,normal,,,,拓展教育,
+573,农业环境工程学,资源环境学院,环境工程,拓展教育,normal,normal,,,,拓展教育,
+574,环境工程仪表与自动化,资源环境学院,环境工程,拓展教育,normal,normal,,,,拓展教育,
+575,环境工程专业英语,资源环境学院,环境工程,拓展教育,normal,normal,,,,拓展教育,
+576,环境法规与标准,资源环境学院,环境工程,工程与社会,normal,normal,,,,拓展教育,
+577,危险废物的管理与鉴别,资源环境学院,环境工程,拓展教育,normal,normal,,,,拓展教育,
+578,场地土壤污染调查与修复技术,资源环境学院,环境工程,拓展教育,normal,normal,,,,拓展教育,
+579,固体废物生物处理工程实例,资源环境学院,环境工程,拓展教育,normal,normal,,,,拓展教育,
+580,城市与建筑给排水工程,资源环境学院,环境工程,拓展教育,normal,normal,,,,拓展教育,
+581,环境规划与管理,资源环境学院,环境工程,项目管理,normal,normal,,,,拓展教育,
+582,水体污染修复工程,资源环境学院,环境工程, 水污染控制工程的理论知识和基本实践技能,normal,normal,,,,拓展教育,
+583,农村污水与面源污染治理,资源环境学院,环境工程,拓展教育,normal,normal,,,,拓展教育,
+584,地图学,资源环境学院,地理信息科学,proffessional coure course,normal,normal,,,,专业核心,
+585,地理信息科学专业概论,资源环境学院,地理信息科学,proffessional coure course,normal,normal,,,,专业核心,
+586,地理信息系统原理,资源环境学院,地理信息科学,proffessional coure course,normal,normal,,,,专业核心,
+587,空间分析原理与应用,资源环境学院,地理信息科学,proffessional coure course,normal,normal,,,,专业核心,
+588,地理信息系统应用,资源环境学院,地理信息科学,proffessional coure course,normal,normal,,,,专业核心,
+589,GIS 软件开发,资源环境学院,地理信息科学,proffessional coure course,normal,normal,,,,专业核心,
+590,遥感基础与应用,资源环境学院,地理信息科学,proffessional coure course,normal,normal,,,,专业核心,
+591,土地信息工程,资源环境学院,地理信息科学,proffessional coure course,normal,normal,,,,专业核心,
+592,卫星导航定位原理与应用,资源环境学院,地理信息科学,拓展教育,normal,normal,,,,拓展教育,
+593,遥感数字图像处理,资源环境学院,地理信息科学,遥感,normal,normal,,,,拓展教育,
+594,网络 GIS,资源环境学院,地理信息科学,拓展教育,normal,normal,,,,拓展教育,
+595,GIS 算法基础,资源环境学院,地理信息科学,拓展教育,normal,normal,,,,拓展教育,
+596,物联网技术,资源环境学院,地理信息科学,拓展教育,normal,normal,,,,拓展教育,
+597,GIS 开发新技术,资源环境学院,地理信息科学,拓展教育,normal,normal,,,,拓展教育,
+598,云计算与大数据,资源环境学院,地理信息科学,拓展教育,normal,normal,,,,拓展教育,
+599,GIS 软件工程,资源环境学院,地理信息科学,拓展教育,normal,normal,,,,拓展教育,
+600,数字地图制图,资源环境学院,地理信息科学,测量与制图,normal,normal,,,,拓展教育,
+601,人文地理学,资源环境学院,地理信息科学,地理学基础知识及基本实践技能,normal,normal,,,,拓展教育,
+602,自然资源学,资源环境学院,地理信息科学,拓展教育,normal,normal,,,,拓展教育,
+603,摄影测量学,资源环境学院,地理信息科学,拓展教育,normal,normal,,,,拓展教育,
+604,遥感地学分析,资源环境学院,地理信息科学,拓展教育,normal,normal,,,,拓展教育,
+605,土地资源调查与评价,资源环境学院,地理信息科学,GIS技术应用,normal,normal,,,,拓展教育,
+606,城市管理学,资源环境学院,地理信息科学,拓展教育,normal,normal,,,,拓展教育,
+607,城乡规划原理,资源环境学院,地理信息科学,拓展教育,normal,normal,,,,拓展教育,
+608,国土空间规划,资源环境学院,地理信息科学,GIS技术应用,normal,normal,,,,拓展教育,
+609,资产评估,资源环境学院,地理信息科学,GIS技术应用,normal,normal,,,,拓展教育,
+610,土地整治工程,资源环境学院,地理信息科学,GIS技术应用,normal,normal,,,,拓展教育,
+611,区域分析与规划,资源环境学院,地理信息科学,GIS技术应用,normal,normal,,,,拓展教育,
+612,环境学,资源环境学院,环境科学,proffessional coure course,normal,normal,,,,专业核心,
+613,环境化学,资源环境学院,环境科学,proffessional coure course,normal,normal,,,,专业核心,
+614,环境监测学,资源环境学院,环境科学,proffessional coure course,normal,normal,,,,专业核心,
+615,环境工程学,资源环境学院,环境科学,proffessional coure course,normal,normal,,,,专业核心,
+616,环境土壤学,资源环境学院,环境科学,proffessional coure course,normal,normal,,,,专业核心,
+617,环境评价学,资源环境学院,环境科学,proffessional coure course,normal,normal,,,,专业核心,
+618,环境规划,资源环境学院,环境科学,proffessional coure course,normal,normal,,,,专业核心,
+619,农业环境保护研究前沿,资源环境学院,环境科学,学科前沿与发展,normal,normal,,,,拓展教育,
+620,污染修复生物资源筛选,资源环境学院,环境科学,学科前沿与发展,normal,normal,,,,拓展教育,
+621,植物根系学,资源环境学院,环境科学,学科前沿与发展,normal,normal,,,,拓展教育,
+622,环境材料学,资源环境学院,环境科学,学科前沿与发展,normal,normal,,,,拓展教育,
+623,环境毒理与健康,资源环境学院,环境科学,学科前沿与发展,normal,normal,,,,拓展教育,
+624,环境损害评估,资源环境学院,环境科学,环境影响评价,normal,normal,,,,拓展教育,
+625,污染场地调查与风险评估,资源环境学院,环境科学,拓展教育,normal,normal,,,,拓展教育,
+626,突发环境事件应急处理案例分析,资源环境学院,环境科学,拓展教育,normal,normal,,,,拓展教育,
+627,室内空气污染监控,资源环境学院,环境科学,拓展教育,normal,normal,,,,拓展教育,
+628,环境遥感,资源环境学院,环境科学,拓展教育,normal,normal,,,,拓展教育,
+629,环境法学,资源环境学院,环境科学,环境规划与管理,normal,normal,,,,拓展教育,
+630,环境管理学,资源环境学院,环境科学,环境规划与管理,normal,normal,,,,拓展教育,
+631,区域生态与环境,资源环境学院,环境科学,拓展教育,normal,normal,,,,拓展教育,
+632,清洁生产与循环经济,资源环境学院,环境科学,环境规划与管理,normal,normal,,,,拓展教育,
+633,资源高效利用理论与实践,资源环境学院,环境科学,拓展教育,normal,normal,,,,拓展教育,
+634,数字测图原理与应用,资源环境学院,测绘工程,proffessional coure course,normal,normal,,,,专业核心,
+635,遥感原理与应用,资源环境学院,测绘工程,proffessional coure course,normal,normal,,,,专业核心,
+636,误差理论与测量平差基础,资源环境学院,测绘工程,proffessional coure course,normal,normal,,,,专业核心,
+637,大地测量学基础,资源环境学院,测绘工程,proffessional coure course,normal,normal,,,,专业核心,
+638,卫星导航定位原理与应用,资源环境学院,测绘工程,proffessional coure course,normal,normal,,,,专业核心,
+639,工程测量学,资源环境学院,测绘工程,proffessional coure course,normal,normal,,,,专业核心,
+640,摄影测量,资源环境学院,测绘工程,proffessional coure course,normal,normal,,,,专业核心,
+641,地理信息系统原理,资源环境学院,测绘工程,proffessional coure course,normal,normal,,,,专业核心,
+642,工程制图基础,资源环境学院,测绘工程,拓展教育,normal,normal,,,,拓展教育,
+643,土木工程概论,资源环境学院,测绘工程,拓展教育,normal,normal,,,,拓展教育,
+644,道路勘测设计,资源环境学院,测绘工程,测绘数据分析、 推理和工程应用,normal,normal,,,,拓展教育,
+645,变形观测与数据处理,资源环境学院,测绘工程,拓展教育,normal,normal,,,,拓展教育,
+646,地籍测量,资源环境学院,测绘工程,拓展教育,normal,normal,,,,拓展教育,
+647,遥感地学分析及农业应用,资源环境学院,测绘工程,拓展教育,normal,normal,,,,拓展教育,
+648,遥感数字图像处理,资源环境学院,测绘工程,测绘数据分析、 推理和工程应用,normal,normal,,,,拓展教育,
+649,激光雷达测量,资源环境学院,测绘工程,学科前沿与发展,normal,normal,,,,拓展教育,
+650,空间数据库原理与应用,资源环境学院,测绘工程,拓展教育,normal,normal,,,,拓展教育,
+651,GIS 软件开发,资源环境学院,测绘工程,拓展教育,normal,normal,,,,拓展教育,
+652,数据挖掘与机器学习,资源环境学院,测绘工程,学科前沿与发展,normal,normal,,,,拓展教育,
+653,测量程序设计,资源环境学院,测绘工程,测绘数据分析、 推理和工程应用,normal,normal,,,,拓展教育,
+654,云计算与大数据,资源环境学院,测绘工程,拓展教育,normal,normal,,,,拓展教育,
+655,土地资源调查与评价,资源环境学院,测绘工程,测绘类工程规划设计与管理能力,normal,normal,,,,拓展教育,
+656,资产评估,资源环境学院,测绘工程,测绘类工程规划设计与管理能力,normal,normal,,,,拓展教育,
+657,国土空间规划,资源环境学院,测绘工程,拓展教育,normal,normal,,,,拓展教育,
+658,测绘管理与法律法规,资源环境学院,测绘工程,拓展教育,normal,normal,,,,拓展教育,
+659,当代测绘技术应用(双),资源环境学院,测绘工程,拓展教育,normal,normal,,,,拓展教育,
+660,农业生态学,资源环境学院,测绘工程,拓展教育,normal,normal,,,,拓展教育,
+661,生态工程技术及应用,资源环境学院,测绘工程,拓展教育，国家级课程,national level,normal,,,,拓展教育，国家级课程,
+662,生态学专业概论,资源环境学院,生态学,proffessional coure course,normal,normal,,,,专业核心,
+663,普通生态学 (全英),资源环境学院,生态学,proffessional coure course,school level,normal,,,,专业核心，校级课程,
+664,现代生态学进展,资源环境学院,生态学,proffessional coure course,normal,normal,,,,专业核心,
+665,生态农业工程,资源环境学院,生态学,proffessional coure course,normal,normal,,,,专业核心,
+666,生态治理工程,资源环境学院,生态学,proffessional coure course,normal,normal,,,,专业核心,
+667,生态规划学,资源环境学院,生态学,proffessional coure course,normal,normal,,,,专业核心,
+668,生态环境设计与景观制图,资源环境学院,生态学,proffessional coure course,normal,normal,,,,专业核心,
+669,试验设计与生态统计学,资源环境学院,生态学,proffessional coure course,normal,normal,,,,专业核心,
+670,化学生态学,资源环境学院,生态学,拓展教育,normal,normal,,,,拓展教育,
+671,分子生态学,资源环境学院,生态学,拓展教育,normal,normal,,,,拓展教育,
+672,生态毒理学,资源环境学院,生态学,拓展教育,normal,normal,,,,拓展教育,
+673,入侵生态学,资源环境学院,生态学,拓展教育,normal,normal,,,,拓展教育,
+674,土壤生态学,资源环境学院,生态学,拓展教育,normal,normal,,,,拓展教育,
+675,产业生态学,资源环境学院,生态学,拓展教育,normal,normal,,,,拓展教育,
+676,旅游生态学,资源环境学院,生态学,拓展教育,normal,normal,,,,拓展教育,
+677,城市生态学,资源环境学院,生态学,拓展教育,normal,normal,,,,拓展教育,
+678,资源与生态环境经济学,资源环境学院,生态学,拓展教育,normal,normal,,,,拓展教育,
+679,生态文明建设与生态管理,资源环境学院,生态学,拓展教育,normal,normal,,,,拓展教育,
+680,分子与化学生态检测分析技术,资源环境学院,生态学,拓展教育,normal,normal,,,,拓展教育,
+681,植物分类学,资源环境学院,生态学,拓展教育,normal,normal,,,,拓展教育,
+682,土壤生物调查采样与测定技术,资源环境学院,生态学,拓展教育,normal,normal,,,,拓展教育,
+683,生物多样性调查与采样技术,资源环境学院,生态学,拓展教育,normal,normal,,,,拓展教育,
+684,植物保护技术,资源环境学院,生态学,拓展教育,normal,normal,,,,拓展教育,
+685,作物栽培与耕作技术,资源环境学院,生态学,基本生态学研究技能,normal,normal,,,,拓展教育,
+686,数字地图制图,资源环境学院,生态学,拓展教育,normal,normal,,,,拓展教育,
+687,环境工程设计,资源环境学院,生态学,生态规划与设计,normal,normal,,,,拓展教育,
+688,村镇规划,资源环境学院,生态学,生态规划与设计,normal,normal,,,,拓展教育,
+689,环境影响评价,资源环境学院,生态学,拓展教育,normal,normal,,,,拓展教育,
+690,资源环境科学专业概论,资源环境学院,资源环境科学,proffessional coure course,normal,normal,,,,专业核心,
+691,土壤资源调查与评价,资源环境学院,资源环境科学,proffessional coure course,normal,normal,,,,专业核心,
+692,土壤污染与防治,资源环境学院,资源环境科学,proffessional coure course,normal,normal,,,,专业核心,
+693,作物施肥原理与技术,资源环境学院,资源环境科学,proffessional coure course,normal,normal,,,,专业核心,
+694,水资源利用与管理,资源环境学院,资源环境科学,proffessional coure course,normal,normal,,,,专业核心,
+695,肥料科学与技术,资源环境学院,资源环境科学,proffessional coure course,normal,normal,,,,专业核心,
+696,农产品安全生产,资源环境学院,资源环境科学,拓展教育,normal,normal,,,,拓展教育,
+697,作物栽培与耕作技术,资源环境学院,资源环境科学,拓展教育,normal,normal,,,,拓展教育,
+698,果蔬栽培学,资源环境学院,资源环境科学,拓展教育,normal,normal,,,,拓展教育,
+699,植物保护技术,资源环境学院,资源环境科学,拓展教育,normal,normal,,,,拓展教育,
+700,水土保持学,资源环境学院,资源环境科学,拓展教育,normal,normal,,,,拓展教育,
+701,气象学,资源环境学院,资源环境科学,拓展教育,normal,normal,,,,拓展教育,
+702,环境生物技术,资源环境学院,资源环境科学,拓展教育,normal,normal,,,,拓展教育,
+703,无土栽培原理与技术 (双语),资源环境学院,资源环境科学,拓展教育,normal,normal,,,,拓展教育,
+704,固体废物处理与利用,资源环境学院,资源环境科学,拓展教育,normal,normal,,,,拓展教育,
+705,土壤物理学,资源环境学院,资源环境科学,拓展教育,normal,normal,,,,拓展教育,
+706,土壤化学(双语),资源环境学院,资源环境科学,拓展教育,normal,normal,,,,拓展教育,
+707,土壤生物学,资源环境学院,资源环境科学,拓展教育,normal,normal,,,,拓展教育,
+708,植物营养分子生物学基础,资源环境学院,资源环境科学,拓展教育,normal,normal,,,,拓展教育,
+709,公共管理学,公共管理学院,公共事业管理,proffessional coure course,provincial level,normal,,,,专业基础 省级,
+710,公共管理心理学,公共管理学院,公共事业管理,proffessional coure course,normal,normal,,,,专业核心,
+711,公共关系学,公共管理学院,公共事业管理,proffessional coure course,normal,normal,,,,专业核心,
+712,公共政策学,公共管理学院,公共事业管理,proffessional coure course,school level,normal,,,,专业核心 校级,
+713,公共伦理学,公共管理学院,公共事业管理,proffessional coure course,normal,normal,,,,专业核心,
+714,社会组织管理,公共管理学院,公共事业管理,proffessional coure course,normal,normal,,,,专业核心,
+715,劳动法,公共管理学院,公共事业管理,proffessional coure course,normal,normal,,,,专业核心,
+716,运筹学,公共管理学院,公共事业管理,proffessional coure course,normal,normal,,,,专业核心,
+717,企业管理,公共管理学院,公共事业管理,curriculum development,normal,normal,,,,拓展教育,
+718,宪法与行政法,公共管理学院,公共事业管理,管理能力,normal,normal,,,,拓展教育,
+719,应急管理概论,公共管理学院,公共事业管理,管理能力,normal,normal,,,,拓展教育,
+720,风险管理,公共管理学院,公共事业管理,管理能力,normal,normal,,,,拓展教育,
+721,智慧城市理论与实践,公共管理学院,公共事业管理,管理能力,normal,normal,,,,拓展教育,
+722,大数据与公共管理,公共管理学院,公共事业管理,管理能力,normal,normal,,,,拓展教育,
+723,管理定量分析,公共管理学院,公共事业管理,人力资源,normal,normal,,,,拓展教育,
+724,国家公务员制度,公共管理学院,公共事业管理,管理能力,normal,normal,,,,拓展教育,
+725,管理沟通,公共管理学院,公共事业管理,人力资源,normal,normal,,,,拓展教育,
+726,当代中国社会问题研究,公共管理学院,公共事业管理,curriculum development,normal,normal,,,,拓展教育,
+727,概率论与数理统计,公共管理学院,劳动与社会保障,proffessional coure course,school level,normal,,,,专业核心 校级,
+728,风险管理,公共管理学院,劳动与社会保障,proffessional coure course,normal,normal,,,,专业核心,
+729,养老保障,公共管理学院,劳动与社会保障,proffessional coure course,normal,normal,,,,专业核心,
+730,社会福利与社会救助,公共管理学院,劳动与社会保障,proffessional coure course,normal,normal,,,,专业核心,
+731,劳动经济学,公共管理学院,劳动与社会保障,proffessional coure course,normal,normal,,,,专业核心,
+732,社会保险基金管理,公共管理学院,劳动与社会保障,proffessional coure course,normal,normal,,,,专业核心,
+733,医疗保障,公共管理学院,劳动与社会保障,proffessional coure course,normal,normal,,,,专业核心,
+734,保险精算,公共管理学院,劳动与社会保障,proffessional coure course,normal,normal,,,,专业核心,
+735,社会统计学,公共管理学院,劳动与社会保障,社会科学,normal,normal,,,,拓展教育,
+736,人口学,公共管理学院,劳动与社会保障,社会保障,normal,normal,,,,拓展教育,
+737,财政学概论,公共管理学院,劳动与社会保障,金融经济,normal,normal,,,,拓展教育,
+738,财务管理,公共管理学院,劳动与社会保障,金融经济,school level,normal,,,,拓展教育 校级,
+739,社会福利思想,公共管理学院,劳动与社会保障,社会保障,normal,normal,,,,拓展教育,
+740,劳动关系学,公共管理学院,劳动与社会保障,劳动就业,normal,normal,,,,拓展教育,
+741,房地产开发与经营,公共管理学院,房地产开发与管理,proffessional coure course,normal,normal,,,,专业核心,
+742,房地产经济学,公共管理学院,房地产开发与管理,proffessional coure course,normal,normal,,,,专业核心,
+743,城市规划,公共管理学院,房地产开发与管理,proffessional coure course,normal,normal,,,,专业核心,
+744,房地产投资分析,公共管理学院,房地产开发与管理,proffessional coure course,normal,normal,,,,专业核心,
+745,不动产估价,公共管理学院,房地产开发与管理,proffessional coure course,normal,normal,,,,专业核心,
+746,物业管理,公共管理学院,房地产开发与管理,proffessional coure course,normal,normal,,,,专业核心,
+747,房地产项目策划,公共管理学院,房地产开发与管理,proffessional coure course,normal,normal,,,,专业核心,
+748,房地产法学,公共管理学院,房地产开发与管理,proffessional coure course,normal,normal,,,,专业核心,
+749,测量学,公共管理学院,房地产开发与管理,curriculum development,normal,normal,,,,专业核心,
+750,房屋建筑学,公共管理学院,房地产开发与管理,价值评估,normal,normal,,,,拓展教育,
+751,城市地理学,公共管理学院,房地产开发与管理,用地规划,normal,normal,,,,拓展教育,
+752,区域规划,公共管理学院,房地产开发与管理,用地规划,normal,normal,,,,拓展教育,
+753,工程项目管理,公共管理学院,房地产开发与管理,curriculum development,normal,normal,,,,拓展教育,
+754,房地产金融,公共管理学院,房地产开发与管理,融资策划,normal,normal,,,,拓展教育,
+755,房地产行政管理,公共管理学院,房地产开发与管理,curriculum development,normal,normal,,,,拓展教育,
+756,房地产经纪,公共管理学院,房地产开发与管理,资产管理,normal,normal,,,,拓展教育,
+757,城市更新理论与实务,公共管理学院,房地产开发与管理,curriculum development,normal,normal,,,,拓展教育,
+758,房地产租赁管理理论与实务,公共管理学院,房地产开发与管理,curriculum development,normal,normal,,,,拓展教育,
+759,测量学,公共管理学院,土地资源管理,proffessional coure course,normal,normal,,,,专业核心,
+760,遥感技术基础,公共管理学院,土地资源管理,proffessional coure course,normal,normal,,,,专业核心,
+761,土地信息系统,公共管理学院,土地资源管理,proffessional coure course,normal,normal,,,,专业核心,
+762,土地资源学,公共管理学院,土地资源管理,proffessional coure course,normal,normal,,,,专业核心,
+763,地籍管理,公共管理学院,土地资源管理,proffessional coure course,normal,normal,,,,专业核心,
+764,城市规划,公共管理学院,土地资源管理,proffessional coure course,normal,normal,,,,专业核心,
+765,土地利用规划,公共管理学院,土地资源管理,proffessional coure course,normal,normal,,,,专业核心,
+766,土地经济学,公共管理学院,土地资源管理,proffessional coure course,normal,normal,,,,专业核心,
+767,土地法学,公共管理学院,土地资源管理,proffessional coure course,normal,normal,,,,专业核心,
+768,自然地理学,公共管理学院,土地资源管理,资源管理,normal,normal,,,,拓展教育,
+769,土地生态学,公共管理学院,土地资源管理,资源管理,normal,normal,,,,拓展教育,
+770,土地整治工程,公共管理学院,土地资源管理,土地工程,normal,normal,,,,拓展教育,
+771,土地整治概预算,公共管理学院,土地资源管理,土地工程,normal,normal,,,,拓展教育,
+772,公共行政学,公共管理学院,行政管理,行管与行企共有,normal,cooperation courses,,,,专业核心 行管与行企共有,
+773,领导科学,公共管理学院,行政管理,行管与行企共有,normal,cooperation courses,,,,专业核心 行管与行企共有,
+774,公共政策学,公共管理学院,行政管理,行管与行企共有,school level,cooperation courses,,,,专业核心 校级 行管与行企共有,
+775,公共管理学方法论,公共管理学院,行政管理,行管与行企共有,school level,cooperation courses,,,,专业核心 校级 行管与行企共有,
+776,宪法与行政法,公共管理学院,行政管理,行政管理,normal,normal,,,,专业核心 行政管理,
+777,公共财政与公共预算,公共管理学院,行政管理,行政管理,normal,normal,,,,专业核心 行政管理,
+778,公共危机管理,公共管理学院,行政管理,行政管理,normal,normal,,,,专业核心 行政管理,
+779,会计学原理,公共管理学院,行政管理,企业行政,provincial level,cooperation courses,,,,专业核心 省级 企业行政方向,
+780,企业管理案例分析,公共管理学院,行政管理,企业行政,normal,cooperation courses,,,,专业核心 企业行政方向,
+781,行政秘书学,公共管理学院,行政管理,企业行政,normal,cooperation courses,,,,专业核心 企业行政方向,
+782,管理沟通,公共管理学院,行政管理,curriculum development,normal,normal,,,,拓展教育,
+783,市政学,公共管理学院,行政管理,管理能力,normal,normal,,,,拓展教育,
+784,公文写作与处理,公共管理学院,行政管理,curriculum development,normal,normal,,,,拓展教育,
+785,行政伦理学,公共管理学院,行政管理,管理能力,normal,normal,,,,拓展教育,
+786,地方政府学,公共管理学院,行政管理,基础能力,normal,normal,,,,拓展教育,
+787,行政组织理论,公共管理学院,行政管理,行政管理,normal,normal,,,,拓展教育,
+788,行政职业能力培养,公共管理学院,行政管理,行政管理,normal,normal,,,,拓展教育,
+789,中国政治与政府,公共管理学院,行政管理,curriculum development,normal,normal,,,,拓展教育,
+790,政府绩效管理,公共管理学院,行政管理,行政管理,normal,normal,,,,拓展教育,
+791,社会工作导论,公共管理学院,社会工作,proffessional coure course,normal,normal,,,,专业核心,
+792,个案社会工作,公共管理学院,社会工作,proffessional coure course,normal,normal,,,,专业核心,
+793,小组社会工作,公共管理学院,社会工作,proffessional coure course,normal,normal,,,,专业核心,
+794,社会工作伦理,公共管理学院,社会工作,proffessional coure course,normal,normal,,,,专业核心,
+795,社区社会工作,公共管理学院,社会工作,proffessional coure course,normal,normal,,,,专业核心,
+796,社会保障与社会福利,公共管理学院,社会工作,proffessional coure course,normal,normal,,,,专业核心,
+797,社会政策概论,公共管理学院,社会工作,proffessional coure course,normal,normal,,,,专业核心,
+798,社会工作行政,公共管理学院,社会工作,proffessional coure course,normal,normal,,,,专业核心,
+799,社会工作理论,公共管理学院,社会工作,curriculum development,normal,normal,,,,拓展教育,
+800,社会服务评估,公共管理学院,社会工作,curriculum development,normal,normal,,,,拓展教育,
+801,儿童社会工作,公共管理学院,社会工作,工作技能,normal,normal,,,,拓展教育,
+802,社会组织管理,公共管理学院,社会工作,规划管理,normal,normal,,,,拓展教育,
+803,学校社会工作,公共管理学院,社会工作,工作技能,normal,normal,,,,拓展教育,
+804,性别与社会工作,公共管理学院,社会工作,工作技能,normal,normal,,,,拓展教育,
+805,公益慈善学概论,公共管理学院,社会工作,curriculum development,normal,normal,,,,拓展教育,
+806,计量经济学及实验,国际教育学院,金融学、工商管理类 2+2 国际班,proffessional coure course,normal,normal,,,,专业核心,
+807,中级财务会计,国际教育学院,金融学、工商管理类 2+2 国际班,proffessional coure course,school level,normal,,,,专业核心 校级,
+808,金融学,国际教育学院,金融学、工商管理类 2+2 国际班,proffessional coure course,provincial level,normal,,,,专业核心 省级,
+809,电子商务概论,经济管理学院,电子商务,proffessional coure course,normal,normal,,,,专业核心,
+810,电子商务系统分析与设计,经济管理学院,电子商务,proffessional coure course,normal,normal,,,,专业核心,
+811,互联网金融,经济管理学院,电子商务,proffessional coure course,normal,normal,,,,专业核心,
+812,物流管理,经济管理学院,电子商务,proffessional coure course,normal,normal,,,,专业核心,
+813,网络营销,经济管理学院,电子商务,proffessional coure course,normal,normal,,,,专业核心,
+814,电子商务与网络经济学,经济管理学院,电子商务,proffessional coure course,normal,normal,,,,专业核心,
+815,物流系统规划与设计,经济管理学院,电子商务,proffessional coure course,normal,normal,,,,专业核心,
+816,网络程序设计语言与编程,经济管理学院,电子商务,知识拓展,normal,normal,,,,拓展教育,
+817,数字经济选讲,经济管理学院,电子商务,curriculum development,normal,normal,,,,拓展教育,
+818,供应链管理,经济管理学院,电子商务,curriculum development,normal,normal,,,,拓展教育,
+819,金融学,经济管理学院,电子商务,curriculum development,provincial level,normal,,,,拓展教育 省级,
+820,国际贸易,经济管理学院,电子商务,curriculum development,provincial level,normal,,,,拓展教育 省级,
+821,信息经济学,经济管理学院,电子商务,知识拓展,normal,normal,,,,拓展教育,
+822,国际投资,经济管理学院,电子商务,curriculum development,normal,normal,,,,拓展教育,
+823,计量经济学,经济管理学院,电子商务,curriculum development,normal,normal,,,,拓展教育,
+824,全球营销管理,经济管理学院,电子商务,curriculum development,normal,normal,,,,拓展教育,
+825,品牌管理,经济管理学院,电子商务,curriculum development,normal,normal,,,,拓展教育,
+826,组织行为学,经济管理学院,工商管理,proffessional coure course,normal,normal,,,,专业核心,
+827,财务管理,经济管理学院,工商管理,proffessional coure course,school level,normal,,,,校级 专业核心,
+828,运营管理,经济管理学院,工商管理,proffessional coure course,normal,normal,,,,专业核心,
+829,营销管理,经济管理学院,工商管理,proffessional coure course,normal,normal,,,,专业核心,
+830,人力资源管理,经济管理学院,工商管理,proffessional coure course,normal,normal,,,,专业核心,
+831,农业创业管理,经济管理学院,工商管理,proffessional coure course,normal,normal,,,,专业核心,
+832,公司战略管理,经济管理学院,工商管理,proffessional coure course,normal,normal,,,,专业核心,
+833,管理伦理,经济管理学院,工商管理,知识拓展,normal,normal,,,,拓展教育 ,
+834,国际金融,经济管理学院,工商管理,curriculum development,normal,normal,,,,拓展教育 ,
+835,国际贸易,经济管理学院,工商管理,curriculum development,provincial level,normal,,,,拓展教育 省级,
+836,物流管理,经济管理学院,工商管理,curriculum development,normal,normal,,,,拓展教育 ,
+837,管理会计,经济管理学院,工商管理,知识拓展,normal,normal,,,,拓展教育 ,
+838,供应链管理,经济管理学院,工商管理,curriculum development,normal,normal,,,,拓展教育 ,
+839,电子商务网站设计与管理,经济管理学院,工商管理,curriculum development,normal,normal,,,,拓展教育 ,
+840,全球营销管理,经济管理学院,工商管理,curriculum development,normal,normal,,,,拓展教育 ,
+841,证券投资分析与管理,经济管理学院,工商管理,curriculum development,normal,normal,,,,拓展教育 ,
+842,国际贸易,经济管理学院,国际经济与贸易,proffessional coure course,provincial level,normal,,,,专业核心 省级,
+843,国际金融,经济管理学院,国际经济与贸易,proffessional coure course,normal,normal,,,,专业核心,
+844,进出口贸易实务,经济管理学院,国际经济与贸易,proffessional coure course,normal,normal,,,,专业核心,
+845,外贸函电,经济管理学院,国际经济与贸易,proffessional coure course,normal,normal,,,,专业核心,
+846,国际商法,经济管理学院,国际经济与贸易,proffessional coure course,normal,normal,,,,专业核心,
+847,国际投资,经济管理学院,国际经济与贸易,proffessional coure course,normal,normal,,,,专业核心,
+848,农产品国际贸易,经济管理学院,国际经济与贸易,农产品贸易,normal,normal,,,,拓展教育,
+849,国际服务贸易,经济管理学院,国际经济与贸易,国际贸易,normal,normal,,,,拓展教育,
+850,国际关系分析,经济管理学院,国际经济与贸易,国际贸易,normal,normal,,,,拓展教育,
+851,国际政治经济学,经济管理学院,国际经济与贸易,国际贸易,normal,normal,,,,拓展教育,
+852,中级财务会计,经济管理学院,会计学,proffessional coure course,normal,normal,,,,专业核心 ,
+853,税法,经济管理学院,会计学,proffessional coure course,normal,normal,,,,专业核心 ,
+854,审计学,经济管理学院,会计学,proffessional coure course,normal,normal,,,,专业核心 ,
+855,财务管理,经济管理学院,会计学,proffessional coure course,school level,normal,,,,专业核心 校级,
+856,会计师与企业,经济管理学院,会计学,proffessional coure course,normal,cooperation courses,,,,专业基础 ACCA,
+857,高级财务管理,经济管理学院,会计学,curriculum development,normal,cooperation courses,,,,专业拓展 ACCA,
+858,会计学原理,经济管理学院,会计学,curriculum development,provincial level,normal,,,,专业拓展  省级,
+859,市场营销学,经济管理学院,会计学,curriculum development,normal,normal,,,,专业拓展,
+860,业绩管理,经济管理学院,会计学,curriculum development,normal,cooperation courses,,,,专业拓展 ACCA,
+861,经济法,经济管理学院,会计学,curriculum development,normal,cooperation courses,,,,专业拓展 ACCA,
+862,计量经济学,经济管理学院,会计学,curriculum development,normal,normal,,,,专业拓展 ,
+863,政府与非营利组织会计,经济管理学院,会计学,curriculum development,normal,normal,,,,专业拓展,
+864,国际会计,经济管理学院,会计学,会计能力 ,normal,normal,,,,专业拓展 ,
+865,商务分析,经济管理学院,会计学,curriculum development,normal,cooperation courses,,,,专业拓展 ACCA,
+866,国际金融,经济管理学院,会计学,理财能力,normal,normal,,,,专业拓展 ,
+867,高级业绩管理,经济管理学院,会计学,curriculum development,normal,cooperation courses,,,,专业拓展 ACCA,
+868,战略商业报告,经济管理学院,会计学,会计能力,normal,cooperation courses,,,,专业拓展 ACCA,
+869,高级审计与认证业务,经济管理学院,会计学,审计能力,normal,cooperation courses,,,,专业拓展 ACCA,
+870,金融英语与金融原理,经济管理学院,金融学,proffessional coure course,normal,cooperation courses,,,,专业核心 CFA,
+871,数量方法,经济管理学院,金融学,proffessional coure course,normal,cooperation courses,,,,专业核心 CFA,
+872,公司理财,经济管理学院,金融学,proffessional coure course,normal,cooperation courses,,,,专业核心 CFA,
+873,财政学,经济管理学院,金融学,proffessional coure course,normal,normal,,,,专业核心 ,
+874,投资学,经济管理学院,金融学,proffessional coure course,normal,normal,,,,专业核心 ,
+875,金融计量学,经济管理学院,金融学,proffessional coure course,normal,normal,,,,专业核心 ,
+876,财务报告分析,经济管理学院,金融学,金融分析,normal,normal,,,,拓展教育 CFA,
+877,固定收益投资,经济管理学院,金融学,金融实务,normal,normal,,,,拓展教育 CFA,
+878,金融衍生品,经济管理学院,金融学,金融实务,normal,normal,,,,拓展教育 CFA,
+879,投资职业伦理,经济管理学院,金融学,社会素养,normal,normal,,,,拓展教育 CFA,
+880,投资组合管理,经济管理学院,金融学,金融实务,normal,normal,,,,拓展教育 CFA,
+881,另类投资,经济管理学院,金融学,金融实务,normal,normal,,,,拓展教育 CFA,
+882,权益投资,经济管理学院,金融学,金融实务,normal,normal,,,,拓展教育 CFA,
+883,高级金融分析,经济管理学院,金融学,curriculum development,normal,normal,,,,拓展教育 CFA,
+884,高级量化分析,经济管理学院,金融学,curriculum development,normal,normal,,,,拓展教育 CFA,
+885,博弈论,经济管理学院,经济学,proffessional coure course,normal,normal,,,,专业核心,
+886,财政学,经济管理学院,经济学,proffessional coure course,normal,normal,,,,专业核心,
+887,金融学,经济管理学院,经济学,proffessional coure course,normal,normal,,,,专业核心,
+888,产业经济学,经济管理学院,经济学,proffessional coure course,normal,normal,,,,专业核心,
+889,政治经济学,经济管理学院,经济学,proffessional coure course,normal,normal,,,,专业核心,
+890,新制度经济学,经济管理学院,经济学,curriculum development,normal,normal,,,,拓展教育,
+891,经济学说史,经济管理学院,经济学,curriculum development,normal,normal,,,,拓展教育,
+892,农业经济学,经济管理学院,经济学,应用能力,normal,normal,,,,拓展教育,
+893,发展经济学,经济管理学院,经济学,应用能力,normal,normal,,,,拓展教育,
+894,中级微观经济学,经济管理学院,经济学,curriculum development,normal,normal,,,,拓展教育,
+895,区域经济学,经济管理学院,经济学,应用能力,normal,normal,,,,拓展教育,
+896,中级计量经济学,经济管理学院,经济学,curriculum development,normal,normal,,,,拓展教育,
+897,行为经济学,经济管理学院,经济学,curriculum development,normal,normal,,,,拓展教育,
+898,世界经济概论,经济管理学院,经济学,curriculum development,normal,normal,,,,拓展教育,
+899,经济法,经济管理学院,经济学,应用能力,normal,normal,,,,拓展教育,
+900,农业经济学,经济管理学院,农林经济管理,proffessional coure course,provincial level,Innovative course,,,,专业核心 省级 丁颖实验班,
+901,林业经济管理学,经济管理学院,农林经济管理,proffessional coure course,normal,Innovative course,,,,专业核心 丁颖实验班,
+902,资源与环境经济学,经济管理学院,农林经济管理,proffessional coure course,normal,Innovative course,,,,专业核心 丁颖实验班,
+903,农产品国际贸易,经济管理学院,农林经济管理,proffessional coure course,normal,Innovative course,,,,专业核心 丁颖实验班,
+904,食物经济学,经济管理学院,农林经济管理,proffessional coure course,normal,Innovative course,,,,专业核心 丁颖实验班,
+905,农业技术经济学,经济管理学院,农林经济管理,proffessional coure course,normal,Innovative course,,,,专业核心 丁颖实验班,
+906,农场与林场管理,经济管理学院,农林经济管理,农林企业,normal,normal,,,,拓展教育,
+907,农林政策学,经济管理学院,农林经济管理,农林经济,normal,normal,,,,拓展教育,
+908,农林经济前沿专题讲座,经济管理学院,农林经济管理,学科前沿,normal,normal,,,,拓展教育,
+909,农学概论,经济管理学院,农林经济管理,农业技术,normal,normal,,,,拓展教育 农业技术,
+910,林学概论,经济管理学院,农林经济管理,农业技术,normal,normal,,,,拓展教育 农业技术,
+911,中国农业经济史,经济管理学院,农林经济管理,农林经济,normal,normal,,,,拓展教育 学术,
+912,区域经济学,经济管理学院,农林经济管理,special course,normal,normal,,,,拓展教育 学术,
+913,组织行为学,经济管理学院,人力资源管理,proffessional coure course,normal,normal,,,,专业核心,
+914,劳动法规,经济管理学院,人力资源管理,proffessional coure course,normal,normal,,,,专业核心,
+915,管理伦理,经济管理学院,人力资源管理,proffessional coure course,normal,normal,,,,专业核心,
+916,财务管理,经济管理学院,人力资源管理,proffessional coure course,school level,normal,,,,专业核心 校级,
+917,工作分析与员工招聘,经济管理学院,人力资源管理,proffessional coure course,normal,normal,,,,专业核心,
+918,公司战略管理,经济管理学院,人力资源管理,proffessional coure course,normal,normal,,,,专业核心,
+919,绩效与薪酬管理,经济管理学院,人力资源管理,proffessional coure course,normal,normal,,,,专业核心,
+920,计量经济学,经济管理学院,人力资源管理,经济管理,normal,normal,,,,拓展教育,
+921,运营管理,经济管理学院,人力资源管理,curriculum development,normal,normal,,,,拓展教育,
+922,员工关系管理,经济管理学院,人力资源管理,curriculum development,normal,normal,,,,拓展教育,
+923,管理沟通,经济管理学院,人力资源管理,curriculum development,normal,normal,,,,拓展教育,
+924,客户关系管理,经济管理学院,人力资源管理,curriculum development,normal,normal,,,,拓展教育,
+925,市场营销学,经济管理学院,市场营销,proffessional coure course,school level,normal,,,,专业核心 校级,
+926,组织行为学,经济管理学院,市场营销,proffessional coure course,normal,normal,,,,专业核心,
+927,财务管理,经济管理学院,市场营销,proffessional coure course,school level,normal,,,,专业核心 校级,
+928,消费者行为学,经济管理学院,市场营销,proffessional coure course,provincial level,normal,,,,专业核心 省级,
+929,营销调研,经济管理学院,市场营销,proffessional coure course,normal,normal,,,,专业核心,
+930,广告管理,经济管理学院,市场营销,proffessional coure course,school level,normal,,,,专业核心 校级,
+931,品牌管理,经济管理学院,市场营销,proffessional coure course,normal,normal,,,,专业核心,
+932,网络营销,经济管理学院,市场营销,proffessional coure course,normal,normal,,,,专业核心,
+933,商品开发学,经济管理学院,市场营销,知识拓展,normal,normal,,,,专业拓展,
+934,营销渠道管理,经济管理学院,市场营销,知识拓展,normal,normal,,,,专业拓展,
+935,运营管理,经济管理学院,市场营销,知识拓展,normal,normal,,,,专业拓展,
+936,全球营销管理,经济管理学院,市场营销,curriculum development,normal,normal,,,,专业拓展,
+937,推销学,经济管理学院,市场营销,知识拓展,normal,normal,,,,专业拓展,
+938,保险学,经济管理学院,市场营销,知识拓展,normal,normal,,,,专业拓展,
+939,逻辑学导论,人文与法学学院,哲学,proffessional coure course,normal,normal,,,,专业必修,
+940,哲学导论,人文与法学学院,哲学,proffessional coure course,normal,normal,,,,专业必修,
+941,马克思主义哲学原理,人文与法学学院,哲学,proffessional coure course,normal,normal,,,,专业必修,
+942,西方哲学史,人文与法学学院,哲学,proffessional coure course,normal,normal,,,,专业必修,
+943,宗教学原理,人文与法学学院,哲学,proffessional coure course,normal,normal,,,,专业必修,
+944,美学导论,人文与法学学院,哲学,proffessional coure course,normal,normal,,,,专业必修,
+945,中国哲学史,人文与法学学院,哲学,proffessional coure course,normal,normal,,,,专业必修,
+946,学术论文写作,人文与法学学院,哲学,proffessional coure course,normal,normal,,,,专业必修,
+947,现代西方哲学,人文与法学学院,哲学,proffessional coure course,normal,normal,,,,专业必修,
+948,科技哲学,人文与法学学院,哲学,proffessional coure course,normal,normal,,,,专业必修,
+949,心理学导论,人文与法学学院,哲学,proffessional coure course,normal,normal,,,,专业必修,
+950,大观念的哲学理解,人文与法学学院,哲学,curriculum development,normal,normal,,,,拓展选修,
+951,东西方哲学比较,人文与法学学院,哲学,curriculum development,normal,normal,,,,拓展选修,
+952,法哲学,人文与法学学院,哲学,curriculum development,normal,normal,,,,拓展选修,
+953,福柯思想研究,人文与法学学院,哲学,curriculum development,normal,normal,,,,拓展选修,
+954,后现代主义哲学导论,人文与法学学院,哲学,curriculum development,normal,normal,,,,拓展选修,
+955,教育法学,人文与法学学院,哲学,curriculum development,normal,normal,,,,拓展选修,
+956,中国佛教哲学,人文与法学学院,哲学,curriculum development,normal,normal,,,,拓展选修,
+957,西方伦理思想史,人文与法学学院,哲学,curriculum development,normal,normal,,,,拓展选修,
+958,西方哲学名著选读,人文与法学学院,哲学,curriculum development,normal,normal,,,,拓展选修,
+959,西方美学史：古希腊罗马—-文艺复兴,人文与法学学院,哲学,curriculum development,normal,normal,,,,拓展选修,
+960,西方美学史：启蒙运动—-现当代,人文与法学学院,哲学,curriculum development,normal,normal,,,,拓展选修,
+961,中国经学史,人文与法学学院,哲学,curriculum development,normal,normal,,,,拓展选修,
+962,近现代中国哲学,人文与法学学院,哲学,curriculum development,normal,normal,,,,拓展选修,
+963,法理学初阶,人文与法学学院,法学,special course,normal,normal,,,,专业教育,
+964,中国法制史,人文与法学学院,法学,special course,normal,normal,,,,专业教育,
+965,宪法,人文与法学学院,法学,special course,normal,normal,,,,专业教育,
+966,民法总论,人文与法学学院,法学,special course,normal,normal,,,,专业教育,
+967,民法分论,人文与法学学院,法学,special course,normal,normal,,,,专业教育,
+968,刑法总论,人文与法学学院,法学,special course,normal,normal,,,,专业教育,
+969,法律职业伦理,人文与法学学院,法学,special course,normal,normal,,,,专业教育,
+970,刑法分论,人文与法学学院,法学,special course,normal,normal,,,,专业教育,
+971,民事诉讼法,人文与法学学院,法学,special course,normal,normal,,,,专业教育,
+972,刑事诉讼法,人文与法学学院,法学,special course,normal,normal,,,,专业教育,
+973,行政法与行政诉讼法,人文与法学学院,法学,special course,normal,normal,,,,专业教育,
+974,国际法,人文与法学学院,法学,special course,normal,normal,,,,专业教育,
+975,知识产权法,人文与法学学院,法学,proffessional coure course,normal,normal,,,,专业必选,
+976,合同法总论,人文与法学学院,法学,proffessional coure course,normal,normal,,,,专业必选,
+977,商法,人文与法学学院,法学,proffessional coure course,normal,normal,,,,专业必选,
+978,经济法,人文与法学学院,法学,proffessional coure course,normal,normal,,,,专业必选,
+979,国际私法,人文与法学学院,法学,proffessional coure course,normal,normal,,,,专业必选,
+980,国际经济法,人文与法学学院,法学,proffessional coure course,normal,normal,,,,专业必选,
+981,环境资源法,人文与法学学院,法学,proffessional coure course,normal,normal,,,,专业必选,
+982,司法文书写作,人文与法学学院,法学,proffessional coure course,normal,normal,,,,专业必选,
+983,法理学进阶,人文与法学学院,法学,proffessional coure course,normal,normal,,,,专业必选,
+984,基础写作,人文与法学学院,汉语言文学,special course,normal,normal,,,,专业教育,
+985,现代汉语,人文与法学学院,汉语言文学,special course,normal,normal,,,,专业教育,
+986,中国古代文学史,人文与法学学院,汉语言文学,special course,normal,normal,,,,专业教育,
+987,中国现代文学史,人文与法学学院,汉语言文学,special course,normal,normal,,,,专业教育,
+988,古代汉语,人文与法学学院,汉语言文学,special course,normal,normal,,,,专业教育,
+989,文学概论,人文与法学学院,汉语言文学,special course,normal,normal,,,,专业教育,
+990,外国文学史,人文与法学学院,汉语言文学,special course,normal,normal,,,,专业教育,
+991,中国文学批评史,人文与法学学院,汉语言文学,special course,normal,normal,,,,专业教育,
+992,语文教学技能与艺术,人文与法学学院,汉语言文学,curriculum development,normal,normal,,,,专业选修,
+993,应用写作,人文与法学学院,汉语言文学,写作能力,normal,normal,,,,专业选修,
+994,汉语词汇学,人文与法学学院,汉语言文学,语言知识,normal,normal,,,,专业选修,
+995,文化语言学,人文与法学学院,汉语言文学,语言知识,normal,normal,,,,专业选修,
+996,古代汉语语法专题,人文与法学学院,汉语言文学,语言知识,normal,normal,,,,专业选修,
+997,现代汉语语法专题,人文与法学学院,汉语言文学,curriculum development,normal,normal,,,,专业选修,
+998,诗词格律与写作,人文与法学学院,汉语言文学,语言知识,normal,normal,,,,专业选修,
+999,中国文章学经典选读,人文与法学学院,汉语言文学,语言知识,normal,normal,,,,专业选修,
+1000,唐诗宋词专题,人文与法学学院,汉语言文学,语言知识,normal,normal,,,,专业选修,
+1001,古代散文专题,人文与法学学院,汉语言文学,curriculum development,normal,normal,,,,专业选修,
+1002,古典文学名著选读,人文与法学学院,汉语言文学,curriculum development,normal,normal,,,,专业选修,
+1003,文史文献检索,人文与法学学院,汉语言文学,信息获取,normal,normal,,,,专业选修,
+1004,中国古代史,人文与法学学院,历史学,special course,normal,normal,,,,专业教育,
+1005,世界古代史,人文与法学学院,历史学,special course,normal,normal,,,,专业教育,
+1006,中国历史文选,人文与法学学院,历史学,special course,normal,normal,,,,专业教育,
+1007,考古学通论,人文与法学学院,历史学,special course,normal,normal,,,,专业教育,
+1008,中国近代史,人文与法学学院,历史学,special course,normal,normal,,,,专业教育,
+1009,世界近代史,人文与法学学院,历史学,special course,normal,normal,,,,专业教育,
+1010,中国现代史,人文与法学学院,历史学,special course,normal,normal,,,,专业教育,
+1011,世界现代史,人文与法学学院,历史学,special course,normal,normal,,,,专业教育,
+1012,中国史学史,人文与法学学院,历史学,special course,normal,normal,,,,专业教育,
+1013,西方史学史,人文与法学学院,历史学,special course,normal,normal,,,,专业教育,
+1014,中华人民共和国史,人文与法学学院,历史学,special course,normal,normal,,,,专业教育,
+1015,历史学专业英语,人文与法学学院,历史学,proffessional coure course,normal,normal,,,,专业选修,
+1016,中国古代典籍文化,人文与法学学院,历史学,proffessional coure course,normal,normal,,,,专业选修,
+1017,民间文献学,人文与法学学院,历史学,文献查找,normal,normal,,,,专业选修,
+1018,中国思想史,人文与法学学院,历史学,历史知识,normal,normal,,,,专业选修,
+1019,中国历史地理,人文与法学学院,历史学,历史知识,normal,normal,,,,专业选修,
+1020,岭南历史与文化,人文与法学学院,历史学,历史知识,normal,normal,,,,专业选修,
+1021,先秦诸子,人文与法学学院,历史学,proffessional coure course,normal,normal,,,,专业选修,
+1022,秦汉史,人文与法学学院,历史学,历史知识,normal,normal,,,,专业选修,
+1023,唐宋史专题,人文与法学学院,历史学,历史知识,normal,normal,,,,专业选修,
+1024,明清社会经济史,人文与法学学院,历史学,历史知识,normal,normal,,,,专业选修,
+1025,中国环境变迁史,人文与法学学院,历史学,历史知识,normal,normal,,,,专业选修,
+1026,西方古典文明史,人文与法学学院,历史学,历史知识,normal,normal,,,,专业选修,
+1027,西方美术史,人文与法学学院,历史学,历史知识,normal,normal,,,,专业选修,
+1028,美国简史,人文与法学学院,历史学,proffessional coure course,normal,normal,,,,专业选修,
+1029,东南亚历史与文化,人文与法学学院,历史学,proffessional coure course,normal,normal,,,,专业选修,
+1030,南亚史,人文与法学学院,历史学,历史知识,normal,normal,,,,专业选修,
+1031,丝路史专题,人文与法学学院,历史学,历史知识,normal,normal,,,,专业选修,
+1032,历史文化名城,人文与法学学院,历史学,文化遗产,normal,normal,,,,专业选修,
+1033,基础日语,外国语学院,日语,proffessional coure course,normal,normal,,,,专业基础,
+1034,日本概况,外国语学院,日语,proffessional coure course,normal,normal,,,,专业基础,
+1035,高级日语,外国语学院,日语,proffessional coure course,normal,normal,,,,专业核心,
+1036,笔译理论与实践,外国语学院,日语,proffessional coure course,normal,Innovative course,,,,专业核心 日译汉,
+1037,笔译理论与实践,外国语学院,日语,proffessional coure course,normal,Innovative course,,,,专业核心 汉译日,
+1038,口译理论与实践,外国语学院,日语,proffessional coure course,normal,Innovative course,,,,专业核心 日译汉,
+1039,口译理论与实践,外国语学院,日语,proffessional coure course,normal,Innovative course,,,,专业核心 汉译日,
+1040,跨文化交际,外国语学院,日语,proffessional coure course,provincial level,normal,,,,专业核心 省级,
+1041,日语新闻听力,外国语学院,日语,proffessional coure course,normal,normal,,,,专业选修,
+1042,日语报刊选读,外国语学院,日语,语言文化,normal,normal,,,,专业选修,
+1043,日语实用语法,外国语学院,日语,语言文化,normal,normal,,,,专业选修,
+1044,古典日语语法,外国语学院,日语,proffessional coure course,normal,normal,,,,专业选修,
+1045,日语语音概论,外国语学院,日语,proffessional coure course,normal,normal,,,,专业选修,
+1046,第二语言习得,外国语学院,日语,语言文化,normal,normal,,,,专业选修,
+1047,日本古典文学作品选读,外国语学院,日语,proffessional coure course,normal,normal,,,,专业选修,
+1048,西方文明史,外国语学院,英语,proffessional coure course,normal,normal,,,,专业核心,
+1049,英语文学导论,外国语学院,英语,proffessional coure course,normal,normal,,,,专业核心,
+1050,语言学导论,外国语学院,英语,proffessional coure course,normal,normal,,,,专业核心,
+1051,笔译：英译汉,外国语学院,英语,proffessional coure course,normal,normal,,,,专业核心,
+1052,笔译：汉译英,外国语学院,英语,proffessional coure course,normal,normal,,,,专业核心,
+1053,英汉/汉英口译,外国语学院,英语,proffessional coure course,normal,normal,,,,专业核心,
+1054,跨文化交际,外国语学院,英语,proffessional coure course,normal,normal,,,,专业核心,
+1055,英语学术论文写作,外国语学院,英语,proffessional coure course,normal,normal,,,,专业核心,
+1056,翻译理论与实践,外国语学院,英语,赏析国际典籍,school level,normal,,,,专业选修 校级,
+1057,服装表演,艺术学院,表演,special course,normal,normal,,,,服装表演方向,
+1058,形体与舞蹈,艺术学院,表演,special course,normal,normal,,,,服装表演方向,
+1059,形象设计,艺术学院,表演,special course,normal,normal,,,,服装表演方向,
+1060,剧目排演,艺术学院,表演,special course,normal,normal,,,,服装表演方向,
+1061,舞台语言技巧,艺术学院,表演,special course,normal,normal,,,,服装表演方向,
+1062,时尚编导与策划,艺术学院,表演,special course,normal,normal,,,,服装表演方向,
+1063,视频与音频制作,艺术学院,表演,special course,normal,normal,,,,服装表演方向,
+1064,广告表演,艺术学院,表演,special course,normal,normal,,,,广告表演方向,
+1065,商务礼仪,艺术学院,表演,special course,normal,normal,,,,广告表演方向,
+1066,广告创意与策划,艺术学院,表演,special course,normal,normal,,,,广告表演方向,
+1067,影视编辑,艺术学院,表演,special course,normal,normal,,,,广告表演方向,
+1068,美学原理,艺术学院,表演,special course,normal,normal,,,,时尚编导方向,
+1069,时尚展示,艺术学院,表演,special course,normal,normal,,,,时尚编导方向,
+1070,舞台构成与秀场空间设计,艺术学院,表演,special course,normal,normal,,,,时尚编导方向,
+1071,音乐制作与剪辑,艺术学院,表演,special course,normal,normal,,,,时尚编导方向,
+1072,新媒体设计,艺术学院,表演,special course,normal,normal,,,,时尚编导方向,
+1073,时尚传播与推广,艺术学院,表演,special course,normal,normal,,,,时尚编导方向,
+1074,产品设计程序与方法,艺术学院,产品设计,proffessional coure course,normal,normal,,,,专业核心,
+1075,造型设计,艺术学院,产品设计,proffessional coure course,normal,normal,,,,专业核心,
+1076,用户研究与产品定义,艺术学院,产品设计,proffessional coure course,normal,normal,,,,专业核心,
+1077,材料与工艺,艺术学院,产品设计,proffessional coure course,normal,normal,,,,专业核心,
+1078,产品设计,艺术学院,产品设计,proffessional coure course,normal,normal,,,,专业核心,
+1079,三维软件,艺术学院,产品设计,proffessional coure course,normal,normal,,,,专业选修,
+1080,岭南文化产品设计,艺术学院,产品设计,人文素养,normal,normal,,,,专业选修,
+1081,设计心理学,艺术学院,产品设计,人文素养,normal,normal,,,,专业选修,
+1082,家具结构设计,艺术学院,产品设计,实践技能,normal,normal,,,,专业选修,
+1083,中国传统器具设计研究,艺术学院,产品设计,proffessional coure course,normal,normal,,,,专业选修,
+1084,中国传统家具文化设计,艺术学院,产品设计,proffessional coure course,normal,normal,,,,专业选修,
+1085,人体动态速写,艺术学院,动画,proffessional coure course,normal,normal,,,,专业基础,
+1086,三维动画基础,艺术学院,动画,proffessional coure course,normal,normal,,,,专业核心,
+1087,剧作基础,艺术学院,动画,proffessional coure course,normal,normal,,,,专业核心,
+1088,分镜头脚本创作与表现,艺术学院,动画,proffessional coure course,normal,normal,,,,专业核心,
+1089,视觉设计,艺术学院,动画,proffessional coure course,normal,normal,,,,专业核心,
+1090,非线性编辑,艺术学院,动画,proffessional coure course,normal,normal,,,,专业核心,
+1091,音效与录音,艺术学院,动画,proffessional coure course,normal,normal,,,,专业核心,
+1092,导演基础,艺术学院,动画,proffessional coure course,normal,normal,,,,专业核心,
+1093,制片管理,艺术学院,动画,proffessional coure course,normal,normal,,,,专业核心 动画,
+1094,原动画技法,艺术学院,动画,special course,normal,normal,,,,专业选修 动画,
+1095,角色造型设计,艺术学院,动画,special course,normal,normal,,,,专业选修 动画,
+1096,场景设计,艺术学院,动画,special course,normal,normal,,,,专业选修 动画,
+1097,定格动画短片创作,艺术学院,动画,special course,normal,normal,,,,专业选修 动画,
+1098,服装材料学,艺术学院,服装设计与工程,proffessional coure course,normal,normal,,,,专业核心,
+1099,服装结构设计,艺术学院,服装设计与工程,proffessional coure course,normal,normal,,,,专业核心,
+1100,服装数字化产品开发与管理,艺术学院,服装设计与工程,proffessional coure course,normal,normal,,,,专业核心,
+1101,服装市场营销,艺术学院,服装设计与工程,proffessional coure course,normal,normal,,,,专业核心,
+1102,智能化服装生产,艺术学院,服装设计与工程,proffessional coure course,normal,normal,,,,专业核心,
+1103,服装立体造型设计,艺术学院,服装设计与工程,proffessional coure course,normal,normal,,,,专业核心,
+1104,服装数字化设计工具,艺术学院,服装设计与工程,curriculum development,normal,normal,,,,拓展教育,
+1105,服装色彩与图案,艺术学院,服装设计与工程,curriculum development,normal,normal,,,,拓展教育,
+1106,服饰面料设计与应用,艺术学院,服装设计与工程,curriculum development,normal,normal,,,,拓展教育,
+1107,针织服装设计与工艺,艺术学院,服装设计与工程,curriculum development,normal,normal,,,,拓展教育,
+1108,服装美学,艺术学院,服装设计与工程,curriculum development,normal,normal,,,,拓展教育,
+1109,设计心理学,艺术学院,服装与服饰设计,proffessional coure course,normal,normal,,,,专业核心 服装设计方向,
+1110,服装结构设计,艺术学院,服装与服饰设计,proffessional coure course,normal,normal,,,,专业核心 服装设计方向,
+1111,中外服装史,艺术学院,服装与服饰设计,proffessional coure course,normal,normal,,,,专业核心 服装设计方向,
+1112,民族服饰传承与传播,艺术学院,服装与服饰设计,proffessional coure course,normal,normal,,,,专业核心 服装设计方向,
+1113,服装工艺与制作,艺术学院,服装与服饰设计,proffessional coure course,normal,normal,,,,专业核心 服装设计方向,
+1114,可持续与生态设计,艺术学院,服装与服饰设计,proffessional coure course,normal,normal,,,,专业核心 服装设计方向,
+1115,立体裁剪成衣设计,艺术学院,服装与服饰设计,proffessional coure course,normal,normal,,,,专业核心 服装设计方向,
+1116,文化创意与时尚设计,艺术学院,服装与服饰设计,proffessional coure course,normal,normal,,,,专业核心 服装设计方向,
+1117,工艺美术史,艺术学院,服装与服饰设计,proffessional coure course,normal,normal,,,,专业核心 服饰设计方向,
+1118,金属工艺基础,艺术学院,服装与服饰设计,proffessional coure course,normal,normal,,,,专业核心 服饰设计方向,
+1119,珐琅工艺,艺术学院,服装与服饰设计,proffessional coure course,normal,normal,,,,专业核心 服饰设计方向,
+1120,首饰 3D 打印数字化应用,艺术学院,服装与服饰设计,proffessional coure course,normal,normal,,,,专业核心 服饰设计方向,
+1121,珠宝鉴定基础,艺术学院,服装与服饰设计,proffessional coure course,normal,normal,,,,专业核心 服饰设计方向,
+1122,首饰镶嵌工艺,艺术学院,服装与服饰设计,proffessional coure course,normal,normal,,,,专业核心 服饰设计方向,
+1123,首饰铸造工艺,艺术学院,服装与服饰设计,proffessional coure course,normal,normal,,,,专业核心 服饰设计方向,
+1124,媒介传播学,艺术学院,广播电视编导,proffessional coure course,normal,normal,,,,专业核心,
+1125,自媒体写作,艺术学院,广播电视编导,proffessional coure course,normal,normal,,,,专业核心,
+1126,影视配乐,艺术学院,广播电视编导,proffessional coure course,normal,normal,,,,专业核心,
+1127,电视纪录片,艺术学院,广播电视编导,proffessional coure course,normal,normal,,,,专业核心,
+1128,电视节目策划,艺术学院,广播电视编导,proffessional coure course,normal,normal,,,,专业核心,
+1129,媒介法规与伦理,艺术学院,广播电视编导,proffessional coure course,normal,normal,,,,专业核心,
+1130,影视美术,艺术学院,广播电视编导,社会文化,normal,normal,,,,拓展教育,
+1131,编剧基础,艺术学院,广播电视编导,curriculum development,normal,normal,,,,拓展教育,
+1132,广告学原理,艺术学院,广播电视编导,新闻传播基础,normal,normal,,,,拓展教育,
+1133,设计造型,艺术学院,环境设计,proffessional coure course,normal,normal,,,,专业核心,
+1134,设计色彩,艺术学院,环境设计,proffessional coure course,normal,normal,,,,专业核心,
+1135,形式基础,艺术学院,环境设计,proffessional coure course,normal,normal,,,,专业核心,
+1136,工程制图,艺术学院,环境设计,proffessional coure course,normal,normal,,,,专业核心,
+1137,信息方法学,艺术学院,环境设计,proffessional coure course,normal,normal,,,,专业核心,
+1138,人机工程学,艺术学院,环境设计,proffessional coure course,normal,normal,,,,专业核心,
+1139,景观设计基础,艺术学院,环境设计,proffessional coure course,normal,normal,,,,专业核心,
+1140,3D 效果图制作,艺术学院,环境设计,proffessional coure course,normal,normal,,,,专业核心,
+1141,建筑设计基础,艺术学院,环境设计,proffessional coure course,normal,normal,,,,专业核心,
+1142,展示设计基础,艺术学院,环境设计,proffessional coure course,normal,normal,,,,专业核心,
+1143,设计表现,艺术学院,环境设计,proffessional coure course,normal,normal,,,,专业核心,
+1144,可持续发展设计,艺术学院,环境设计,proffessional coure course,normal,normal,,,,专业核心,
+1145,模型制作,艺术学院,环境设计,proffessional coure course,normal,normal,,,,专业核心,
+1146,室内设计原理,艺术学院,环境设计,proffessional coure course,normal,normal,,,,专业核心,
+1147,建筑与室内发展史,艺术学院,环境设计,proffessional coure course,normal,normal,,,,专业核心,
+1148,装饰材料与运用,艺术学院,环境设计,proffessional coure course,normal,normal,,,,专业核心,
+1149,光环境设计,艺术学院,环境设计,proffessional coure course,normal,normal,,,,专业核心,
+1150,工程概算,艺术学院,环境设计,proffessional coure course,normal,normal,,,,专业核心,
+1151,现代设计史,艺术学院,视觉传达设计,proffessional coure course,normal,normal,,,,专业核心,
+1152,编排设计,艺术学院,视觉传达设计,proffessional coure course,normal,normal,,,,专业核心,
+1153,海报设计,艺术学院,视觉传达设计,proffessional coure course,normal,normal,,,,专业核心,
+1154,动态图形设计,艺术学院,视觉传达设计,proffessional coure course,normal,normal,,,,专业核心,
+1155,信息可视化设计,艺术学院,视觉传达设计,proffessional coure course,normal,normal,,,,专业核心,
+1156,品牌形象设计,艺术学院,视觉传达设计,proffessional coure course,normal,normal,,,,专业核心,
+1157,包装设计,艺术学院,视觉传达设计,proffessional coure course,normal,normal,,,,专业核心,
+1158,数字广告设计,艺术学院,视觉传达设计,媒介理论,normal,normal,,,,拓展教育,
+1159,广告摄影,艺术学院,视觉传达设计,curriculum development,normal,normal,,,,拓展教育,
+1160,数据可视化设计,艺术学院,视觉传达设计,数字信息数据,normal,normal,,,,拓展教育,
+1161,钢琴,艺术学院,音乐表演,proffessional coure course,normal,normal,,,,专业核心,
+1162,合唱,艺术学院,音乐表演,proffessional coure course,normal,normal,,,,专业核心,
+1163,舞台表演艺术,艺术学院,音乐表演,proffessional coure course,normal,normal,,,,专业核心,
+1164,艺术概论,艺术学院,音乐表演,proffessional coure course,normal,normal,,,,专业核心,
+1165,应用钢琴,艺术学院,音乐表演,curriculum development,normal,normal,,,,拓展教育,
+1166,多媒体音乐制作,艺术学院,音乐表演,计算机应用,normal,normal,,,,拓展教育,
+1167,世界民族音乐,艺术学院,音乐表演,前沿知识,normal,normal,,,,拓展教育,
+1168,音乐情景表演,艺术学院,音乐表演,curriculum development,normal,normal,,,,拓展教育,
+1169,中外歌剧与音乐剧赏析,艺术学院,音乐表演,curriculum development,normal,normal,,,,拓展教育,
+1170,化妆,艺术学院,音乐表演,curriculum development,normal,normal,,,,拓展教育,
+1171,食品工厂设计,食品学院,食品科学与工程 (丁颖创新班),proffessional coure course,normal,Innovative course,,,,,专业核心
+1172,食品加工过程模拟优化,食品学院,食品科学与工程 (丁颖创新班),proffessional coure course,normal,Innovative course,,,,,专业核心
+1173,食品营养学,食品学院,食品科学与工程 (丁颖创新班),proffessional coure course,national level,Innovative course,,,,,专业核心，国家级课程
+1174,农产品加工学,食品学院,食品科学与工程 (丁颖创新班),proffessional coure course,normal,Innovative course,,,,,专业核心
+1175,园艺产品加工学 ,食品学院,食品科学与工程 (丁颖创新班),proffessional coure course,normal,Innovative course,,,,,专业核心
+1176,畜产品食品工艺学 ,食品学院,食品科学与工程 (丁颖创新班),proffessional coure course,normal,Innovative course,,,,,专业核心
+1177,食品机械与设备,食品学院,食品科学与工程 (丁颖创新班),proffessional coure course,normal,Innovative course,,,,,专业核心
+1178,食品微生物学,食品学院,食品科学与工程 (丁颖创新班),proffessional coure course,provincial level,Innovative course,,,,,专业核心，省级课程
+1179,食品化学,食品学院,食品科学与工程 (丁颖创新班),proffessional coure course,provincial level,Innovative course,,,,,专业核心，省级课程
+1180,食品保藏原理,食品学院,食品科学与工程 (丁颖创新班),proffessional coure course,normal,Innovative course,,,,,专业核心
+1181,水产食品工艺学,食品学院,食品科学与工程 (丁颖创新班),curriculum development,normal,Innovative course,,,,,拓展教育
+1182,畜产品综合利用,食品学院,食品科学与工程 (丁颖创新班),curriculum development,normal,Innovative course,,,,,拓展教育
+1183,食品原料学,食品学院,食品科学与工程 (丁颖创新班),curriculum development,normal,Innovative course,,,,,拓展教育
+1184,食品包装学,食品学院,食品科学与工程 (丁颖创新班),curriculum development,school level,Innovative course,,,,,拓展教育，校级课程
+1185,农产品贮运学,食品学院,食品科学与工程 (丁颖创新班),curriculum development,normal,Innovative course,,,,,拓展教育
+1186,食品产业学,食品学院,食品科学与工程 (丁颖创新班),curriculum development,normal,Innovative course,,,,,拓展教育
+1187,现代食品科学技术前沿,食品学院,食品科学与工程 (丁颖创新班),curriculum development,normal,Innovative course,,,,,拓展教育
+1188,焙烤食品工艺学,食品学院,食品科学与工程 (丁颖创新班),curriculum development,normal,Innovative course,,,,,拓展教育
+1189,糖果工艺学,食品学院,食品科学与工程 (丁颖创新班),curriculum development,normal,Innovative course,,,,,拓展教育
+1190,饮料工艺学,食品学院,食品科学与工程 (丁颖创新班),curriculum development,normal,Innovative course,,,,,拓展教育
+1191,中草药食品加工学,食品学院,食品科学与工程 (丁颖创新班),curriculum development,normal,Innovative course,,,,,拓展教育
+1192,现代食品分离技术,食品学院,食品科学与工程 (丁颖创新班),curriculum development,normal,Innovative course,,,,,拓展教育
+1193,食品添加剂,食品学院,食品科学与工程 (丁颖创新班),curriculum development,normal,Innovative course,,,,,拓展教育
+1194,食品酶学,食品学院,食品科学与工程 (丁颖创新班),curriculum development,normal,Innovative course,,,,,拓展教育
+1195,功能食品概论,食品学院,食品科学与工程 (丁颖创新班),curriculum development,normal,Innovative course,,,,,拓展教育
+1196,酿造调味品,食品学院,食品科学与工程 (丁颖创新班),curriculum development,normal,Innovative course,,,,,拓展教育
+1197,酿酒工艺学,食品学院,食品科学与工程 (丁颖创新班),curriculum development,normal,Innovative course,,,,,拓展教育
+1198,发酵工程工艺原理,食品学院,食品科学与工程 (丁颖创新班),curriculum development,normal,Innovative course,,,,,拓展教育
+1199,食品生物技术,食品学院,食品科学与工程 (丁颖创新班),curriculum development,normal,normal,,,,,拓展教育
+1200,食品感官评定,食品学院,食品科学与工程 (丁颖创新班),curriculum development,normal,normal,,,,,拓展教育
+1201,食品仪器分析,食品学院,食品科学与工程 (丁颖创新班),curriculum development,normal,normal,,,,,拓展教育
+1202,食品微生物检验,食品学院,食品科学与工程 (丁颖创新班),curriculum development,normal,normal,,,,,拓展教育
+1203,食品标准化与质量管理,食品学院,食品科学与工程 (丁颖创新班),curriculum development,normal,normal,,,,,拓展教育
+1204,食品安全导论,食品学院,食品科学与工程 (丁颖创新班),curriculum development,normal,normal,,,,,拓展教育
+1205,中医食疗学,食品学院,食品科学与工程 (丁颖创新班),curriculum development,normal,normal,,,,,拓展教育
+1206,营养烹调学,食品学院,食品科学与工程 (丁颖创新班),curriculum development,normal,normal,,,,,拓展教育
+1207,发酵工程工艺原理,食品学院,生物工程,proffessional coure course,provincial level,normal,,,,,专业核心。省级课程
+1208,发酵工程工艺设备,食品学院,生物工程,proffessional coure course,normal,normal,,,,,专业核心
+1209,酿造工艺学,食品学院,生物工程,proffessional coure course,normal,normal,,,,,专业核心
+1210,生物工程下游技术,食品学院,生物工程,proffessional coure course,normal,normal,,,,,专业核心
+1211,基因工程原理 ,食品学院,生物工程,proffessional coure course,normal,normal,,,,,专业核心
+1212,微生物学,食品学院,生物工程,proffessional coure course,normal,normal,,,,,专业核心
+1213,生物制药,食品学院,生物工程,curriculum development,normal,normal,,,,,拓展教育
+1214,细胞工程,食品学院,生物工程,curriculum development,normal,normal,,,,,生物工程
+1215,有机酸与氨基酸发酵工艺学,食品学院,生物工程,curriculum development,normal,normal,,,,,发酵工程
+1216,生物制剂,食品学院,生物工程,curriculum development,normal,normal,,,,,生物工程
+1217,抗体工程,食品学院,生物工程,curriculum development,normal,normal,,,,,生物工程
+1218,农产品加工学,食品学院,生物工程,curriculum development,normal,normal,,,,,拓展教育
+1219,园艺产品加工学,食品学院,生物工程,curriculum development,normal,normal,,,,,拓展教育
+1220,畜产品食品工艺学,食品学院,生物工程,curriculum development,normal,normal,,,,,拓展教育
+1221,天然食用色素生物工程,食品学院,生物工程,curriculum development,normal,normal,,,,,拓展教育
+1222,食品添加剂,食品学院,生物工程,curriculum development,normal,normal,,,,,拓展教育
+1223,功能食品概论,食品学院,生物工程,curriculum development,normal,normal,,,,,拓展教育
+1224,食品感官评定,食品学院,生物工程,curriculum development,normal,normal,,,,,拓展教育
+1225,食品标准化与质量管理,食品学院,生物工程,curriculum development,normal,normal,,,,,标准与法律法规
+1226,废水生化处理,食品学院,生物工程,curriculum development,normal,normal,,,,,拓展教育
+1227,食品仪器分析,食品学院,生物工程,curriculum development,normal,normal,,,,,拓展教育
+1228,食品微生物检验,食品学院,生物工程,curriculum development,normal,normal,,,,,拓展教育
+1229,大数据管理与分析,食品学院,生物工程,curriculum development,normal,normal,,,,,拓展教育
+1230,企业管理,食品学院,生物工程,curriculum development,normal,normal,,,,,拓展教育
+1231,工程制图,食品学院,包装工程,proffessional coure course,normal,normal,,,,,专业核心
+1232,包装设计应用软件基础,食品学院,包装工程,proffessional coure course,normal,normal,,,,,专业核心
+1233,包装力学,食品学院,包装工程,proffessional coure course,national level,normal,,,,,专业核心，国家级课程
+1234,包装材料学,食品学院,包装工程,proffessional coure course,normal,normal,,,,,专业核心
+1235,销售包装设计,食品学院,包装工程,proffessional coure course,normal,normal,,,,,专业核心
+1236,印刷工艺及印后加工,食品学院,包装工程,proffessional coure course,normal,normal,,,,,专业核心
+1237,包装容器结构设计与制造,食品学院,包装工程,proffessional coure course,normal,normal,,,,,专业核心
+1238,包装工艺学,食品学院,包装工程,proffessional coure course,provincial level,normal,,,,,专业核心，省级课程
+1239,包装机械及自动化,食品学院,包装工程,proffessional coure course,provincial level,normal,,,,,专业核心，省级课程
+1240,包装生产与工厂设计,食品学院,包装工程,proffessional coure course,normal,normal,,,,,专业核心
+1241,运输包装学,食品学院,包装工程,curriculum development,normal,normal,,,,,运输包装理论
+1242,现代模具设计技术,食品学院,包装工程,curriculum development,normal,normal,,,,,包装理论
+1243,智能包装技术,食品学院,包装工程,curriculum development,school level,normal,,,,,包装理论
+1244,包装色彩学及色彩管理技术,食品学院,包装工程,curriculum development,normal,normal,,,,,包装新工科，校级课程
+1245,农产品贮运学,食品学院,包装工程,curriculum development,normal,normal,,,,,拓展教育
+1246,食品保藏原理 ,食品学院,包装工程,curriculum development,normal,normal,,,,,食品包装理论
+1247,数字印前技术,食品学院,包装工程,curriculum development,normal,normal,,,,,包装印刷理论
+1248,电子出版与多媒体技术,食品学院,包装工程,curriculum development,normal,normal,,,,,拓展教育
+1249,包装造型设计,食品学院,包装工程,curriculum development,normal,normal,,,,,包装印刷理论
+1250,标志与版式设计,食品学院,包装工程,curriculum development,normal,normal,,,,,包装印刷理论
+1251,包装测试技术,食品学院,包装工程,curriculum development,normal,normal,,,,,包装结构设计
+1252,包装管理,食品学院,包装工程,curriculum development,normal,normal,,,,,包装结构设计
+1253,包装标准与法规,食品学院,包装工程,curriculum development,normal,normal,,,,,包装结构设计
+1254,包装工程专业英语,食品学院,包装工程,curriculum development,normal,normal,,,,,包装结构设计
+1255,物联网概论,食品学院,包装工程,curriculum development,normal,normal,,,,,拓展教育
+1256,人工智能概述,食品学院,包装工程,curriculum development,normal,normal,,,,,拓展教育
+1257,市场营销学,食品学院,包装工程,curriculum development,normal,normal,,,,,拓展教育
+1258,电子商务概论,食品学院,包装工程,curriculum development,normal,normal,,,,,拓展教育
+1259,物流管理,食品学院,包装工程,curriculum development,normal,normal,,,,,拓展教育
+1260,中医食疗学,食品学院,包装工程,curriculum development,normal,normal,,,,,拓展教育
+1261,食品营养学,食品学院,食品质量与安全,proffessional coure course,national level,normal,,,,,专业核心，国家级课程
+1262,农产品加工学,食品学院,食品质量与安全,proffessional coure course,normal,normal,,,,,专业核心
+1263,食品卫生学 ,食品学院,食品质量与安全,proffessional coure course,normal,normal,,,,,专业核心
+1264,食品分析,食品学院,食品质量与安全,proffessional coure course,normal,normal,,,,,专业核心
+1265,食品仪器分析,食品学院,食品质量与安全,proffessional coure course,normal,normal,,,,,专业核心
+1266,食品微生物学,食品学院,食品质量与安全,proffessional coure course,provincial level,normal,,,,,专业核心，省级课程
+1267,食品化学,食品学院,食品质量与安全,proffessional coure course,provincial level,normal,,,,,专业核心，省级课程
+1268,食品安全监管实务,食品学院,食品质量与安全,proffessional coure course,normal,normal,,,,,专业核心
+1269,食品添加剂,食品学院,食品质量与安全,proffessional coure course,normal,normal,,,,,专业核心
+1270,食品质量控制与管理,食品学院,食品质量与安全,proffessional coure course,normal,normal,,,,,专业核心
+1271,人体生理学概论,食品学院,食品质量与安全,curriculum development,normal,normal,,,,,拓展教育
+1272,食品包装学,食品学院,食品质量与安全,curriculum development,school level,normal,,,,,拓展教育，校级课程
+1273,天然产物化学,食品学院,食品质量与安全,curriculum development,normal,normal,,,,,拓展教育
+1274,现代食品科学技术,食品学院,食品质量与安全,curriculum development,normal,normal,,,,,拓展教育
+1275,焙烤食品工艺学,食品学院,食品质量与安全,curriculum development,normal,normal,,,,,拓展教育
+1276,食品纳米技术,食品学院,食品质量与安全,curriculum development,normal,normal,,,,,拓展教育
+1277,饮料工艺学,食品学院,食品质量与安全,curriculum development,normal,normal,,,,,拓展教育
+1278,水产食品加工学,食品学院,食品质量与安全,curriculum development,normal,normal,,,,,拓展教育
+1279,食品组学,食品学院,食品质量与安全,curriculum development,normal,normal,,,,,拓展教育
+1280,食品工厂设计,食品学院,食品质量与安全,curriculum development,normal,normal,,,,,拓展教育
+1281,农产品加工学,食品学院,食品质量与安全,curriculum development,normal,normal,,,,,拓展教育
+1282,食品鉴伪,食品学院,食品质量与安全,curriculum development,normal,normal,,,,,拓展教育
+1283,免疫检测技术,食品学院,食品质量与安全,curriculum development,normal,normal,,,,,拓展教育
+1284,食品有害物质检测分析,食品学院,食品质量与安全,curriculum development,normal,normal,,,,,拓展教育
+1285,食品感官评定,食品学院,食品质量与安全,curriculum development,normal,normal,,,,,拓展教育
+1286,农产品安全生产,食品学院,食品质量与安全,curriculum development,normal,normal,,,,,拓展教育
+1287,畜禽健康养殖与安全生产,食品学院,食品质量与安全,curriculum development,normal,normal,,,,,拓展教育
+1288,水产品质量安全控制,水利与土木工程学院,食品质量与安全,curriculum development,normal,normal,,,,,拓展教育
+1289,公共行政学,水利与土木工程学院,食品质量与安全,curriculum development,normal,normal,,,,,拓展教育
+1290,食品安全风险交流,水利与土木工程学院,食品质量与安全,curriculum development,normal,normal,,,,,拓展教育
+1291,应急管理概论,水利与土木工程学院,食品质量与安全,curriculum development,normal,normal,,,,,拓展教育
+1292,食品大数据分析与应用,水利与土木工程学院,食品质量与安全,curriculum development,normal,normal,,,,,拓展教育
+1293,人工智能,水利与土木工程学院,食品质量与安全,curriculum development,normal,normal,,,,,拓展教育
+1294,数据挖掘与机器学习,水利与土木工程学院,食品质量与安全,curriculum development,normal,normal,,,,,拓展教育
+1295,工程制图,水利与土木工程学院,食品质量与安全,proffessional coure course,normal,normal,,,,,专业核心
+1296,素描,水利与土木工程学院,建筑学,proffessional coure course,normal,normal,,,,,专业核心
+1297,色彩,水利与土木工程学院,建筑学,proffessional coure course,national level,normal,,,,,专业核心，国家级课程
+1298,建筑学概论,水利与土木工程学院,建筑学,proffessional coure course,normal,normal,,,,,专业核心
+1299,建筑设计基础,水利与土木工程学院,建筑学,proffessional coure course,normal,normal,,,,,专业核心
+1300,公共建筑设计原理,水利与土木工程学院,建筑学,proffessional coure course,normal,normal,,,,,专业核心
+1301,建筑材料与构造,水利与土木工程学院,建筑学,proffessional coure course,normal,normal,,,,,专业核心
+1302,建筑力学,水利与土木工程学院,建筑学,proffessional coure course,provincial level,normal,,,,,专业核心，省级课程
+1303,中国建筑史,水利与土木工程学院,建筑学,proffessional coure course,provincial level,normal,,,,,专业核心，省级课程
+1304,外国建筑史,水利与土木工程学院,建筑学,proffessional coure course,normal,normal,,,,,专业核心
+1305,建筑物理,水利与土木工程学院,建筑学,proffessional coure course,normal,normal,,,,,专业核心
+1306,建筑结构,水利与土木工程学院,建筑学,proffessional coure course,normal,normal,,,,,专业核心
+1307,建筑设计,水利与土木工程学院,建筑学,proffessional coure course,normal,normal,,,,,专业核心
+1308,居住建筑设计原理,水利与土木工程学院,建筑学,curriculum development,national level,normal,,,,,建筑理论，校级课程
+1309,建筑与环境构成解析,水利与土木工程学院,建筑学,curriculum development,normal,normal,,,,,拓展教育
+1310,室内设计原理,水利与土木工程学院,建筑学,curriculum development,normal,normal,,,,,建筑与工程
+1311,景观设计原理,水利与土木工程学院,建筑学,curriculum development,normal,normal,,,,,建筑与工程
+1312,建筑设备,水利与土木工程学院,建筑学,curriculum development,normal,normal,,,,,建筑与工程
+1313,建筑法规与防火设计,水利与土木工程学院,建筑学,curriculum development,normal,normal,,,,,建筑师基础知识
+1314,建筑实务,水利与土木工程学院,建筑学,curriculum development,normal,normal,,,,,建筑师职业素养
+1315,西方当代建筑思潮与作品评析,水利与土木工程学院,建筑学,curriculum development,normal,normal,,,,,建筑前沿理论
+1316,岭南建筑与园林,水利与土木工程学院,建筑学,curriculum development,normal,normal,,,,,地域特色课程
+1317,中外园林史,水利与土木工程学院,建筑学,curriculum development,normal,normal,,,,,历史与理论
+1318,岭南乡土建筑与文化,水利与土木工程学院,建筑学,curriculum development,normal,normal,,,,,地域特色课程
+1319,建筑经济,水利与土木工程学院,建筑学,curriculum development,normal,normal,,,,,建筑师基础知识
+1320,城市设计理论与实践,水利与土木工程学院,建筑学,curriculum development,normal,normal,,,,,历史与理论
+1321,绿色建筑设计与节能技术,水利与土木工程学院,建筑学,curriculum development,normal,normal,,,,,建筑前沿理论
+1322,环境生态学,水利与土木工程学院,水利水电工程,proffessional coure course,normal,normal,,,,,专业核心
+1323,画法几何与工程制图,水利与土木工程学院,水利水电工程,proffessional coure course,normal,normal,,,,,专业核心
+1324,测量学,水利与土木工程学院,水利水电工程,proffessional coure course,normal,normal,,,,,专业核心
+1325,理论力学,水利与土木工程学院,水利水电工程,proffessional coure course,normal,normal,,,,,专业核心
+1326,材料力学,水利与土木工程学院,水利水电工程,proffessional coure course,normal,normal,,,,,专业核心
+1327,水利水电法律法规,水利与土木工程学院,水利水电工程,proffessional coure course,normal,normal,,,,,专业核心
+1328,土木工程材料,水利与土木工程学院,水利水电工程,proffessional coure course,provincial level,normal,,,,,专业核心，省级课程
+1329,工程经济学,水利与土木工程学院,水利水电工程,proffessional coure course,provincial level,normal,,,,,专业核心，省级课程
+1330,水力学,水利与土木工程学院,水利水电工程,proffessional coure course,normal,normal,,,,,专业核心
+1331,结构力学,水利与土木工程学院,水利水电工程,proffessional coure course,normal,normal,,,,,专业核心
+1332,工程水文学,水利与土木工程学院,水利水电工程,proffessional coure course,normal,normal,,,,,专业核心
+1333,水工钢筋混凝土结构,水利与土木工程学院,水利水电工程,proffessional coure course,normal,normal,,,,,专业核心
+1334,水利工程施工,水利与土木工程学院,水利水电工程,proffessional coure course,normal,normal,,,,,专业核心、校级课程
+1335,Matlab 程序设计与应用,水利与土木工程学院,水利水电工程,curriculum development,national level,normal,,,,,计算机与工程，校级课程
+1336,地理信息系统,水利与土木工程学院,水利水电工程,curriculum development,normal,normal,,,,,计算机与工程
+1337,工程监理概论,水利与土木工程学院,水利水电工程,curriculum development,normal,normal,,,,,背景知识
+1338,水土保持概论,水利与土木工程学院,水利水电工程,curriculum development,normal,normal,,,,,背景知识
+1339,岩石力学,水利与土木工程学院,水利水电工程,curriculum development,normal,normal,,,,,背景知识
+1340,装配式建筑,水利与土木工程学院,水利水电工程,curriculum development,normal,normal,,,,,背景知识
+1341,弹性力学,水利与土木工程学院,水利水电工程,curriculum development,normal,normal,,,,,基础知识
+1342,结构动力学原理,水利与土木工程学院,水利水电工程,curriculum development,normal,normal,,,,,基础知识
+1343,农业设施工程,水利与土木工程学院,水利水电工程,curriculum development,normal,normal,,,,,基础知识
+1344,水资源规划及利用,水利与土木工程学院,水利水电工程,curriculum development,normal,normal,,,,,基础知识
+1345,灌溉排水工程,水利与土木工程学院,水利水电工程,curriculum development,normal,normal,,,,,基础知识
+1346,环境水力学,水利与土木工程学院,水利水电工程,curriculum development,normal,normal,,,,,基础知识
+1347,河流动力学与河道治理,水利与土木工程学院,水利水电工程,curriculum development,normal,normal,,,,,基础知识
+1348,城市水利工程,水利与土木工程学院,水利水电工程,curriculum development,normal,normal,,,,,基础知识
+1349,水电站,水利与土木工程学院,水利水电工程,curriculum development,normal,normal,,,,,基础知识
+1350,水利工程概预算,水利与土木工程学院,水利水电工程,curriculum development,normal,normal,,,,,基础知识
+1351,水工钢结构,水利与土木工程学院,水利水电工程,curriculum development,normal,normal,,,,,基础知识
+1352,环境生态学,水利与土木工程学院,土木工程,proffessional coure course,normal,normal,,,,,专业核心
+1353,画法几何与工程制图,水利与土木工程学院,土木工程,proffessional coure course,normal,normal,,,,,专业核心
+1354,测量学,水利与土木工程学院,土木工程,proffessional coure course,normal,normal,,,,,专业核心
+1355,理论力学,水利与土木工程学院,土木工程,proffessional coure course,normal,normal,,,,,专业核心
+1356,材料力学,水利与土木工程学院,土木工程,proffessional coure course,normal,normal,,,,,专业核心
+1357,混凝土结构基本原理,水利与土木工程学院,土木工程,proffessional coure course,normal,normal,,,,,专业核心
+1358,钢结构基本原理,水利与土木工程学院,土木工程,proffessional coure course,normal,normal,,,,,专业核心
+1359,工程荷载与可靠度设计原理,水利与土木工程学院,土木工程,proffessional coure course,normal,normal,,,,,专业核心
+1360,流体力学,水利与土木工程学院,土木工程,proffessional coure course,normal,normal,,,,,专业核心
+1361,工程项目管理,水利与土木工程学院,土木工程,proffessional coure course,normal,normal,,,,,专业核心
+1362,土木工程专业概论,水利与土木工程学院,土木工程,proffessional coure course,normal,normal,,,,,专业核心
+1363,工程经济学,水利与土木工程学院,土木工程,proffessional coure course,provincial level,normal,,,,,专业核心，省级课程
+1364,水力学,水利与土木工程学院,土木工程,proffessional coure course,normal,normal,,,,,专业核心
+1365,结构力学,水利与土木工程学院,土木工程,proffessional coure course,normal,normal,,,,,专业核心
+1366,混凝土结构设计,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1367,房屋建筑学,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1368,土木工程施工组织,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1369,土木工程计量与计价,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1370,建筑工程计算机软件应用,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1371,工程结构抗震设计,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1372,高层建筑结构设计,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1373,工程管理 IT 技术,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1374,道路勘测设计,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1375,桥梁工程,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1376,路基路面工程,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1377,路桥工程施工组织,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1378,路桥工程计量与计价,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1379,预应力混凝土结构,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1380,桥梁工程计算机软件应用,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1381,桥梁抗风与抗震,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1382,隧道工程,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1383,地下工程施工组织,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1384,地下工程计量与计价,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1385,地下工程计算机软件应用,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1386,基坑及边坡工程,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1387,岩石力学,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1388,岩土工程抗震设计,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1389,地下建筑结构,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1390,岩土工程勘察与测试,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1391,地基处理,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1392,房地产开发经营与管理,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1393,工程建设法规,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1394,工程监理概论,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1395,安全管理工程,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1396,工程经济学原理,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1397,建筑信息建模 BIM,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1398,装配式建筑,水利与土木工程学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1399,土木工程计量与计价软件应用,人工智能学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1400,简明弹性力学,人工智能学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1401,结构动力学原理,人工智能学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1402,桥梁检测与加固,人工智能学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1403,桥梁美学,人工智能学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1404,地下工程施工技术,人工智能学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1405,岩土工程概论,人工智能学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1406,农业设施工程,人工智能学院,土木工程,curriculum development,normal,normal,,,,,拓展教育
+1407,深度学习,人工智能学院,人工智能,proffessional coure course,normal,normal,,,,,专业核心
+1408,人工智能导论,人工智能学院,人工智能,proffessional coure course,normal,normal,,,,,专业核心
+1409,计算智能,人工智能学院,人工智能,proffessional coure course,normal,normal,,,,,专业核心
+1410,模式识别与机器学习,人工智能学院,人工智能,proffessional coure course,normal,normal,,,,,专业核心
+1411,图像处理与机器视觉,人工智能学院,人工智能,proffessional coure course,normal,normal,,,,,专业核心
+1412,精准农业航空技术及应用,人工智能学院,人工智能,curriculum development,normal,normal,,,,,深度专业知识
+1413,植保智能技术与装备,人工智能学院,人工智能,curriculum development,normal,normal,,,,,拓展教育
+1414,无线传感器网络技术,人工智能学院,人工智能,curriculum development,normal,normal,,,,,工程技术
+1415,通信与计算机网络,人工智能学院,人工智能,curriculum development,normal,normal,,,,,技术基础
+1416,物联网概论,人工智能学院,人工智能,curriculum development,normal,normal,,,,,技术基础
+1417,无线通信技术及应用,人工智能学院,人工智能,curriculum development,normal,normal,,,,,技术基础
+1418,智能计算系统,人工智能学院,人工智能,curriculum development,normal,normal,,,,,工程技术
+1419,嵌入式人工智能,人工智能学院,人工智能,curriculum development,normal,normal,,,,,工程技术
+1420,智能机器人系统,人工智能学院,人工智能,curriculum development,normal,normal,,,,,工程技术
+1421,最优化方法,人工智能学院,人工智能,curriculum development,normal,normal,,,,,技术基础
+1422,数字信号处理,数学与信息学院、软件学院,人工智能,curriculum development,normal,normal,,,,,技术基础
+1423,智能语音技术与应用,数学与信息学院、软件学院,人工智能,curriculum development,normal,normal,,,,,技术基础
+1424,复杂结构数据挖掘,数学与信息学院、软件学院,人工智能,curriculum development,normal,normal,,,,,技术基础
+1425,数据分析与可视化,数学与信息学院、软件学院,人工智能,curriculum development,normal,normal,,,,,技术基础
+1426,分布与并行计算,数学与信息学院、软件学院,人工智能,curriculum development,normal,normal,,,,,拓展教育
+1427,云计算技术,数学与信息学院、软件学院,人工智能,curriculum development,normal,normal,,,,,技术基础
+1428,数据库系统,数学与信息学院、软件学院,人工智能,curriculum development,normal,normal,,,,,技术基础
+1429,大数据技术原理,数学与信息学院、软件学院,人工智能,curriculum development,normal,normal,,,,,技术基础
+1430,离散结构,数学与信息学院、软件学院,计算机科学与技术,proffessional coure course,normal,normal,,,,,专业核心
+1431,数据库系统,数学与信息学院、软件学院,计算机科学与技术,proffessional coure course,normal,normal,,,,,专业核心
+1432,编译原理,数学与信息学院、软件学院,计算机科学与技术,proffessional coure course,normal,normal,,,,,专业核心
+1433,信息系统项目管理,数学与信息学院、软件学院,计算机科学与技术,curriculum development,normal,normal,,,,,拓展教育
+1434,农业机器人,数学与信息学院、软件学院,计算机科学与技术,curriculum development,normal,normal,,,,,拓展教育
+1435,数学建模,数学与信息学院、软件学院,计算机科学与技术,curriculum development,normal,normal,,,,,拓展教育
+1436,计算机视觉与图像处理,数学与信息学院、软件学院,计算机科学与技术,curriculum development,normal,normal,,,,,技术理论
+1437,人工智能,数学与信息学院、软件学院,计算机科学与技术,curriculum development,normal,normal,,,,,软件开发、项目管理
+1438,数据挖掘与机器学习,数学与信息学院、软件学院,计算机科学与技术,curriculum development,normal,normal,,,,,技术理论
+1439,统计学,数学与信息学院、软件学院,计算机科学与技术,curriculum development,normal,normal,,,,,技术理论
+1440,现代软件开发技术,数学与信息学院、软件学院,计算机科学与技术,curriculum development,normal,normal,,,,,设计开发
+1441,Linux 系统及程序设计,数学与信息学院、软件学院,计算机科学与技术,curriculum development,normal,normal,,,,,设计开发
+1442,机器人技术,数学与信息学院、软件学院,计算机科学与技术,curriculum development,normal,normal,,,,,软件开发、项目管理
+1443,虚拟现实技术,数学与信息学院、软件学院,计算机科学与技术,curriculum development,normal,normal,,,,,软件开发、项目管理
+1444,人机交互,数学与信息学院、软件学院,计算机科学与技术,curriculum development,normal,normal,,,,,专业理论知识
+1445,数值计算,数学与信息学院、软件学院,计算机科学与技术,curriculum development,normal,normal,,,,,技术理论
+1446,计算机图形学,数学与信息学院、软件学院,计算机科学与技术,curriculum development,normal,normal,,,,,专业理论知识
+1447,软件开发基础,数学与信息学院、软件学院,计算机科学与技术,curriculum development,normal,normal,,,,,设计与开发
+1448,分布与并行计算,数学与信息学院、软件学院,计算机科学与技术,curriculum development,normal,normal,,,,,技术理论
+1449,计算机科学导论,数学与信息学院、软件学院,计算机科学与技术,curriculum development,normal,normal,,,,,工程技术知识、省级课程
+1450,离散结构,数学与信息学院、软件学院,数据科学与大数据技术,proffessional coure course,normal,normal,,,,,专业核心
+1451,大数据技术原理,数学与信息学院、软件学院,数据科学与大数据技术,proffessional coure course,normal,normal,,,,,专业核心
+1452,分布式计算系统,数学与信息学院、软件学院,数据科学与大数据技术,proffessional coure course,normal,normal,,,,,专业核心
+1453,数据分析与数据挖掘,数学与信息学院、软件学院,数据科学与大数据技术,proffessional coure course,normal,normal,,,,,专业核心
+1454,数据库系统,数学与信息学院、软件学院,数据科学与大数据技术,proffessional coure course,normal,normal,,,,,专业核心
+1455,金融数据分析,数学与信息学院、软件学院,数据科学与大数据技术,curriculum development,normal,normal,,,,,拓展教育
+1456,大数据管理与分析,数学与信息学院、软件学院,数据科学与大数据技术,curriculum development,normal,normal,,,,,基本技能
+1457,博弈论,数学与信息学院、软件学院,数据科学与大数据技术,curriculum development,normal,normal,,,,,拓展教育
+1458,大数据处理技术,数学与信息学院、软件学院,数据科学与大数据技术,curriculum development,normal,normal,,,,,知识应用
+1459,农业大数据分析,数学与信息学院、软件学院,数据科学与大数据技术,curriculum development,normal,normal,,,,,拓展教育
+1460,大数据可视化技术,数学与信息学院、软件学院,数据科学与大数据技术,curriculum development,normal,normal,,,,,学科前沿
+1461,大数据及其安全与隐私,数学与信息学院、软件学院,数据科学与大数据技术,curriculum development,normal,normal,,,,,知识应用
+1462,时间序列分析,数学与信息学院、软件学院,数据科学与大数据技术,curriculum development,normal,normal,,,,,拓展教育
+1463,云计算技术,数学与信息学院、软件学院,数据科学与大数据技术,curriculum development,normal,normal,,,,,知识应用
+1464,文本挖掘与分析,数学与信息学院、软件学院,数据科学与大数据技术,curriculum development,normal,normal,,,,,学科前沿
+1465,信息获取及搜索引擎,数学与信息学院、软件学院,数据科学与大数据技术,curriculum development,normal,normal,,,,,学科前沿
+1466,区块链原理与技术,数学与信息学院、软件学院,数据科学与大数据技术,curriculum development,normal,normal,,,,,拓展教育
+1467,运筹学,数学与信息学院、软件学院,数据科学与大数据技术,curriculum development,normal,normal,,,,,拓展教育
+1468,实时计算框架,数学与信息学院、软件学院,数据科学与大数据技术,curriculum development,normal,normal,,,,,拓展教育
+1469,机器学习,数学与信息学院、软件学院,数据科学与大数据技术,curriculum development,normal,normal,,,,,拓展教育
+1470,算法分析与设计,数学与信息学院、软件学院,数据科学与大数据技术,curriculum development,normal,normal,,,,,开放设计
+1471,数据科学导论,数学与信息学院、软件学院,数据科学与大数据技术,curriculum development,normal,normal,,,,,拓展教育
+1472,离散结构,数学与信息学院、软件学院,软件工程,proffessional coure course,normal,normal,,,,,专业核心、校级课程
+1473,工程经济,数学与信息学院、软件学院,软件工程,proffessional coure course,normal,normal,,,,,专业核心
+1474,计算机系统基础,数学与信息学院、软件学院,软件工程,proffessional coure course,normal,normal,,,,,专业核心、省级课程
+1475,软件工程基础,数学与信息学院、软件学院,软件工程,proffessional coure course,normal,normal,,,,,专业核心
+1476,数据库原理与应用,数学与信息学院、软件学院,软件工程,proffessional coure course,normal,normal,,,,,专业核心
+1477,软件体系结构,数学与信息学院、软件学院,软件工程,proffessional coure course,normal,normal,,,,,专业核心
+1478,团队激励与沟通,数学与信息学院、软件学院,软件工程,proffessional coure course,normal,normal,,,,,专业核心
+1479,市场营销学,数学与信息学院、软件学院,软件工程,curriculum development,normal,normal,,,,,拓展教育
+1480,信息系统项目管理,数学与信息学院、软件学院,软件工程,curriculum development,normal,normal,,,,,拓展教育
+1481,供应链管理,数学与信息学院、软件学院,软件工程,curriculum development,normal,normal,,,,,拓展教育
+1482,软件质量保证与测试,数学与信息学院、软件学院,软件工程,curriculum development,normal,normal,,,,,拓展教育
+1483,软件开发工程化方法,数学与信息学院、软件学院,软件工程,curriculum development,normal,normal,,,,,拓展教育
+1484,软件设计实例分析,数学与信息学院、软件学院,软件工程,curriculum development,normal,normal,,,,,拓展教育
+1485,软件需求分析,数学与信息学院、软件学院,软件工程,curriculum development,normal,normal,,,,,拓展教育
+1486,软件项目管理,数学与信息学院、软件学院,软件工程,curriculum development,normal,normal,,,,,拓展教育
+1487,现代软件开发技术,数学与信息学院、软件学院,软件工程,curriculum development,normal,normal,,,,,拓展教育
+1488,Linux 系统及程序设计,数学与信息学院、软件学院,软件工程,curriculum development,normal,normal,,,,,程序设计语言
+1489,算法分析与设计,数学与信息学院、软件学院,软件工程,curriculum development,normal,normal,,,,,设计开发
+1490,人机交互,数学与信息学院、软件学院,软件工程,curriculum development,normal,normal,,,,,拓展教育
+1491,计算机视觉与图像处理,数学与信息学院、软件学院,软件工程,curriculum development,normal,normal,,,,,拓展教育
+1492,人工智能,数学与信息学院、软件学院,软件工程,curriculum development,normal,normal,,,,,拓展教育
+1493,数值计算,数学与信息学院、软件学院,软件工程,curriculum development,normal,normal,,,,,拓展教育
+1494,计算机图形学,数学与信息学院、软件学院,软件工程,curriculum development,normal,normal,,,,,拓展教育
+1495,区块链原理与技术,数学与信息学院、软件学院,软件工程,curriculum development,normal,normal,,,,,拓展教育
+1496,编译原理,数学与信息学院、软件学院,软件工程,curriculum development,normal,normal,,,,,拓展教育
+1497,软件开发基础,数学与信息学院、软件学院,软件工程,special course,normal,normal,,,,,.NET/Java/C++
+1498,面向对象的分析与设计,数学与信息学院、软件学院,软件工程,curriculum development,normal,normal,,,,,设计开发
+1499,汇编语言程序设计,数学与信息学院、软件学院,软件工程,curriculum development,normal,normal,,,,,程序设计语言
+1500,计算机科学概论,数学与信息学院、软件学院,软件工程,curriculum development,normal,normal,,,,,拓展教育
+1501,离散结构,数学与信息学院、软件学院,网络工程,proffessional coure course,normal,normal,,,,,专业核心
+1502,数据通信与计算机网络,数学与信息学院、软件学院,网络工程,proffessional coure course,normal,normal,,,,,专业核心
+1503,网络工程与设计,数学与信息学院、软件学院,网络工程,proffessional coure course,normal,normal,,,,,专业核心
+1504,企业人力资源管理,数学与信息学院、软件学院,网络工程,curriculum development,normal,normal,,,,,拓展教育
+1505,系统分析与设计,数学与信息学院、软件学院,网络工程,curriculum development,normal,normal,,,,,网络应用开发
+1506,企业组网技术,数学与信息学院、软件学院,网络工程,curriculum development,normal,normal,,,,,拓展教育
+1507,建模与仿真,数学与信息学院、软件学院,网络工程,curriculum development,normal,normal,,,,,拓展教育
+1508,软件开发基础(C++),数学与信息学院、软件学院,网络工程,curriculum development,normal,normal,,,,,网络应用开发
+1509,算法分析与设计,数学与信息学院、软件学院,网络工程,curriculum development,normal,normal,,,,,网络应用开发
+1510,物联网应用开发,数学与信息学院、软件学院,网络工程,curriculum development,normal,normal,,,,,物联网技术理论与实践
+1511,移动软件开发技术,数学与信息学院、软件学院,网络工程,curriculum development,normal,normal,,,,,物联网技术理论与实践
+1512,物联网原理及应用,数学与信息学院、软件学院,网络工程,curriculum development,normal,normal,,,,,物联网技术理论与实践
+1513,网络入侵与防御技术,数学与信息学院、软件学院,网络工程,curriculum development,normal,normal,,,,,网络安全理论与实践
+1514,网络安全,数学与信息学院、软件学院,网络工程,curriculum development,normal,normal,,,,,网络安全理论与实践
+1515,现代密码学,数学与信息学院、软件学院,网络工程,curriculum development,normal,normal,,,,,网络安全理论与实践
+1516,信息安全数学基础,数学与信息学院、软件学院,网络工程,curriculum development,normal,normal,,,,,网络安全理论与实践
+1517,Linux 系统及程序设计,数学与信息学院、软件学院,网络工程,curriculum development,normal,normal,,,,,拓展教育
+1518,无线网络技术,数学与信息学院、软件学院,网络工程,curriculum development,normal,normal,,,,,网络应用开发
+1519,人机交互,数学与信息学院、软件学院,网络工程,curriculum development,normal,normal,,,,,网络应用开发
+1520,云计算技术,数学与信息学院、软件学院,网络工程,curriculum development,normal,normal,,,,,网络应用开发
+1521,人工智能,数学与信息学院、软件学院,网络工程,curriculum development,normal,normal,,,,,网络应用开发
+1522,Python 语言程序设计,数学与信息学院、软件学院,网络工程,curriculum development,normal,normal,,,,,□Python 语言程序设计(网络安全理论与实践
+1523,机器人技术,数学与信息学院、软件学院,网络工程,curriculum development,normal,normal,,,,,网络应用开发
+1524,汇编语言程序设计,数学与信息学院、软件学院,网络工程,curriculum development,normal,normal,,,,,拓展教育
+1525,SDN 原理及应用开发,数学与信息学院、软件学院,网络工程,curriculum development,normal,normal,,,,,拓展教育
+1526,网络管理,数学与信息学院、软件学院,网络工程,curriculum development,normal,normal,,,,,网络安全理论与实践
+1527,路由与交换技术,数学与信息学院、软件学院,网络工程,curriculum development,normal,normal,,,,,理论知识及实践
+1528,网络编程,数学与信息学院、软件学院,网络工程,curriculum development,normal,normal,,,,,理论知识及实践
+1529,数据库系统,数学与信息学院、软件学院,网络工程,curriculum development,normal,normal,,,,,网络应用开发
+1530,UML 面向对象分析与设计,数学与信息学院、软件学院,信息管理与信息系统,proffessional coure course,normal,normal,,,,,专业核心
+1531,通信与计算机网络,数学与信息学院、软件学院,信息管理与信息系统,proffessional coure course,normal,normal,,,,,专业核心
+1532,技术经济学,数学与信息学院、软件学院,信息管理与信息系统,curriculum development,normal,normal,,,,,组织生产和服务管理
+1533,精益管理,数学与信息学院、软件学院,信息管理与信息系统,curriculum development,normal,normal,,,,,组织生产和服务管理
+1534,建模与仿真,数学与信息学院、软件学院,信息管理与信息系统,curriculum development,normal,normal,,,,,组织生产和服务管理
+1535,物流工程,数学与信息学院、软件学院,信息管理与信息系统,curriculum development,normal,normal,,,,,组织生产和服务管理
+1536,电子商务,数学与信息学院、软件学院,信息管理与信息系统,curriculum development,normal,normal,,,,,组织生产和服务管理
+1537,工程心理学,数学与信息学院、软件学院,信息管理与信息系统,curriculum development,normal,normal,,,,,组织生产和服务管理
+1538,生产运作管理与 ERP,数学与信息学院、软件学院,信息管理与信息系统,curriculum development,normal,normal,,,,,组织生产和服务管理
+1539,金融投资分析,数学与信息学院、软件学院,信息管理与信息系统,curriculum development,normal,normal,,,,,组织生产和服务管理拓展教育
+1540,Web 开发基础,数学与信息学院、软件学院,信息管理与信息系统,curriculum development,normal,normal,,,,,信息系统
+1541,Java EE 企业应用开发,数学与信息学院、软件学院,信息管理与信息系统,curriculum development,normal,normal,,,,,信息系统
+1542,Web 前端开发技术与实践,数学与信息学院、软件学院,信息管理与信息系统,curriculum development,normal,normal,,,,,信息系统
+1543,网络技术与应用,数学与信息学院、软件学院,信息管理与信息系统,curriculum development,normal,normal,,,,,信息系统
+1544,移动应用开发,数学与信息学院、软件学院,信息管理与信息系统,curriculum development,normal,normal,,,,,信息系统
+1545,多媒体应用基础,数学与信息学院、软件学院,信息管理与信息系统,curriculum development,normal,normal,,,,,信息系统
+1546,Unix 操作系统,数学与信息学院、软件学院,信息管理与信息系统,curriculum development,normal,normal,,,,,信息系统
+1547,信息系统项目管理,数学与信息学院、软件学院,信息管理与信息系统,curriculum development,normal,normal,,,,,信息系统
+1548,信息系统安全与区块链,数学与信息学院、软件学院,信息管理与信息系统,curriculum development,normal,normal,,,,,学科前沿
+1549,农业信息化导论,数学与信息学院、软件学院,信息管理与信息系统,curriculum development,normal,normal,,,,,学科前沿
+1550,商务智能,数学与信息学院、软件学院,信息管理与信息系统,curriculum development,normal,normal,,,,,数据分析处理
+1551,Python 程序设计,数学与信息学院、软件学院,信息管理与信息系统,curriculum development,normal,normal,,,,,数据分析处理
+1552,大数据管理与应用,数学与信息学院、软件学院,信息管理与信息系统,curriculum development,normal,normal,,,,,数据分析处理
+1553,大数据应用专题,数学与信息学院、软件学院,信息管理与信息系统,curriculum development,normal,normal,,,,,数据分析处理
+1554,数据分析与可视化,数学与信息学院、软件学院,信息管理与信息系统,curriculum development,normal,normal,,,,,数据分析处理
+1555,物联网技术与应用,数学与信息学院、软件学院,信息管理与信息系统,curriculum development,normal,normal,,,,,数据分析处理
+1556,数字图像处理基础,数学与信息学院、软件学院,信息管理与信息系统,curriculum development,normal,normal,,,,,数据分析处理
+1557,机器学习导论,数学与信息学院、软件学院,信息管理与信息系统,curriculum development,normal,normal,,,,,学科前沿
+1558,云计算技术与应用,数学与信息学院、软件学院,信息管理与信息系统,curriculum development,normal,normal,,,,,学科前沿
+1559,人工智能导论,数学与信息学院、软件学院,信息管理与信息系统,curriculum development,normal,normal,,,,,拓展教育
+1560,数据结构与算法,数学与信息学院、软件学院,信息与计算科学,proffessional coure course,normal,normal,,,,,专业核心
+1561,数值分析,数学与信息学院、软件学院,信息与计算科学,proffessional coure course,normal,normal,,,,,专业核心
+1562,算法分析与设计,数学与信息学院、软件学院,信息与计算科学,proffessional coure course,normal,normal,,,,,专业核心
+1563,运筹学,数学与信息学院、软件学院,信息与计算科学,proffessional coure course,normal,normal,,,,,专业核心
+1564,项目开发与管理,数学与信息学院、软件学院,信息与计算科学,curriculum development,normal,normal,,,,,专业知识
+1565,可视化信息交互设计,数学与信息学院、软件学院,信息与计算科学,curriculum development,normal,normal,,,,,专业知识
+1566,信号与系统,数学与信息学院、软件学院,信息与计算科学,curriculum development,normal,normal,,,,,专业知识
+1567,Matlab 程序设计与应用,数学与信息学院、软件学院,信息与计算科学,curriculum development,normal,normal,,,,,专业知识
+1568,计算机图形学,数学与信息学院、软件学院,信息与计算科学,curriculum development,normal,normal,,,,,工程技术
+1569,智能计算,数学与信息学院、软件学院,信息与计算科学,curriculum development,normal,normal,,,,,工程技术
+1570,数据挖掘,数学与信息学院、软件学院,信息与计算科学,curriculum development,normal,normal,,,,,工程技术
+1571,多媒体系统,数学与信息学院、软件学院,信息与计算科学,curriculum development,normal,normal,,,,,工程技术
+1572,云计算技术与应用,数学与信息学院、软件学院,信息与计算科学,curriculum development,normal,normal,,,,,拓展教育
+1573,计算机信息安全,数学与信息学院、软件学院,信息与计算科学,curriculum development,normal,normal,,,,,工程技术
+1574,微分方程数值解,数学与信息学院、软件学院,信息与计算科学,curriculum development,normal,normal,,,,,专业知识
+1575,数理统计,数学与信息学院、软件学院,统计学,proffessional coure course,normal,normal,,,,,专业核心
+1576,回归分析,数学与信息学院、软件学院,统计学,proffessional coure course,normal,normal,,,,,专业核心
+1577,时间序列分析,数学与信息学院、软件学院,统计学,proffessional coure course,normal,normal,,,,,专业核心
+1578,多元统计分析,数学与信息学院、软件学院,统计学,proffessional coure course,normal,normal,,,,,专业核心
+1579,随机过程,数学与信息学院、软件学院,统计学,proffessional coure course,normal,normal,,,,,专业核心
+1580,统计计算与技术,数学与信息学院、软件学院,统计学,proffessional coure course,normal,normal,,,,,专业核心
+1581,统计学导论,数学与信息学院、软件学院,统计学,curriculum development,normal,normal,,,,,拓展教育
+1582,经济学基础,数学与信息学院、软件学院,统计学,curriculum development,normal,normal,,,,,拓展教育
+1583,试验设计,数学与信息学院、软件学院,统计学,curriculum development,normal,normal,,,,,拓展教育
+1584,计量经济学,数学与信息学院、软件学院,统计学,curriculum development,normal,normal,,,,,拓展教育
+1585,数据挖掘,数学与信息学院、软件学院,统计学,curriculum development,normal,normal,,,,,拓展教育
+1586,应用统计专题,数学与信息学院、软件学院,统计学,curriculum development,normal,normal,,,,,拓展教育
+1587,数据结构与算法,数学与信息学院、软件学院,统计学,curriculum development,normal,normal,,,,,拓展教育
+1588,运筹学,数学与信息学院、软件学院,统计学,curriculum development,normal,normal,,,,,拓展教育
+1589,金融数据分析,数学与信息学院、软件学院,统计学,curriculum development,normal,normal,,,,,经济和金融学基础知识
+1590,保险精算学,数学与信息学院、软件学院,统计学,curriculum development,normal,normal,,,,,经济和金融学基础知识
+1591,Matlab 程序设计与应用,数学与信息学院、软件学院,统计学,curriculum development,normal,normal,,,,,知识及实践
+1592,农业生态统计模型,数学与信息学院、软件学院,统计学,curriculum development,normal,normal,,,,,知识及实践
+1593,生物数据分析,数学与信息学院、软件学院,统计学,curriculum development,normal,normal,,,,,知识及实践
+1594,机器学习,数学与信息学院、软件学院,统计学,curriculum development,normal,normal,,,,,拓展教育
+1595,数理统计,数学与信息学院、软件学院,数学与应用数学,proffessional coure course,normal,normal,,,,,专业核心
+1596,实变函数,数学与信息学院、软件学院,数学与应用数学,proffessional coure course,normal,normal,,,,,专业核心
+1597,数值分析,数学与信息学院、软件学院,数学与应用数学,proffessional coure course,normal,normal,,,,,专业核心
+1598,数学建模,数学与信息学院、软件学院,数学与应用数学,proffessional coure course,normal,normal,,,,,专业核心
+1599,离散数学,数学与信息学院、软件学院,数学与应用数学,proffessional coure course,normal,normal,,,,,专业核心
+1600,计算机科学绪论,数学与信息学院、软件学院,数学与应用数学,proffessional coure course,normal,normal,,,,,专业核心
+1601,近世代数,数学与信息学院、软件学院,数学与应用数学,proffessional coure course,normal,normal,,,,,专业核心
+1602,泛函分析,数学与信息学院、软件学院,数学与应用数学,proffessional coure course,normal,normal,,,,,专业核心
+1603,Matlab 程序设计与应用,数学与信息学院、软件学院,数学与应用数学,proffessional coure course,normal,normal,,,,,专业核心
+1604,微分几何,数学与信息学院、软件学院,数学与应用数学,curriculum development,normal,normal,,,,,应用数学分支
+1605,拓扑学,数学与信息学院、软件学院,数学与应用数学,curriculum development,normal,normal,,,,,应用数学分支
+1606,偏微分方程,数学与信息学院、软件学院,数学与应用数学,curriculum development,normal,normal,,,,,应用数学分支
+1607,积分变换,数学与信息学院、软件学院,数学与应用数学,curriculum development,normal,normal,,,,,拓展教育
+1608,分形与混沌,数学与信息学院、软件学院,数学与应用数学,curriculum development,normal,normal,,,,,应用数学分支
+1609,数据挖掘,数学与信息学院、软件学院,数学与应用数学,curriculum development,normal,normal,,,,,程序编写与设计
+1610,智能计算,数学与信息学院、软件学院,数学与应用数学,curriculum development,normal,normal,,,,,拓展教育
+1611,数据结构与算法,数学与信息学院、软件学院,数学与应用数学,curriculum development,normal,normal,,,,,拓展教育
+1612,运筹学,数学与信息学院、软件学院,数学与应用数学,proffessional coure course,normal,normal,,,,,专业核心
+1613,计算机图形学,数学与信息学院、软件学院,数学与应用数学,curriculum development,normal,normal,,,,,拓展教育
+1614,微分方程数值解,工程学院,数学与应用数学,curriculum development,normal,normal,,,,,拓展教育
+1615,微观经济学,工程学院,数学与应用数学,curriculum development,normal,normal,,,,,金融数学
+1616,宏观经济学,工程学院,数学与应用数学,curriculum development,normal,normal,,,,,金融数学
+1617,计量经济学,工程学院,数学与应用数学,curriculum development,normal,normal,,,,,金融数学
+1618,证券投资分析,工程学院,数学与应用数学,curriculum development,normal,normal,,,,,金融数学
+1619,机器学习,工程学院,数学与应用数学,curriculum development,normal,normal,,,,,拓展教育
+1620,金融工程,工程学院,数学与应用数学,curriculum development,normal,normal,,,,,拓展教育
+1621,生物统计附试验设计,工程学院,数学与应用数学,curriculum development,normal,normal,,,,,拓展教育
+1622,基础素描,工程学院,工业设计,proffessional coure course,normal,normal,,,,,专业核心
+1623,设计素描,工程学院,工业设计,proffessional coure course,normal,normal,,,,,专业核心
+1624,色彩,工程学院,工业设计,proffessional coure course,normal,normal,,,,,专业核心
+1625,计算机辅助二维设计,工程学院,工业设计,proffessional coure course,normal,normal,,,,,专业核心
+1626,机械设计基础,工程学院,工业设计,proffessional coure course,normal,normal,,,,,专业核心
+1627,平面设计基础,工程学院,工业设计,proffessional coure course,normal,normal,,,,,专业核心
+1628,立体造型基础,工程学院,工业设计,proffessional coure course,normal,normal,,,,,专业核心
+1629,产品设计表现,工程学院,工业设计,proffessional coure course,normal,normal,,,,,专业核心
+1630,设计材料与加工工艺,工程学院,工业设计,proffessional coure course,normal,normal,,,,,专业核心
+1631,人机工程学,工程学院,工业设计,proffessional coure course,normal,normal,,,,,专业核心
+1632,产品设计方法学,工程学院,工业设计,proffessional coure course,normal,normal,,,,,专业核心
+1633,产品优化设计,工程学院,工业设计,proffessional coure course,normal,normal,,,,,专业核心
+1634,计算机辅助三维设计,工程学院,工业设计,proffessional coure course,normal,normal,,,,,专业核心
+1635,模型制作,工程学院,工业设计,proffessional coure course,normal,normal,,,,,专业核心
+1636,产品原创设计,工程学院,工业设计,proffessional coure course,normal,normal,,,,,专业核心
+1637,汽车概论,工程学院,工业设计,curriculum development,normal,normal,,,,,学科前沿
+1638,农业机械概论,工程学院,工业设计,curriculum development,normal,normal,,,,,学科前沿
+1639,视觉传达设计 ,工程学院,工业设计,curriculum development,normal,normal,,,,,学科前沿
+1640,生活用品设计,工程学院,工业设计,curriculum development,normal,normal,,,,,学科前沿
+1641,产品包装设计,工程学院,工业设计,curriculum development,normal,normal,,,,,学科前沿
+1642,交互设计概论,工程学院,工业设计,curriculum development,normal,normal,,,,,学科前沿
+1643,专题设计,工程学院,工业设计,curriculum development,normal,normal,,,,,工业设计
+1644,家具设计,工程学院,工业设计,curriculum development,normal,normal,,,,,学科前沿
+1645,农业机械产品设计,工程学院,工业设计,curriculum development,normal,normal,,,,,学科前沿
+1646,专业摄影,工程学院,工业设计,curriculum development,normal,normal,,,,,拓展教育
+1647,工业设计史,工程学院,工业设计,curriculum development,normal,normal,,,,,拓展教育
+1648,广告设计,工程学院,工业设计,curriculum development,normal,normal,,,,,其他学科前沿
+1649,民间文学与民间文化,工程学院,工业设计,curriculum development,normal,normal,,,,,设计实践能力
+1650,机械制造基础,工程学院,机械设计制造及自动化,proffessional coure course,normal,normal,,,,,专业核心
+1651,互换性与技术测量基础,工程学院,机械设计制造及自动化,proffessional coure course,normal,normal,,,,,专业核心
+1652,机械设计基础,工程学院,机械设计制造及自动化,proffessional coure course,normal,normal,,,,,专业核心
+1653,液压与气动,工程学院,机械设计制造及自动化,proffessional coure course,normal,normal,,,,,专业核心
+1654,机械 CAD/CAM,工程学院,机械设计制造及自动化,proffessional coure course,normal,normal,,,,,专业核心
+1655,传感器与检测技术,工程学院,机械设计制造及自动化,proffessional coure course,normal,normal,,,,,专业核心
+1656,电气控制技术,工程学院,机械设计制造及自动化,proffessional coure course,normal,normal,,,,,专业核心
+1657,三维造型设计,工程学院,机械设计制造及自动化,proffessional coure course,normal,normal,,,,,机械设计开发
+1658,智能机器人技术,工程学院,机械设计制造及自动化,curriculum development,normal,normal,,,,,学科前沿
+1659,Matlab 基础与应用,工程学院,机械设计制造及自动化,curriculum development,normal,normal,,,,,专业基础知识
+1660,人机工程学 ,工程学院,机械设计制造及自动化,curriculum development,normal,normal,,,,,拓展教育
+1661,工业工程学,工程学院,机械设计制造及自动化,curriculum development,normal,normal,,,,,拓展教育
+1662,单片机原理与应用,工程学院,机械设计制造及自动化,curriculum development,normal,normal,,,,,拓展教育
+1663,智能装备机器视觉及应用,工程学院,机械设计制造及自动化,curriculum development,normal,normal,,,,,学科前沿
+1664,PLC 原理及应用,工程学院,机械设计制造及自动化,curriculum development,normal,normal,,,,,电子及控制基础知识
+1665,数控机床,工程学院,机械设计制造及自动化,curriculum development,normal,normal,,,,,学科前沿
+1666,现代制造技术,工程学院,机械设计制造及自动化,curriculum development,normal,normal,,,,,学科前沿
+1667,机械装备设计,工程学院,机械设计制造及自动化,curriculum development,normal,normal,,,,,学科前沿
+1668,现代设计方法,工程学院,机械设计制造及自动化,curriculum development,normal,normal,,,,,机械产品设计与开发
+1669,现代机构及其应用,工程学院,机械设计制造及自动化,curriculum development,normal,normal,,,,,机械产品设计与开发
+1670,电力电子技术,工程学院,自动化,proffessional coure course,normal,normal,,,,,专业核心
+1671,液压与气动,工程学院,自动化,proffessional coure course,normal,normal,,,,,专业核心
+1672,电机与拖动,工程学院,自动化,proffessional coure course,normal,normal,,,,,专业核心
+1673,传感器与检测技术,工程学院,自动化,proffessional coure course,normal,normal,,,,,专业核心
+1674,运动控制系统,工程学院,自动化,proffessional coure course,normal,normal,,,,,专业核心
+1675,数字图像处理,工程学院,自动化,curriculum development,normal,normal,,,,,专业基础知识
+1676,电气控制与 PLC 应用技术,工程学院,自动化,curriculum development,normal,normal,,,,,拓展教育
+1677,智能机器人与系统,工程学院,自动化,curriculum development,normal,normal,,,,,计算机控制技术
+1678,单片机原理与应用,工程学院,自动化,curriculum development,normal,normal,,,,,拓展教育
+1679,微机原理与应用,工程学院,自动化,curriculum development,normal,normal,,,,,控制理论理论知识
+1680,计算机控制系统,工程学院,自动化,curriculum development,normal,normal,,,,,计算机控制技术
+1681,控制系统组态技术,工程学院,自动化,curriculum development,normal,normal,,,,,计算机控制技术
+1682,最优化方法,工程学院,自动化,curriculum development,normal,normal,,,,,智能控制理论与技术
+1683,现代控制理论,工程学院,自动化,curriculum development,normal,normal,,,,,智能控制理论与技术
+1684,系统建模与仿真技术,工程学院,自动化,curriculum development,normal,normal,,,,,智能控制理论与技术
+1685,自动化网络技术,工程学院,自动化,curriculum development,normal,normal,,,,,智能控制理论与技术
+1686,控制工程基础,工程学院,车辆工程,proffessional coure course,normal,normal,,,,,专业核心
+1687,车辆工程导论,工程学院,车辆工程,proffessional coure course,normal,normal,,,,,专业核心
+1688,汽车发动机原理,工程学院,车辆工程,proffessional coure course,normal,normal,,,,,专业核心
+1689,汽车理论,工程学院,车辆工程,proffessional coure course,normal,normal,,,,,专业核心
+1690,汽车设计,工程学院,车辆工程,proffessional coure course,normal,normal,,,,,专业核心
+1691,汽车试验学与车辆测试技术,工程学院,车辆工程,proffessional coure course,normal,normal,,,,,专业核心
+1692,人机工程学 ,工程学院,车辆工程,curriculum development,normal,normal,,,,,工程设计与实践
+1693,互换性与技术测量,工程学院,车辆工程,curriculum development,normal,normal,,,,,拓展教育
+1694,单片机原理与应用,工程学院,车辆工程,curriculum development,normal,normal,,,,,拓展教育
+1695,三维造型设计,工程学院,车辆工程,curriculum development,normal,normal,,,,,拓展教育
+1696,有限元分析,工程学院,车辆工程,curriculum development,normal,normal,,,,,拓展教育
+1697,机器视觉与图像处理,工程学院,车辆工程,curriculum development,normal,normal,,,,,车辆工程技术
+1698,汽车电子应用技术 (双语),工程学院,车辆工程,curriculum development,normal,normal,,,,,车辆工程技术
+1699,新能源汽车技术,工程学院,车辆工程,curriculum development,normal,normal,,,,,工程知识与实践
+1700,汽车自动驾驶技术,工程学院,车辆工程,curriculum development,normal,normal,,,,,工程知识与实践
+1701,智能网联汽车与车联网,工程学院,车辆工程,curriculum development,normal,normal,,,,,工程知识与实践
+1702,交通运输工程学,工程学院,车辆工程,curriculum development,normal,normal,,,,,工程知识与实践
+1703,物流工程,工程学院,车辆工程,curriculum development,normal,normal,,,,,工程知识与实践
+1704,汽车运用与服务工程,工程学院,车辆工程,curriculum development,normal,normal,,,,,工程知识与实践
+1705,画法几何与机械制图,工程学院,农业机械化及其自动化,proffessional coure course,normal,normal,,,,,专业核心
+1706,电工与电子技术,工程学院,农业机械化及其自动化,proffessional coure course,normal,normal,,,,,专业核心
+1707,理论力学,工程学院,农业机械化及其自动化,proffessional coure course,normal,normal,,,,,专业核心
+1708,汽车拖拉机学,工程学院,农业机械化及其自动化,proffessional coure course,normal,normal,,,,,专业核心
+1709,机电一体化与过程控制,工程学院,农业机械化及其自动化,proffessional coure course,normal,normal,,,,,专业核心
+1710,农业生产机械化,工程学院,农业机械化及其自动化,proffessional coure course,normal,normal,,,,,专业核心
+1711,农学概论,工程学院,农业机械化及其自动化,curriculum development,normal,normal,,,,,理论知识
+1712,工业产品造型设计,工程学院,农业机械化及其自动化,curriculum development,normal,normal,,,,,拓展教育
+1713,流体力学及其工程应用,工程学院,农业机械化及其自动化,curriculum development,normal,normal,,,,,拓展教育
+1714,机械工程材料,工程学院,农业机械化及其自动化,curriculum development,normal,normal,,,,,机械设计及理论知识
+1715,农业物料学,工程学院,农业机械化及其自动化,curriculum development,normal,normal,,,,,农业机械装备理论知识
+1716,试验设计与数据处理 (双语),工程学院,农业机械化及其自动化,curriculum development,normal,normal,,,,,□试验设计与数据处理 (双语、计算机应用能力
+1717,机械制造基础,工程学院,农业机械化及其自动化,curriculum development,normal,normal,,,,,机械设计及理论知识
+1718,液压与气动,工程学院,农业机械化及其自动化,curriculum development,normal,normal,,,,,机械设计及理论知识
+1719,机器视觉与图像处理,工程学院,农业机械化及其自动化,curriculum development,normal,normal,,,,,机械设计及理论知识
+1720,干燥原理与过程解析,工程学院,农业机械化及其自动化,curriculum development,normal,normal,,,,,拓展教育
+1721,现代制造技术,工程学院,农业机械化及其自动化,curriculum development,normal,normal,,,,,机械设计及理论知识、省级课程
+1722,畜牧业机械化,工程学院,农业机械化及其自动化,curriculum development,normal,normal,,,,,农业机械装备理论知识
+1723,设施园艺机械化,工程学院,农业机械化及其自动化,curriculum development,normal,normal,,,,,农业机械装备理论知识
+1724,农业机器人,工程学院,农业机械化及其自动化,curriculum development,normal,normal,,,,,拓展教育
+1725,电磁场理论,工程学院,电气工程及其自动化,proffessional coure course,normal,normal,,,,,专业核心工程基础
+1726,电力电子技术,工程学院,电气工程及其自动化,proffessional coure course,normal,normal,,,,,专业核心
+1727,电力系统分析,工程学院,电气工程及其自动化,proffessional coure course,normal,normal,,,,,专业核心
+1728,电力系统继电保护,工程学院,电气工程及其自动化,proffessional coure course,normal,normal,,,,,专业核心
+1729,高电压技术 ,工程学院,电气工程及其自动化,curriculum development,normal,normal,,,,,电力系统
+1730,供配电技术,工程学院,电气工程及其自动化,curriculum development,normal,normal,,,,,电力系统
+1731,单片机原理与应用,工程学院,电气工程及其自动化,curriculum development,normal,normal,,,,,拓展教育
+1732,发电厂电气部分,工程学院,电气工程及其自动化,curriculum development,normal,normal,,,,,电力系统
+1733,电力拖动,工程学院,电气工程及其自动化,curriculum development,normal,normal,,,,,电气设备及控制
+1734,智能电网技术,工程学院,电气工程及其自动化,curriculum development,normal,normal,,,,,智慧电网
+1735,新能源发电技术,工程学院,电气工程及其自动化,curriculum development,normal,normal,,,,,智慧电网
+1736,电力市场基础,工程学院,电气工程及其自动化,curriculum development,normal,normal,,,,,智慧电网
+1737,PLC 原理及应用,工程学院,电气工程及其自动化,curriculum development,normal,normal,,,,,电气设备及控制
+1738,电气控制技术,工程学院,电气工程及其自动化,curriculum development,normal,normal,,,,,电气设备及控制
+1739,传感器与检测技术,工程学院,电气工程及其自动化,curriculum development,normal,normal,,,,,拓展教育
+1740,图像处理与分析技术,工程学院,电气工程及其自动化,curriculum development,normal,normal,,,,,计算机应用
+1741,机器视觉与电气应用,工程学院,电气工程及其自动化,curriculum development,normal,normal,,,,,计算机应用
+1742,经济决策类课程,工程学院,电气工程及其自动化,curriculum development,normal,normal,,,,,拓展教育
+1743,计算机网络基础,工程学院,电子信息科学与技术,proffessional coure course,normal,normal,,,,,专业核心
+1744,电磁场理论,工程学院,电子信息科学与技术,proffessional coure course,normal,normal,,,,,专业核心
+1745,信号与系统,工程学院,电子信息科学与技术,proffessional coure course,normal,normal,,,,,专业核心
+1746,数字信号处理,工程学院,电子信息科学与技术,proffessional coure course,normal,normal,,,,,专业核心
+1747,通信原理,工程学院,电子信息科学与技术,proffessional coure course,normal,normal,,,,,专业核心
+1748,单片机原理与应用,工程学院,电子信息科学与技术,proffessional coure course,normal,normal,,,,,专业核心
+1749,农业经济学,工程学院,电子信息科学与技术,curriculum development,normal,normal,,,,,拓展教育
+1750,光电检测技术与系统,工程学院,电子信息科学与技术,curriculum development,normal,normal,,,,,基本理论知识技能方法
+1751,光电图像处理技术,工程学院,电子信息科学与技术,curriculum development,normal,normal,,,,,基本理论知识技能方法
+1752,光纤通信 (双语),工程学院,电子信息科学与技术,curriculum development,normal,normal,,,,,□光纤通信 (双语、基本理论知识技能方法
+1753,光电仪器原理与设计,工程学院,电子信息科学与技术,curriculum development,normal,normal,,,,,基本理论知识技能方法
+1754,机器视觉自动检测技术,工程学院,电子信息科学与技术,curriculum development,normal,normal,,,,,基本理论知识技能方法
+1755,显示技术与虚拟现实,工程学院,电子信息科学与技术,curriculum development,normal,normal,,,,,基本理论知识技能方法
+1756,光纤传感技术,工程学院,电子信息科学与技术,curriculum development,normal,normal,,,,,基本理论知识技能方法
+1757,光电传感器应用技术,工程学院,电子信息科学与技术,curriculum development,normal,normal,,,,,基本理论知识技能方法
+1758,物联网技术导论,工程学院,电子信息科学与技术,curriculum development,normal,normal,,,,,相关专业原理知识
+1759,可编程器件原理与应用,工程学院,电子信息科学与技术,curriculum development,normal,normal,,,,,相关专业原理知识
+1760,传感器与检测技术 ,工程学院,电子信息科学与技术,curriculum development,normal,normal,,,,,基本理论知识技能方法
+1761,嵌入式原理,工程学院,电子信息科学与技术,curriculum development,normal,normal,,,,,计算机科学技术
+1762,智能机器人开发与应用,工程学院,电子信息科学与技术,curriculum development,normal,normal,,,,,拓展教育
+1763,DSP 原理与应用,工程学院,电子信息科学与技术,curriculum development,normal,normal,,,,,拓展教育
+1764,窄带物联网技术及其应用,工程学院,电子信息科学与技术,curriculum development,normal,normal,,,,,相关专业知识
+1765,无线传感网络技术,工程学院,电子信息科学与技术,curriculum development,normal,normal,,,,,相关专业知识
+1766,RFID 射频识别原理与应用,工程学院,电子信息科学与技术,curriculum development,normal,normal,,,,,相关专业知识
+1767,电子信息科学与技术的前沿应用,工程学院,电子信息科学与技术,curriculum development,normal,normal,,,,,理论前沿
+1768,生物医学传感技术,工程学院,电子信息科学与技术,curriculum development,normal,normal,,,,,拓展教育
+1769,生物医学电子学,工程学院,电子信息科学与技术,curriculum development,normal,normal,,,,,拓展教育
+1770,无损检测技术及其应用,工程学院,电子信息科学与技术,curriculum development,normal,normal,,,,,拓展教育
+1771,信息农业系统,工程学院,电子信息科学与技术,curriculum development,normal,normal,,,,,拓展教育
+1772,信号与系统,工程学院,光电信息科学与工程,proffessional coure course,normal,normal,,,,,专业核心
+1773,物理光学,工程学院,光电信息科学与工程,proffessional coure course,normal,normal,,,,,专业核心
+1774,信息光学,工程学院,光电信息科学与工程,proffessional coure course,normal,normal,,,,,专业核心
+1775,工程光学,工程学院,光电信息科学与工程,proffessional coure course,normal,normal,,,,,专业核心
+1776,光电检测技术与系统,工程学院,光电信息科学与工程,proffessional coure course,normal,normal,,,,,专业核心
+1777,光纤通信(双语),工程学院,光电信息科学与工程,proffessional coure course,normal,normal,,,,,专业核心
+1778,通信原理,工程学院,光电信息科学与工程,curriculum development,normal,normal,,,,,数字系统设计
+1779,单片机原理与应用,工程学院,光电信息科学与工程,curriculum development,normal,normal,,,,,设计能力
+1780,激光原理与技术,工程学院,光电信息科学与工程,curriculum development,normal,normal,,,,,拓展教育
+1781,C++面向对象编程程序设计,工程学院,光电信息科学与工程,curriculum development,normal,normal,,,,,拓展教育
+1782,光纤传感技术,工程学院,光电信息科学与工程,curriculum development,normal,normal,,,,,信号采集与处理
+1783,光电仪器原理与设计,工程学院,光电信息科学与工程,curriculum development,normal,normal,,,,,拓展教育
+1784,传感器与检测技术 ,工程学院,光电信息科学与工程,curriculum development,normal,normal,,,,,信号采集与处理
+1785,半导体照明技术,工程学院,光电信息科学与工程,curriculum development,normal,normal,,,,,拓展教育
+1786,智能机器人开发与应用,工程学院,光电信息科学与工程,curriculum development,normal,normal,,,,,拓展教育
+1787,嵌入式原理,工程学院,光电信息科学与工程,curriculum development,normal,normal,,,,,电子系统设计
+1788,RFID 射频识别原理与应用,工程学院,光电信息科学与工程,curriculum development,normal,normal,,,,,拓展教育
+1789,电动力学,工程学院,光电信息科学与工程,curriculum development,normal,normal,,,,,拓展教育
+1790,量子力学,工程学院,光电信息科学与工程,curriculum development,normal,normal,,,,,拓展教育
+1791,光电传感与机器视觉,工程学院,光电信息科学与工程,curriculum development,normal,normal,,,,,拓展教育
+1792,光电信息科学与工程应用前沿,工程学院,光电信息科学与工程,curriculum development,normal,normal,,,,,拓展教育
+1793,信号与系统,工程学院,电子信息工程,proffessional coure course,normal,normal,,,,,专业核心
+1794,物理光学,工程学院,电子信息工程,proffessional coure course,normal,normal,,,,,专业核心
+1795,信息光学,工程学院,电子信息工程,proffessional coure course,normal,normal,,,,,专业核心
+1796,工程光学,工程学院,电子信息工程,proffessional coure course,normal,normal,,,,,专业核心
+1797,光电检测技术与系统,工程学院,电子信息工程,proffessional coure course,normal,normal,,,,,专业核心
+1798,光纤通信(双语),工程学院,电子信息工程,proffessional coure course,normal,normal,,,,,专业核心
+1799,通信原理,工程学院,电子信息工程,curriculum development,normal,normal,,,,,电子信息技术
+1800,单片机原理与应用,工程学院,电子信息工程,curriculum development,normal,normal,,,,,电子信息技术
+1801,激光原理与技术,工程学院,电子信息工程,curriculum development,normal,normal,,,,,拓展教育
+1802,C++面向对象编程程序设计,工程学院,电子信息工程,curriculum development,normal,normal,,,,,计算机应用能力
+1803,光纤传感技术,工程学院,电子信息工程,curriculum development,normal,normal,,,,,光电信息处理
+1804,生物医学传感技术,工程学院,电子信息工程,curriculum development,normal,normal,,,,,光电信息处理
+1805,传感器与检测技术 ,工程学院,电子信息工程,curriculum development,normal,normal,,,,,光电信息处理
+1806,半导体照明技术,工程学院,电子信息工程,curriculum development,normal,normal,,,,,学科前沿与相关知识
+1807,智能机器人开发与应用,工程学院,电子信息工程,curriculum development,normal,normal,,,,,拓展教育
+1808,嵌入式原理,工程学院,电子信息工程,curriculum development,normal,normal,,,,,拓展教育
+1809,RFID 射频识别原理与应用,工程学院,电子信息工程,curriculum development,normal,normal,,,,,拓展教育
+1810,电动力学,工程学院,电子信息工程,curriculum development,normal,normal,,,,,物理基础理论
+1811,量子力学,工程学院,电子信息工程,curriculum development,normal,normal,,,,,物理基础理论
+1812,光电传感与机器视觉,工程学院,电子信息工程,curriculum development,normal,normal,,,,,光电信息处理
+1813,光电信息科学与工程应用前沿,工程学院,电子信息工程,curriculum development,normal,normal,,,,,光电信息处理
+1814,信号与系统,工程学院,电子科学与技术,proffessional coure course,normal,normal,,,,,专业核心
+1815,电磁场与电磁波,工程学院,电子科学与技术,proffessional coure course,normal,normal,,,,,专业核心
+1816,半导体器件物理,工程学院,电子科学与技术,proffessional coure course,normal,normal,,,,,专业核心
+1817,光电子技术,工程学院,电子科学与技术,proffessional coure course,normal,normal,,,,,专业核心
+1818,微电子技术基础 (双语),工程学院,电子科学与技术,proffessional coure course,normal,normal,,,,,专业核心
+1819,数字集成电路设计,工程学院,电子科学与技术,curriculum development,normal,normal,,,,,数字系统设计能力
+1820,微机原理与接口技术,工程学院,电子科学与技术,curriculum development,normal,normal,,,,,设计能力
+1821,应用光学,工程学院,电子科学与技术,curriculum development,normal,normal,,,,,光学系统初步设计
+1822,FPGA 技术及应用,工程学院,电子科学与技术,curriculum development,normal,normal,,,,,设计能力
+1823,射频电路理论与设计,工程学院,电子科学与技术,curriculum development,normal,normal,,,,,电子路线设计
+1824,单片机原理与应用,工程学院,电子科学与技术,curriculum development,normal,normal,,,,,设计能力
+1825,激光原理与技术,工程学院,电子科学与技术,curriculum development,normal,normal,,,,,光学系统初步设计
+1826,数字图像处理,工程学院,电子科学与技术,curriculum development,normal,normal,,,,,数字系统设计
+1827,传感器与检测技术,工程学院,电子科学与技术,curriculum development,normal,normal,,,,,光电信号检测
+1828,电磁兼容原理与应用,材料与能源学院,电子科学与技术,curriculum development,normal,normal,,,,,器件与系统
+1829,光电显示技术,材料与能源学院,电子科学与技术,curriculum development,normal,normal,,,,,光电信号检测
+1830,光电测试技术,材料与能源学院,电子科学与技术,curriculum development,normal,normal,,,,,光电信号检测
+1831,数据库原理与应用,材料与能源学院,电子科学与技术,curriculum development,normal,normal,,,,,微处理器系统及其接口设计能力
+1832,嵌入式原理,材料与能源学院,电子科学与技术,curriculum development,normal,normal,,,,,设计能力
+1833,MEMS 及其应用,材料与能源学院,电子科学与技术,curriculum development,normal,normal,,,,,拓展教育
+1834,模拟 CMOS 集成电路设计,材料与能源学院,电子科学与技术,curriculum development,normal,normal,,,,,电路分析与模拟电子线路设计
+1835,电动力学,材料与能源学院,电子科学与技术,curriculum development,normal,normal,,,,,拓展教育
+1836,材料化学,材料与能源学院,材料化学,proffessional coure course,normal,normal,,,,,专业核心、省级课程
+1837,材料物理,材料与能源学院,材料化学,proffessional coure course,normal,normal,,,,,专业核心
+1838,材料化学前沿,材料与能源学院,材料化学,curriculum development,normal,normal,,,,,专业核心
+1839,材料现代测试技术,材料与能源学院,材料化学,curriculum development,normal,normal,,,,,理论知识及基本实践技能
+1840,无机功能材料,材料与能源学院,材料化学,curriculum development,normal,normal,,,,,专业技能的掌握和运用
+1841,功能高分子材料(双语),材料与能源学院,材料化学,curriculum development,normal,normal,,,,,□功能高分子材料(双语、专业技能的掌握和运用
+1842,无机合成,材料与能源学院,材料化学,curriculum development,normal,normal,,,,,专业基本能力
+1843,有机合成,材料与能源学院,材料化学,curriculum development,normal,normal,,,,,专业基本能力
+1844,化工制图,材料与能源学院,材料化学,curriculum development,normal,normal,,,,,化工理论知识及实践技能
+1845,高分子化学与物理,材料与能源学院,材料化学,curriculum development,normal,normal,,,,,专业技能的掌握和运用
+1846,碳材料科学与技术,材料与能源学院,材料化学,curriculum development,normal,normal,,,,,专业技能的掌握和运用
+1847,化工基础,材料与能源学院,材料化学,curriculum development,normal,normal,,,,,专业技能的掌握和运用
+1848,新能源材料,材料与能源学院,材料化学,curriculum development,normal,normal,,,,,拓展教育
+1849,材料腐蚀与防护,材料与能源学院,材料化学,curriculum development,normal,normal,,,,,拓展教育
+1850,结构化学,材料与能源学院,材料化学,curriculum development,normal,normal,,,,,专业基本能力
+1851,复合材料及其加工,材料与能源学院,材料化学,curriculum development,normal,normal,,,,,拓展教育
+1852,生物基高分子材料 (双语),材料与能源学院,材料化学,curriculum development,normal,normal,,,,,拓展教育
+1853,生物质材料与应用,材料与能源学院,材料化学,curriculum development,normal,normal,,,,,拓展教育
+1854,光催化材料,材料与能源学院,材料化学,curriculum development,normal,normal,,,,,拓展教育
+1855,涂料与胶粘剂,材料与能源学院,材料化学,curriculum development,normal,normal,,,,,拓展教育
+1856,材料科学基础,材料与能源学院,材料科学与工程,proffessional coure course,normal,normal,,,,,专业核心
+1857,材料化学,材料与能源学院,材料科学与工程,proffessional coure course,normal,normal,,,,,专业核心
+1858,材料物理,材料与能源学院,材料科学与工程,proffessional coure course,normal,normal,,,,,专业核心
+1859,材料工艺与设备,材料与能源学院,材料科学与工程,proffessional coure course,normal,normal,,,,,专业核心
+1860,材料现代测试技术,材料与能源学院,材料科学与工程,proffessional coure course,normal,normal,,,,,专业核心
+1861,材料科学与工程前沿,材料与能源学院,材料科学与工程,curriculum development,normal,normal,,,,,材料加工设计知识及技能
+1862,工程制图,材料与能源学院,材料科学与工程,curriculum development,normal,normal,,,,,材料加工设计知识及技能
+1863,化工基础,材料与能源学院,材料科学与工程,curriculum development,normal,normal,,,,,材料加工设计知识及技能
+1864,电工与电子技术,材料与能源学院,材料科学与工程,curriculum development,normal,normal,,,,,材料加工设计知识及技能
+1865,高分子化学与物理,材料与能源学院,材料科学与工程,curriculum development,normal,normal,,,,,材料加工设计知识及技能
+1866,材料设计,材料与能源学院,材料科学与工程,curriculum development,normal,normal,,,,,材料加工设计知识及技能
+1867,材料腐蚀与防护,材料与能源学院,材料科学与工程,curriculum development,normal,normal,,,,,新材料研发生产实践技能
+1868,无机材料加工,材料与能源学院,材料科学与工程,curriculum development,normal,normal,,,,,新材料研发生产实践技能
+1869,复合材料及其加工,材料与能源学院,材料科学与工程,curriculum development,normal,normal,,,,,新材料研发生产实践技能
+1870,功能高分子材料 (双语),材料与能源学院,材料科学与工程,curriculum development,normal,normal,,,,,新材料研发生产实践技能
+1871,生物质材料,材料与能源学院,材料科学与工程,curriculum development,normal,normal,,,,,新材料研发生产实践技能
+1872,光催化材料,材料与能源学院,材料科学与工程,curriculum development,normal,normal,,,,,新材料研发生产实践技能
+1873,涂料与胶粘剂,材料与能源学院,材料科学与工程,curriculum development,normal,normal,,,,,新材料研发生产实践技能
+1874,材料管理,材料与能源学院,材料科学与工程,curriculum development,normal,normal,,,,,企业规划设计与管理
+1875,生物基高分子材料 (双语),材料与能源学院,材料科学与工程,curriculum development,normal,normal,,,,,拓展教育
+1876,光学农业,材料与能源学院,材料科学与工程,curriculum development,normal,normal,,,,,拓展教育
+1877,碳材料科学与技术,材料与能源学院,材料科学与工程,curriculum development,normal,normal,,,,,新材料研发生产实践技能
+1878,光电功能材料,材料与能源学院,材料科学与工程,curriculum development,normal,normal,,,,,新材料研发生产实践技能
+1879,新能源材料,材料与能源学院,材料科学与工程,curriculum development,normal,normal,,,,,新材料研发生产实践技能
+1880,木材学,材料与能源学院,木材科学与工程,proffessional coure course,normal,normal,,,,,专业核心
+1881,家具与室内材料学,材料与能源学院,木材科学与工程,proffessional coure course,normal,normal,,,,,专业核心
+1882,胶合材料学 (双语),材料与能源学院,木材科学与工程,proffessional coure course,normal,normal,,,,,专业核心
+1883,木材干燥学,材料与能源学院,木材科学与工程,proffessional coure course,normal,normal,,,,,专业核心
+1884,木材加工装备学,材料与能源学院,木材科学与工程,proffessional coure course,normal,normal,,,,,专业核心
+1885,家具制造工艺学,材料与能源学院,木材科学与工程,proffessional coure course,normal,normal,,,,,专业核心
+1886,家具表面装饰,材料与能源学院,木材科学与工程,proffessional coure course,normal,normal,,,,,专业核心
+1887,CAD,材料与能源学院,木材科学与工程,curriculum development,normal,normal,,,,,计算机知识与方法
+1888,智能制造基础,材料与能源学院,木材科学与工程,curriculum development,normal,normal,,,,,专业技能掌握与运用
+1889,木材切削原理与刀具,材料与能源学院,木材科学与工程,curriculum development,normal,normal,,,,,木材基本应用能力
+1890,高分子材料导论,材料与能源学院,木材科学与工程,curriculum development,normal,normal,,,,,专业技能掌握与运用
+1891,植物纤维化学,材料与能源学院,木材科学与工程,curriculum development,normal,normal,,,,,专业技能掌握与运用
+1892,室内环境学,材料与能源学院,木材科学与工程,curriculum development,normal,normal,,,,,专业技能掌握与运用
+1893,生物质复合材料加工方法,材料与能源学院,木材科学与工程,curriculum development,normal,normal,,,,,专业技能掌握与运用
+1894,木材科学与工程专业英语,材料与能源学院,木材科学与工程,curriculum development,normal,normal,,,,,专业技能掌握与运用
+1895,木材商品学,材料与能源学院,木材科学与工程,curriculum development,normal,normal,,,,,专业技能掌握与运用
+1896,木结构工程,材料与能源学院,木材科学与工程,curriculum development,normal,normal,,,,,专业技能掌握与运用
+1897,非木质家具设计与制造,材料与能源学院,木材科学与工程,curriculum development,normal,normal,,,,,专业技能掌握与运用
+1898,家具史,材料与能源学院,木材科学与工程,curriculum development,normal,normal,,,,,拓展教育
+1899,家居新材料,材料与能源学院,木材科学与工程,curriculum development,normal,normal,,,,,拓展教育
+1900,能源与环境工程概论,材料与能源学院,能源与环境系统工程,proffessional coure course,normal,normal,,,,,专业核心
+1901,化工原理,材料与能源学院,能源与环境系统工程,proffessional coure course,normal,normal,,,,,专业核心
+1902,太阳能工程,材料与能源学院,能源与环境系统工程,proffessional coure course,normal,normal,,,,,专业核心
+1903,生物质能源工程,材料与能源学院,能源与环境系统工程,proffessional coure course,normal,normal,,,,,专业核心
+1904,能源生物技术,材料与能源学院,能源与环境系统工程,proffessional coure course,normal,normal,,,,,专业核心
+1905,环境工程原理,材料与能源学院,能源与环境系统工程,proffessional coure course,normal,normal,,,,,专业核心
+1906,风能利用工程,材料与能源学院,能源与环境系统工程,curriculum development,normal,normal,,,,,拓展教育
+1907,计算机辅助设计,材料与能源学院,能源与环境系统工程,curriculum development,normal,normal,,,,,工艺设计与制造
+1908,工程流体力学,材料与能源学院,能源与环境系统工程,curriculum development,normal,normal,,,,,基础知识与实践技能
+1909,现代仪器分析,材料与能源学院,能源与环境系统工程,curriculum development,normal,normal,,,,,基础知识与实践技能
+1910,能源材料分析技术,材料与能源学院,能源与环境系统工程,curriculum development,normal,normal,,,,,拓展教育
+1911,生物质化学,材料与能源学院,能源与环境系统工程,curriculum development,normal,normal,,,,,资源利用与环境治理技术
+1912,节能技术,材料与能源学院,能源与环境系统工程,curriculum development,normal,normal,,,,,资源利用与环境治理技术
+1913,燃烧学,材料与能源学院,能源与环境系统工程,curriculum development,normal,normal,,,,,技术理论及实践技能
+1914,沼气工程,材料与能源学院,能源与环境系统工程,curriculum development,normal,normal,,,,,技术理论及实践技能
+1915,生物质加工与辅助设备,材料与能源学院,能源与环境系统工程,curriculum development,normal,normal,,,,,技术理论及实践技能
+1916,储能材料与器件,材料与能源学院,能源与环境系统工程,curriculum development,normal,normal,,,,,技术理论及实践技能
+1917,大气污染控制工程,材料与能源学院,能源与环境系统工程,curriculum development,normal,normal,,,,,资源利用与环境治理技术
+1918,环境工程材料,材料与能源学院,能源与环境系统工程,curriculum development,normal,normal,,,,,资源利用与环境治理技术
+1919,土壤污染与修复,材料与能源学院,能源与环境系统工程,curriculum development,normal,normal,,,,,资源利用与环境治理技术
+1920,生物质催化技术,材料与能源学院,能源与环境系统工程,curriculum development,normal,normal,,,,,资源利用与环境治理技术
+1921,半导体光电功能材料,材料与能源学院,能源与环境系统工程,curriculum development,normal,normal,,,,,拓展教育
+1922,工程经济学,材料与能源学院,能源与环境系统工程,curriculum development,normal,normal,,,,,能源企业管理能力
+1923,工程项目管理,材料与能源学院,能源与环境系统工程,curriculum development,normal,normal,,,,,能源企业管理能力
+1924,物理化学,材料与能源学院,应用化学,proffessional coure course,normal,normal,,,,,专业核心
+1925,化工原理,材料与能源学院,应用化学,proffessional coure course,normal,normal,,,,,专业核心
+1926,现代仪器分析,材料与能源学院,应用化学,proffessional coure course,normal,normal,,,,,专业核心
+1927,化学前沿,材料与能源学院,应用化学,curriculum development,normal,normal,,,,,相关知识
+1928,结构化学,材料与能源学院,应用化学,curriculum development,normal,normal,,,,,基础知识
+1929,有机合成,材料与能源学院,应用化学,curriculum development,normal,normal,,,,,基础知识与技能
+1930,化工制图,材料与能源学院,应用化学,curriculum development,normal,normal,,,,,基础知识与技能
+1931,精细化学品合成,材料与能源学院,应用化学,curriculum development,normal,normal,,,,,基础知识与技能
+1932,天然有机化学,材料与能源学院,应用化学,curriculum development,normal,normal,,,,,基础知识与技能
+1933,环境化学,材料与能源学院,应用化学,curriculum development,normal,normal,,,,,职业技能
+1934,现代波谱分析,材料与能源学院,应用化学,curriculum development,normal,normal,,,,,基础知识与技能
+1935,配位化学,材料与能源学院,应用化学,curriculum development,normal,normal,,,,,专业技能
+1936,涂料化学,材料与能源学院,应用化学,curriculum development,normal,normal,,,,,专业技能
+1937,现代生化分析,材料与能源学院,应用化学,curriculum development,normal,normal,,,,,拓展教育
+1938,应用电化学,材料与能源学院,应用化学,curriculum development,normal,normal,,,,,拓展教育
+1939,化工设计,材料与能源学院,应用化学,curriculum development,normal,normal,,,,,设计精细化学品生产工艺
+1940,计算化学,材料与能源学院,应用化学,curriculum development,normal,normal,,,,,拓展教育
+1941,高分子化学 (双语),材料与能源学院,应用化学,curriculum development,normal,normal,,,,,高分子材料知识掌握
+1942,制药工程前沿,材料与能源学院,制药工程,proffessional coure course,normal,normal,,,,,专业核心
+1943,药物化学,材料与能源学院,制药工程,proffessional coure course,normal,normal,,,,,专业核心
+1944,药理学,材料与能源学院,制药工程,proffessional coure course,normal,normal,,,,,专业核心
+1945,药剂学,材料与能源学院,制药工程,proffessional coure course,normal,normal,,,,,专业核心
+1946,化工原理,材料与能源学院,制药工程,proffessional coure course,normal,normal,,,,,专业核心
+1947,药事管理学,材料与能源学院,制药工程,curriculum development,normal,normal,,,,,制药工程
+1948,医药生物材料学 (双语),材料与能源学院,制药工程,curriculum development,normal,normal,,,,,制药工程
+1949,微生物工程,材料与能源学院,制药工程,curriculum development,normal,normal,,,,,制药工程
+1950,药品生产质量管理工程,材料与能源学院,制药工程,curriculum development,normal,normal,,,,,制药工程
+1951,制药设备与工艺设计,材料与能源学院,制药工程,curriculum development,normal,normal,,,,,制药工程
+1952,制药工艺学,材料与能源学院,制药工程,curriculum development,normal,normal,,,,,制药工程
+1953,微生物学,材料与能源学院,制药工程,curriculum development,normal,normal,,,,,生物制药
+1954,药物毒理学,材料与能源学院,制药工程,curriculum development,normal,normal,,,,,生物制药
+1955,天然药物化学 (双语),材料与能源学院,制药工程,curriculum development,normal,normal,,,,,生物制药
+1956,生物技术制药,材料与能源学院,制药工程,curriculum development,normal,normal,,,,,化学制药与分析
+1957,海洋生物制药,材料与能源学院,制药工程,curriculum development,normal,normal,,,,,化学制药与分析
+1958,生物药剂学与药代动力学,材料与能源学院,制药工程,curriculum development,normal,normal,,,,,化学制药与分析
+1959,仪器分析,材料与能源学院,制药工程,curriculum development,normal,normal,,,,,化学制药与分析
+1960,药物分析,材料与能源学院,制药工程,curriculum development,normal,normal,,,,,化学制药与分析
+1961,药物合成单元反应,材料与能源学院,制药工程,curriculum development,normal,normal,,,,,化学制药与分析
+1962,有机合成路线设计导论,材料与能源学院,制药工程,curriculum development,normal,normal,,,,,化学制药与分析
+1963,医药商品学,材料与能源学院,制药工程,curriculum development,normal,normal,,,,,化学制药与分析
+1964,工程制图,材料与能源学院, 家具设计与工程 (索菲亚班),proffessional coure course,normal,normal,,,,,专业核心
+1965,素描,材料与能源学院, 家具设计与工程 (索菲亚班),proffessional coure course,normal,normal,,,,,专业核心
+1966,色彩,材料与能源学院, 家具设计与工程 (索菲亚班),proffessional coure course,national level,normal,,,,,专业核心，国家级课程
+1967,家具制图,材料与能源学院, 家具设计与工程 (索菲亚班),proffessional coure course,normal,normal,,,,,专业核心
+1968,工程力学,材料与能源学院, 家具设计与工程 (索菲亚班),proffessional coure course,normal,normal,,,,,专业核心
+1969,家具史,材料与能源学院, 家具设计与工程 (索菲亚班),proffessional coure course,normal,normal,,,,,专业核心
+1970,家具与室内材料学,材料与能源学院, 家具设计与工程 (索菲亚班),proffessional coure course,normal,normal,,,,,专业核心
+1971,木材学,材料与能源学院, 家具设计与工程 (索菲亚班),proffessional coure course,normal,normal,,,,,专业核心
+1972,智能制造基础,材料与能源学院, 家具设计与工程 (索菲亚班),proffessional coure course,normal,normal,,,,,专业核心
+1973,造型设计基础,材料与能源学院, 家具设计与工程 (索菲亚班),proffessional coure course,normal,normal,,,,,专业核心
+1974,人体工程学,材料与能源学院, 家具设计与工程 (索菲亚班),proffessional coure course,normal,normal,,,,,专业核心
+1975,家具设计,材料与能源学院, 家具设计与工程 (索菲亚班),proffessional coure course,normal,normal,,,,,专业核心
+1976,家具加工装备学,材料与能源学院, 家具设计与工程 (索菲亚班),proffessional coure course,normal,normal,,,,,专业核心
+1977,家具制造工艺学,材料与能源学院, 家具设计与工程 (索菲亚班),proffessional coure course,normal,normal,,,,,专业核心
+1978,家具结构设计,材料与能源学院, 家具设计与工程 (索菲亚班),proffessional coure course,normal,normal,,,,,专业核心
+1979,数字化设计技术,材料与能源学院, 家具设计与工程 (索菲亚班),curriculum development,normal,normal,,,,,家具设计与制造的方法
+1980,设计表现技法,材料与能源学院, 家具设计与工程 (索菲亚班),curriculum development,normal,normal,,,,,拓展教育
+1981,智能设计技术,材料与能源学院, 家具设计与工程 (索菲亚班),curriculum development,normal,normal,,,,,拓展教育
+1982,数控技术与编程,材料与能源学院, 家具设计与工程 (索菲亚班),curriculum development,normal,normal,,,,,拓展教育
+1983,木材干燥学,材料与能源学院, 家具设计与工程 (索菲亚班),curriculum development,normal,normal,,,,,木制材料基础知识
+1984,企业管理,材料与能源学院, 家具设计与工程 (索菲亚班),curriculum development,normal,normal,,,,,拓展教育
+1985,室内设计原理,材料与能源学院, 家具设计与工程 (索菲亚班),curriculum development,normal,normal,,,,,设计与制造
+1986,家具系统设计,材料与能源学院, 家具设计与工程 (索菲亚班),curriculum development,normal,normal,,,,,设计与制造
+1987,家具表面装饰,材料与能源学院, 家具设计与工程 (索菲亚班),curriculum development,normal,normal,,,,,设计与制造
+1988,家具定制技术,材料与能源学院, 家具设计与工程 (索菲亚班),curriculum development,normal,normal,,,,,设计与制造
+1989,家居新材料,材料与能源学院, 家具设计与工程 (索菲亚班),curriculum development,normal,normal,,,,,家具用材
+1990,软装设计,材料与能源学院, 家具设计与工程 (索菲亚班),curriculum development,normal,normal,,,,,拓展教育
+1991,市场营销学,材料与能源学院, 家具设计与工程 (索菲亚班),curriculum development,normal,normal,,,,,生产与营销
+1992,非木质家具设计与制造,材料与能源学院, 家具设计与工程 (索菲亚班),curriculum development,normal,normal,,,,,设计与制造
+1993,办公家具设计,材料与能源学院, 家具设计与工程 (索菲亚班),curriculum development,normal,normal,,,,,设计与制造
+1994,工业工程,材料与能源学院, 家具设计与工程 (索菲亚班),curriculum development,normal,normal,,,,,工程技术能力
+1995,家具质量评价,材料与能源学院, 家具设计与工程 (索菲亚班),curriculum development,normal,normal,,,,,拓展教育
+1996,人力资源管理,材料与能源学院, 家具设计与工程 (索菲亚班),curriculum development,normal,normal,,,,,生产与营销
+1997,物流管理,材料与能源学院, 家具设计与工程 (索菲亚班),curriculum development,normal,normal,,,,,生产与营销
+1998,电子商务概论,材料与能源学院, 家具设计与工程 (索菲亚班),curriculum development,normal,normal,,,,,生产与营销
+1999,经济学原理,材料与能源学院, 家具设计与工程 (索菲亚班),curriculum development,normal,normal,,,,,生产与营销
+2000,数字图像处理,材料与能源学院, 家具设计与工程 (索菲亚班),curriculum development,normal,normal,,,,,拓展教育
+2001,广告设计,材料与能源学院, 家具设计与工程 (索菲亚班),curriculum development,normal,normal,,,,,拓展教育

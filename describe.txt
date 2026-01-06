@@ -1,0 +1,2 @@
+interaction.txt records the connections between users and each course; Column 1 represents the user, while the remaining columns represent the courses. student-friend.txt records the connections between users; Column 1 represents the primary user, and the current row indicates the other users associated with this primary user.
+map-relation.csv and map-table.csv records the mapping relationships of the courses and the available relation labels.
